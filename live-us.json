@@ -181,6 +181,24 @@
   },
   {
     "home_team": {
+      "name": "Criollos de Caguas",
+      "short_name": "CDC",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/9gEhtouVMCQnb728yvEnA8zEgSnkQyUsZ1Jo3GgmYHVgks9y7gEBizKuEdNpJxo7F3rhCiNSE62cw1Aj2nhkqfbXN2FQfwLYUL6QbxBSyuzvN1UcRYovwpcy1W6Pmx4DjfVC4Mo1byEx"
+    },
+    "away_team": {
+      "name": "Vaqueros De Bayamon",
+      "short_name": "VDB",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/An1pTe2nmhym1w7oXFECeSQrwBXKj3uB9rGw14ViLarBTRhbDtQFjyrmkR7G68VvLFn2HtybpNhwpNFYad1YPfnHcNdnuMbkuok6jrbwU1QKLyCcPNqDHAWyZuXDJ9evJu8zCQHV5YP8"
+    },
+    "start_time": "2026-08-06T00:00:00.000Z",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.HD.us2",
+    "id": "4781353",
+    "type": "NBA",
+    "type_url": "https://api.watchfooty.st/api/v1/league-logo/8jip2WZvcXMXt5Uimj1JDJfGYnrTUfjgaujTseNhn6qAPkKzz7zLWGMABt5FnzPm6Wnf3qdhdV6hr9ZhXEFJgMnKaWkK4vCf2RvYkDFikyznALR2JKu9MS7G8LSXrpyFBkjaz6rzZRwHvSBLnbxvinRQ6p3ZU4xuTRwu489QGx6YSgNjGhE9pXtFzPhVEnrSQ5UBVWn7HKXMM1A4gVY"
+  },
+  {
+    "home_team": {
       "name": "Mineros de Zacatecas",
       "short_name": "MDZ",
       "icon_url": "https://api.watchfooty.st/api/v1/team-logo/8SUhqxbriUQghhaFap8ooPfy6fb1vUcMSbeKz8hvHe8k3ixTPZeknympi1vCyjmuKifkhnGyifd9iY5LSneESTshKV59RjyoDjiJU1etwRvbKL2KWBAc8CjB59f8eamKnReKb4zWko1b"
@@ -304,24 +322,6 @@
     "id": "4707848",
     "type": "NBA",
     "type_url": "https://api.watchfooty.st/api/v1/league-logo/2PTSLSE4y8QDysfEo6xTxf4MeHjFzVxeepR7Dn3Ye1u3syCUrVmNWSWMUBBMtgNiLFLSUrFPXaunpfwiqYGxeNjQHC9kzwEFQPEYHPTRN32mK3BoPF2WqNGRZgwYV8TegmqGg9CXKeH97KzDny3nYathyHwTVtzU7a2jGXkX7GRT4nRhGARQ75gFxRYq7MB"
-  },
-  {
-    "home_team": {
-      "name": "Lobos Plateados",
-      "short_name": "LP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/8eQE5Z1Zd8x3b5mk99w7PeX22HSCHo6djYFiWcTD9n4AkZBHVNw4md3PiD7zzyAGUQ5parH6Aoject8tU9wSAn6G3v9PPb9W3JTH7ud76Pf91kf7G2BmHEnhym3hqKaB1bTJKeQ4nQXA"
-    },
-    "away_team": {
-      "name": "Soles De Mexicali",
-      "short_name": "SDM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2eqGVBdabj6J9DVTeuM4mLP9sSzKo93hRxbdi4fM9P5kbcvpz6uvyY8ecaxn7XXKr27w6m4J9pTHz45yFiKF7KJUcPw1U6RRHDYJWiTHvxRr3NASToWAnMKrW2YeVdKXGSi3fiNoKvi"
-    },
-    "start_time": "2026-08-07T02:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.HD.us2",
-    "id": "4708854",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2PFesdCUWnB4nLU1H5a9Wfee2iJ1iB5na49PGoub3WgMF6NJz5XEpVZ9Vi5xDeue2KX4ciN9fptPdo9bnjqK9C9deczWFgtXXEcgQmMtGFFw2QbUpBnnJNwcT4WSY7SDEGJPyZE7jSBfPsEsjLsJF1FKzLY7FcHmsSFu8nur6H4b9m63vRHiGsx2s8R2rXy"
   },
   {
     "home_team": {
