@@ -1,0 +1,20 @@
+[
+  {
+    home_team: {
+      name: '主队名字'，
+      short_name: '简称'，
+    icon_url: '图片地址'
+  },
+    away_team: {
+      name: '客队名字'，
+      short_name: '简称'，
+    icon_url: '图片地址'
+  },
+  start_time: '时间戳',
+  live_subscription_id: '订阅源id'，
+  live_channel_id: '频道id',
+  id: '自动生成',
+  type: '比赛类型，用简称，比如MLB，NFL',
+  type_url: '类型的icon'
+  }
+]
