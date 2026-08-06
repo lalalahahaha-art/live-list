@@ -52,5 +52,59 @@
     "id": "1548210",
     "type": "CRICKET",
     "type_url": "https://api.watchfooty.st/api/v1/league-logo/2HX2x9pJ9CHkBSrxr5NBEvVP6m8WqVYT1VjfbP6HyshsfkLbwzTkWgAPxoxS83BALGByMwjtEM2aaowPsHbP15dvLmxwegn7tsKtg8pakLgy3W6UfcUz4zs7EjpWfanS7YiF17eUr7d97P5UspU3VbuBaW8XK6AMJNVQTryznLA5G5MfyyyLyRF6pindv6vwKmniwCuKjhwP2xvtMaFoCsWtNKYn7zFVKzieMoJg"
+  },
+  {
+    "home_team": {
+      "name": "SC Delhi",
+      "short_name": "SD",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5hqRAYwtbbh1uCd1EMjSkuvmtrNM5mb5iwN3aeienHCMcgJmgPpb4HogBm2dN9SkQakYj9CijdS9ucJ4y2TjaNa6W6d7Nu6mDoUJUkFM6MPyhMvCTqNQRjmS5MZ4rtCMfGEEipQ1"
+    },
+    "away_team": {
+      "name": "Defenders FC",
+      "short_name": "DF",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/78eVLHFvrhhpEK2hzU4ehuUjHTxYXEx7F8ZW7R7XHi4SQjxBU8DzsTWbrHSeGBUcEvweiCnTu3ztUt8SzK5FbJt7L1FBYnYushGCGpH8u6Qmj6LbmYi8oyAcKe9vk9VLrxBc7pNx"
+    },
+    "start_time": "2026-08-07T10:30:00.000Z",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsSelect1.in~40HD",
+    "id": "5897878",
+    "type": "FOOTBALL",
+    "type_url": "https://api.watchfooty.st/api/v1/league-logo/jYR6HxZQpcbDcAUbPjTbCFsbs3qnYygFufpgawf4e3UdDc37WqxUpT23Pxrd2sEam7761rU6AhQZFVKTWwWYhdipopEDu5KcmuqcKwN3MAYgAKRtpqCZavbbmgBeiEL2F4LSD1HYjQFhkiL9HLuStfVhiMZd8paN4QGezvfxg4J"
+  },
+  {
+    "home_team": {
+      "name": "East Bengal FC",
+      "short_name": "EBF",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2Lp5tr9ZfNNsjRwqPdw7bsB8D8PMcXgQHm7a5T1vuyaxWGXu1S6SXnkRGtKQgWuzeepQPxBXfxSacqMv5miVigNq7UNU3jUzZamUdqfHEwVvpezGkxY9VgSHReGGraTqzx38Jtq"
+    },
+    "away_team": {
+      "name": "South United",
+      "short_name": "SU",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6qtGcngABD44ubdCLerqTKUAEyNJer9GSSSU8kpjt9qY1ap4CgDqY6cTNo6zLYWMF8GpMotkZdBKKpGtnxHZobewnnwwfwk1ZqjrgoXpdUSXXqMrVJHukucRiBkUmmBTkXVwUaGs"
+    },
+    "start_time": "2026-08-07T13:30:00.000Z",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsSelect1.in~40HD",
+    "id": "5897859",
+    "type": "FOOTBALL",
+    "type_url": "https://api.watchfooty.st/api/v1/league-logo/cMH3ihrC3PckjGZqnDAQ2MetM2CBJNBBRWhNzWBeuZP3pAuChybUAjahYuQw2MREbS7f8tUJAwQtja2aNdnq5biBs6NAJz4Hq4bxEmuQCEMQ2xysTjKE9ToFDwFLNUPv13jLfZdYQyYboX7wmRTNxkzHQGhLW41VgWp4GznxkoJ"
+  },
+  {
+    "home_team": {
+      "name": "Nongkseh SS&CC",
+      "short_name": "NS",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5uLncKBeu6B53NCPTi9XQsCFyarWEqUAw5kkh8x6LP2WCvsHs7GDBD3esVz81snrySNzYQFXMgMabajXa5CGSpcaTqSsbeb5yRcTtA7Y63ox2BTFDoHDvk1or8LNkDEsMQLRnKvd"
+    },
+    "away_team": {
+      "name": "Langsning",
+      "short_name": "LAN",
+      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/7QvvWZ2fj1p7tXHHSAuQSPkaktpoQ1X3BnMZ4cDx66cqDKvXAyfzXMXD4gD9HvToRdFt4pvX3sLRB6fi89tgozy5Pe4FucRh47rHn2Dyt4jbyaADSzoTsdr2i6cp8Cb33woUFACr"
+    },
+    "start_time": "2026-08-06T13:30:00.000Z",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsSelect1.in~40HD",
+    "id": "5897892",
+    "type": "FOOTBALL",
+    "type_url": "https://api.watchfooty.st/api/v1/league-logo/tYscQBxi4oX8KUhGazUsoZECsKoWnMM8uRJkb5vPujdNNnmL67FwU7kZ47VM8N3C8K9iqM73B3HvUrrfVVyshHMrzfrocnddP3pp1s4qMmKokXoZ3P4azKi8mF9M9K6YFpKYHUph29fDbFGoNR483jn2yXPDJVcEsUgM1QenyvZ"
   }
 ]
