@@ -291,25 +291,25 @@
     "home_team": {
       "name": "SC Cambuur-Leeuwarden",
       "short_name": "SC",
-      "icon_url": "https://crests.football-data.org/1909.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
     },
     "away_team": {
       "name": "SBV Excelsior",
       "short_name": "SE",
-      "icon_url": "https://crests.football-data.org/670.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
     },
     "start_time": "2026-08-08T02:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "aa805c32-b527-4390-8197-58c9b0cb7eff",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
   },
   {
     "home_team": {
       "name": "GD Estoril Praia",
       "short_name": "GEP",
-      "icon_url": "https://crests.football-data.org/582.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png"
     },
     "away_team": {
       "name": "FC Famalicão",
@@ -321,25 +321,25 @@
     "live_channel_id": "380",
     "id": "4d826612-6e1e-4c2a-88dc-6d2873560777",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png"
   },
   {
     "home_team": {
       "name": "NEC",
       "short_name": "NEC",
-      "icon_url": "https://crests.football-data.org/1915.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
     },
     "away_team": {
       "name": "Telstar 1963",
       "short_name": "T",
-      "icon_url": "https://crests.football-data.org/1912.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
     },
     "start_time": "2026-08-08T22:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "be7983b5-9a3d-4725-a095-4db21791d6e9",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
   },
   {
     "home_team": {
@@ -350,32 +350,32 @@
     "away_team": {
       "name": "Casa Pia AC",
       "short_name": "CPA",
-      "icon_url": "https://crests.football-data.org/6618.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png"
     },
     "start_time": "2026-08-08T22:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "380",
     "id": "55ba4fbd-61b4-474a-b219-81117091737d",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png"
   },
   {
     "home_team": {
       "name": "Go Ahead Eagles",
       "short_name": "GAE",
-      "icon_url": "https://crests.football-data.org/718.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png"
     },
     "away_team": {
       "name": "Willem II Tilburg",
       "short_name": "WIT",
-      "icon_url": "https://crests.football-data.org/672.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
     },
     "start_time": "2026-08-09T00:45:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "6e7d7e30-599d-41ce-9e8e-bf1ef743e831",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
   },
   {
     "home_team": {
@@ -386,49 +386,49 @@
     "away_team": {
       "name": "FC Arouca",
       "short_name": "FA",
-      "icon_url": "https://crests.football-data.org/712.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png"
     },
     "start_time": "2026-08-09T01:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "380",
     "id": "e87772f4-a470-4c41-a5e0-c77b5c07d395",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png"
   },
   {
     "home_team": {
       "name": "PSV",
       "short_name": "PSV",
-      "icon_url": "https://crests.football-data.org/674.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
     },
     "away_team": {
       "name": "Fortuna Sittard",
       "short_name": "FS",
-      "icon_url": "https://crests.football-data.org/1920.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
     },
     "start_time": "2026-08-09T02:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
   },
   {
     "home_team": {
       "name": "AZ",
       "short_name": "AZ",
-      "icon_url": "https://crests.football-data.org/682.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
     },
     "away_team": {
       "name": "ADO Den Haag",
       "short_name": "ADH",
-      "icon_url": "https://crests.football-data.org/680.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
     },
     "start_time": "2026-08-09T03:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "c695c76b-7818-4b97-9d2d-7a2dfdba3e86",
     "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png"
   }
 ]
