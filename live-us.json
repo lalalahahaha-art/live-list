@@ -30,7 +30,7 @@
     },
     "start_time": "2026-08-08T06:40:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "759",
+    "live_channel_id": "406",
     "id": "401816429",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -142,24 +142,6 @@
     "id": "401816437",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
-  },
-  {
-    "home_team": {
-      "name": "Portland Fire",
-      "short_name": "PF",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
-    },
-    "away_team": {
-      "name": "Toronto Tempo",
-      "short_name": "TT",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
-    },
-    "start_time": "2026-08-07T10:00:00.000+08:00",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "401857121",
-    "type": "NBA",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png"
   },
   {
     "home_team": {
@@ -286,5 +268,167 @@
     "id": "401857128",
     "type": "NBA",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png"
+  },
+  {
+    "home_team": {
+      "name": "Minnesota Lynx",
+      "short_name": "ML",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
+    },
+    "away_team": {
+      "name": "Dallas Wings",
+      "short_name": "DW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
+    },
+    "start_time": "2026-08-10T03:30:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "53",
+    "id": "401857130",
+    "type": "NBA",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png"
+  },
+  {
+    "home_team": {
+      "name": "SC Cambuur-Leeuwarden",
+      "short_name": "SC",
+      "icon_url": "https://crests.football-data.org/1909.png"
+    },
+    "away_team": {
+      "name": "SBV Excelsior",
+      "short_name": "SE",
+      "icon_url": "https://crests.football-data.org/670.png"
+    },
+    "start_time": "2026-08-08T02:00:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "aa805c32-b527-4390-8197-58c9b0cb7eff",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/DED.png"
+  },
+  {
+    "home_team": {
+      "name": "GD Estoril Praia",
+      "short_name": "GEP",
+      "icon_url": "https://crests.football-data.org/582.png"
+    },
+    "away_team": {
+      "name": "FC Famalicão",
+      "short_name": "FF",
+      "icon_url": "https://crests.football-data.org/5531.png"
+    },
+    "start_time": "2026-08-08T03:15:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "380",
+    "id": "4d826612-6e1e-4c2a-88dc-6d2873560777",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/PPL.png"
+  },
+  {
+    "home_team": {
+      "name": "NEC",
+      "short_name": "NEC",
+      "icon_url": "https://crests.football-data.org/1915.png"
+    },
+    "away_team": {
+      "name": "Telstar 1963",
+      "short_name": "T",
+      "icon_url": "https://crests.football-data.org/1912.png"
+    },
+    "start_time": "2026-08-08T22:30:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "be7983b5-9a3d-4725-a095-4db21791d6e9",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/DED.png"
+  },
+  {
+    "home_team": {
+      "name": "CS Marítimo",
+      "short_name": "CM",
+      "icon_url": "https://crests.football-data.org/5575.png"
+    },
+    "away_team": {
+      "name": "Casa Pia AC",
+      "short_name": "CPA",
+      "icon_url": "https://crests.football-data.org/6618.png"
+    },
+    "start_time": "2026-08-08T22:30:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "380",
+    "id": "55ba4fbd-61b4-474a-b219-81117091737d",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/PPL.png"
+  },
+  {
+    "home_team": {
+      "name": "Go Ahead Eagles",
+      "short_name": "GAE",
+      "icon_url": "https://crests.football-data.org/718.png"
+    },
+    "away_team": {
+      "name": "Willem II Tilburg",
+      "short_name": "WIT",
+      "icon_url": "https://crests.football-data.org/672.png"
+    },
+    "start_time": "2026-08-09T00:45:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "6e7d7e30-599d-41ce-9e8e-bf1ef743e831",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/DED.png"
+  },
+  {
+    "home_team": {
+      "name": "Vitória SC",
+      "short_name": "VS",
+      "icon_url": "https://crests.football-data.org/5543.png"
+    },
+    "away_team": {
+      "name": "FC Arouca",
+      "short_name": "FA",
+      "icon_url": "https://crests.football-data.org/712.png"
+    },
+    "start_time": "2026-08-09T01:00:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "380",
+    "id": "e87772f4-a470-4c41-a5e0-c77b5c07d395",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/PPL.png"
+  },
+  {
+    "home_team": {
+      "name": "PSV",
+      "short_name": "PSV",
+      "icon_url": "https://crests.football-data.org/674.png"
+    },
+    "away_team": {
+      "name": "Fortuna Sittard",
+      "short_name": "FS",
+      "icon_url": "https://crests.football-data.org/1920.png"
+    },
+    "start_time": "2026-08-09T02:00:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/DED.png"
+  },
+  {
+    "home_team": {
+      "name": "AZ",
+      "short_name": "AZ",
+      "icon_url": "https://crests.football-data.org/682.png"
+    },
+    "away_team": {
+      "name": "ADO Den Haag",
+      "short_name": "ADH",
+      "icon_url": "https://crests.football-data.org/680.png"
+    },
+    "start_time": "2026-08-09T03:00:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "c695c76b-7818-4b97-9d2d-7a2dfdba3e86",
+    "type": "FOOTBALL",
+    "type_url": "https://crests.football-data.org/DED.png"
   }
 ]
