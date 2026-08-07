@@ -21,7 +21,7 @@
     "live_channel_region": "us",
     "id": "401811961",
     "type": "golf",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-golf.png",
     "verification": {
       "broadcaster": "Golf Chnl",
       "forward": true,
@@ -51,7 +51,7 @@
     "live_channel_region": "us",
     "id": "401816428",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "WPIX",
       "forward": true,
@@ -81,7 +81,7 @@
     "live_channel_region": "ca",
     "id": "401816429",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Sportsnet",
       "forward": true,
@@ -111,7 +111,7 @@
     "live_channel_region": "us",
     "id": "401816426",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "YES",
       "forward": true,
@@ -141,7 +141,7 @@
     "live_channel_region": "us",
     "id": "401816425",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "NESN",
       "forward": true,
@@ -171,7 +171,7 @@
     "live_channel_region": "us",
     "id": "401816431",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Marquee Sports Net",
       "forward": true,
@@ -201,7 +201,7 @@
     "live_channel_region": "us",
     "id": "401816436",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Space City Home Network",
       "forward": true,
@@ -231,7 +231,7 @@
     "live_channel_region": "us",
     "id": "401816437",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "SportsNet LA",
       "forward": true,
@@ -261,7 +261,7 @@
     "live_channel_region": "us",
     "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -291,7 +291,7 @@
     "live_channel_region": "us",
     "id": "401816441",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "YES",
       "forward": true,
@@ -321,7 +321,7 @@
     "live_channel_region": "us",
     "id": "c11dad3e-a20e-4a9b-b229-ac5e6c56c310",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -351,7 +351,7 @@
     "live_channel_region": "us",
     "id": "401816440",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "NESN",
       "forward": true,
@@ -381,7 +381,7 @@
     "live_channel_region": "ca",
     "id": "bc4a3c16-14be-4edf-8151-d9da4027531e",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mls.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "TSN",
       "forward": true,
@@ -411,7 +411,7 @@
     "live_channel_region": "ca",
     "id": "401816444",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Sportsnet",
       "forward": true,
@@ -441,7 +441,7 @@
     "live_channel_region": "us",
     "id": "401816446",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Marquee Sports Net",
       "forward": true,
@@ -471,7 +471,7 @@
     "live_channel_region": "us",
     "id": "401816451",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Space City Home Network",
       "forward": true,
@@ -501,7 +501,7 @@
     "live_channel_region": "us",
     "id": "401816452",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "SportsNet LA",
       "forward": true,
@@ -531,7 +531,7 @@
     "live_channel_region": "us",
     "id": "401857127",
     "type": "basketball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
     "verification": {
       "broadcaster": "NBA TV",
       "forward": true,
@@ -561,7 +561,7 @@
     "live_channel_region": "us",
     "id": "401863596",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "FS1",
       "forward": true,
@@ -591,7 +591,7 @@
     "live_channel_region": "us",
     "id": "401863599",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "FS1",
       "forward": true,
@@ -621,7 +621,7 @@
     "live_channel_region": "us",
     "id": "14c9dfc9-e207-4c8d-9eff-c7f8f0d35ff8",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -651,7 +651,7 @@
     "live_channel_region": "us",
     "id": "448c97fd-427a-4688-b258-d72b795ca97a",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -681,7 +681,7 @@
     "live_channel_region": "us",
     "id": "345fefb6-b730-4e0c-9b06-9d658ac92910",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -711,7 +711,7 @@
     "live_channel_region": "us",
     "id": "8463e9bb-84b9-4761-8e3a-1fbd4af104b2",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -741,7 +741,7 @@
     "live_channel_region": "us",
     "id": "31675987-ec4c-4250-bd5e-834abd4ecca1",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -771,7 +771,7 @@
     "live_channel_region": "us",
     "id": "401816455",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "NESN",
       "forward": true,
@@ -801,7 +801,7 @@
     "live_channel_region": "us",
     "id": "401816456",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "YES",
       "forward": true,
@@ -831,7 +831,7 @@
     "live_channel_region": "ca",
     "id": "401816459",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Sportsnet",
       "forward": true,
@@ -861,7 +861,7 @@
     "live_channel_region": "us",
     "id": "401816461",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Marquee Sports Net",
       "forward": true,
@@ -891,7 +891,7 @@
     "live_channel_region": "us",
     "id": "401816460",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "MASN",
       "forward": true,
@@ -921,7 +921,7 @@
     "live_channel_region": "us",
     "id": "202608090746",
     "type": "nascar",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-NASCAR.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png",
     "verification": {
       "broadcaster": "USA Net",
       "forward": true,
@@ -951,7 +951,7 @@
     "live_channel_region": "us",
     "id": "4957d2c9-f20b-4820-be5a-06c8586cf4a4",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -981,7 +981,7 @@
     "live_channel_region": "us",
     "id": "401816467",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "SportsNet LA",
       "forward": true,
@@ -1011,7 +1011,7 @@
     "live_channel_region": "us",
     "id": "401857131",
     "type": "basketball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
     "verification": {
       "broadcaster": "ESPN",
       "forward": true,
@@ -1041,7 +1041,7 @@
     "live_channel_region": "us",
     "id": "401863597",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "FS1",
       "forward": true,
@@ -1071,7 +1071,7 @@
     "live_channel_region": "us",
     "id": "401863604",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "FS1",
       "forward": true,
