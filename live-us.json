@@ -10,7 +10,7 @@
       "short_name": "CWS",
       "icon_url": ""
     },
-    "start_time": "2026-08-06T23:10Z",
+    "start_time": "2026-08-07T07:10:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "762",
     "id": "401816416",
@@ -28,7 +28,7 @@
       "short_name": "NYM",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T22:40Z",
+    "start_time": "2026-08-08T06:40:00.000+08:00",
     "live_subscription_id": "garysclub",
     "live_channel_id": "WPIX-DT.us_locals1",
     "id": "401816428",
@@ -46,7 +46,7 @@
       "short_name": "TBJ",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T22:40Z",
+    "start_time": "2026-08-08T06:40:00.000+08:00",
     "live_subscription_id": "garysclub",
     "live_channel_id": "CA1400003R3",
     "id": "401816429",
@@ -64,7 +64,7 @@
       "short_name": "AB",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T23:05Z",
+    "start_time": "2026-08-08T07:05:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "763",
     "id": "401816426",
@@ -82,7 +82,7 @@
       "short_name": "ATH",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T23:10Z",
+    "start_time": "2026-08-08T07:10:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "762",
     "id": "401816425",
@@ -100,7 +100,7 @@
       "short_name": "BO",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T00:15Z",
+    "start_time": "2026-08-08T08:15:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "923",
     "id": "401816430",
@@ -118,7 +118,7 @@
       "short_name": "HA",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T01:40Z",
+    "start_time": "2026-08-08T09:40:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "921",
     "id": "401816436",
@@ -136,7 +136,7 @@
       "short_name": "LAD",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T01:40Z",
+    "start_time": "2026-08-08T09:40:00.000+08:00",
     "live_subscription_id": "garysclub",
     "live_channel_id": "CA1400003R3",
     "id": "401816437",
@@ -154,7 +154,7 @@
       "short_name": "TT",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T02:00Z",
+    "start_time": "2026-08-07T10:00:00.000+08:00",
     "live_subscription_id": "garysclub",
     "live_channel_id": "CA1400003R3",
     "id": "401857121",
@@ -172,7 +172,7 @@
       "short_name": "PM",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T23:30Z",
+    "start_time": "2026-08-08T07:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "325",
     "id": "401857122",
@@ -190,7 +190,7 @@
       "short_name": "AD",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T23:30Z",
+    "start_time": "2026-08-08T07:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "325",
     "id": "401857123",
@@ -208,7 +208,7 @@
       "short_name": "GSV",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T01:30Z",
+    "start_time": "2026-08-08T09:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "325",
     "id": "401857124",
@@ -226,7 +226,7 @@
       "short_name": "LVA",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T17:00Z",
+    "start_time": "2026-08-09T01:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "52",
     "id": "401857125",
@@ -244,7 +244,7 @@
       "short_name": "IF",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T19:30Z",
+    "start_time": "2026-08-09T03:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "51",
     "id": "401857126",
@@ -262,7 +262,7 @@
       "short_name": "SS",
       "icon_url": ""
     },
-    "start_time": "2026-08-09T00:30Z",
+    "start_time": "2026-08-09T08:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "404",
     "id": "401857127",
@@ -280,7 +280,7 @@
       "short_name": "LVA",
       "icon_url": ""
     },
-    "start_time": "2026-08-09T16:30Z",
+    "start_time": "2026-08-10T00:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "51",
     "id": "401857128",
@@ -298,7 +298,7 @@
       "short_name": "HDF",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T20:30Z",
+    "start_time": "2026-08-09T04:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "761469",
@@ -316,7 +316,7 @@
       "short_name": "HB",
       "icon_url": ""
     },
-    "start_time": "2026-08-07T18:30Z",
+    "start_time": "2026-08-08T02:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885155",
@@ -334,7 +334,7 @@
       "short_name": "VO",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T11:00Z",
+    "start_time": "2026-08-08T19:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885152",
@@ -352,7 +352,7 @@
       "short_name": "TEB",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T11:00Z",
+    "start_time": "2026-08-08T19:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885148",
@@ -370,7 +370,7 @@
       "short_name": "AB",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T11:00Z",
+    "start_time": "2026-08-08T19:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885149",
@@ -388,7 +388,7 @@
       "short_name": "HK",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T11:00Z",
+    "start_time": "2026-08-08T19:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885151",
@@ -406,7 +406,7 @@
       "short_name": "KAI",
       "icon_url": ""
     },
-    "start_time": "2026-08-08T18:30Z",
+    "start_time": "2026-08-09T02:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885154",
@@ -424,7 +424,7 @@
       "short_name": "DD",
       "icon_url": ""
     },
-    "start_time": "2026-08-09T11:30Z",
+    "start_time": "2026-08-09T19:30:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
     "id": "401885150",
@@ -442,7 +442,7 @@
       "short_name": "",
       "icon_url": ""
     },
-    "start_time": "2026-08-06T04:00Z",
+    "start_time": "2026-08-06T12:00:00.000+08:00",
     "live_subscription_id": "zetastream",
     "live_channel_id": "52",
     "id": "401811961",
