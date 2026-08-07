@@ -430,23 +430,5 @@
     "id": "401885150",
     "type": "FOOTBALL",
     "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "",
-      "short_name": "",
-      "icon_url": ""
-    },
-    "away_team": {
-      "name": "",
-      "short_name": "",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-06T12:00:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "52",
-    "id": "401811961",
-    "type": "GOLF",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png"
   }
 ]
