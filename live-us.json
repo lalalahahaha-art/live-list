@@ -314,7 +314,7 @@
     "away_team": {
       "name": "FC Famalicão",
       "short_name": "FF",
-      "icon_url": "https://crests.football-data.org/5531.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png"
     },
     "start_time": "2026-08-08T03:15:00.000+08:00",
     "live_subscription_id": "zetastream",
@@ -345,7 +345,7 @@
     "home_team": {
       "name": "CS Marítimo",
       "short_name": "CM",
-      "icon_url": "https://crests.football-data.org/5575.png"
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png"
     },
     "away_team": {
       "name": "Casa Pia AC",
