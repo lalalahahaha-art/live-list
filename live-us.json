@@ -29,9 +29,27 @@
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
     },
     "start_time": "2026-08-08T06:40:00.000+08:00",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "53",
     "id": "401816429",
+    "type": "MLB",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
+  },
+  {
+    "home_team": {
+      "name": "Washington Nationals",
+      "short_name": "WN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "away_team": {
+      "name": "Cincinnati Reds",
+      "short_name": "CR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "start_time": "2026-08-08T06:45:00.000+08:00",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "325",
+    "id": "401816427",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
   },
@@ -48,7 +66,7 @@
     },
     "start_time": "2026-08-08T07:05:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "763",
+    "live_channel_id": "325",
     "id": "401816426",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -66,26 +84,26 @@
     },
     "start_time": "2026-08-08T07:10:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "762",
+    "live_channel_id": "53",
     "id": "401816425",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
   },
   {
     "home_team": {
-      "name": "Texas Rangers",
-      "short_name": "TR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+      "name": "Kansas City Royals",
+      "short_name": "KCR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
     },
     "away_team": {
-      "name": "Baltimore Orioles",
-      "short_name": "BO",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+      "name": "Chicago Cubs",
+      "short_name": "CC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
     },
-    "start_time": "2026-08-08T08:15:00.000+08:00",
+    "start_time": "2026-08-08T08:10:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "923",
-    "id": "401816430",
+    "live_channel_id": "770",
+    "id": "401816431",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
   },
@@ -122,24 +140,6 @@
     "live_subscription_id": "garysclub",
     "live_channel_id": "CA1400003R3",
     "id": "401816437",
-    "type": "MLB",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
-  },
-  {
-    "home_team": {
-      "name": "Seattle Mariners",
-      "short_name": "SM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
-    },
-    "away_team": {
-      "name": "Tampa Bay Rays",
-      "short_name": "TBR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
-    },
-    "start_time": "2026-08-08T09:45:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "923",
-    "id": "401816438",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
   },
@@ -286,149 +286,5 @@
     "id": "401857128",
     "type": "NBA",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png"
-  },
-  {
-    "home_team": {
-      "name": "New England Revolution",
-      "short_name": "NER",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
-    },
-    "away_team": {
-      "name": "Houston Dynamo FC",
-      "short_name": "HDF",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
-    },
-    "start_time": "2026-08-09T04:30:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "761469",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png"
-  },
-  {
-    "home_team": {
-      "name": "VfL Bochum",
-      "short_name": "VB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png"
-    },
-    "away_team": {
-      "name": "Hertha Berlin",
-      "short_name": "HB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png"
-    },
-    "start_time": "2026-08-08T02:30:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885155",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "1. FC Heidenheim 1846",
-      "short_name": "FH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6418.png"
-    },
-    "away_team": {
-      "name": "VfL Osnabruck",
-      "short_name": "VO",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7013.png"
-    },
-    "start_time": "2026-08-08T19:00:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885152",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "1. FC Magdeburg",
-      "short_name": "FM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/10382.png"
-    },
-    "away_team": {
-      "name": "TSV Eintracht Braunschweig",
-      "short_name": "TEB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png"
-    },
-    "start_time": "2026-08-08T19:00:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885148",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "Karlsruher SC",
-      "short_name": "KS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4471.png"
-    },
-    "away_team": {
-      "name": "Arminia Bielefeld",
-      "short_name": "AB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png"
-    },
-    "start_time": "2026-08-08T19:00:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885149",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "SV Darmstadt 98",
-      "short_name": "SD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3812.png"
-    },
-    "away_team": {
-      "name": "Holstein Kiel",
-      "short_name": "HK",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7884.png"
-    },
-    "start_time": "2026-08-08T19:00:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885151",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "VfL Wolfsburg",
-      "short_name": "VW",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png"
-    },
-    "away_team": {
-      "name": "Kaiserslautern",
-      "short_name": "KAI",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/130.png"
-    },
-    "start_time": "2026-08-09T02:30:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885154",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
-  },
-  {
-    "home_team": {
-      "name": "1. FC Nürnberg",
-      "short_name": "FN",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/269.png"
-    },
-    "away_team": {
-      "name": "Dynamo Dresden",
-      "short_name": "DD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png"
-    },
-    "start_time": "2026-08-09T19:30:00.000+08:00",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "401885150",
-    "type": "FOOTBALL",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/97.png"
   }
 ]
