@@ -303,7 +303,7 @@
     "live_channel_id": "123",
     "id": "aa805c32-b527-4390-8197-58c9b0cb7eff",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/DED.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
   },
   {
     "home_team": {
@@ -321,7 +321,7 @@
     "live_channel_id": "380",
     "id": "4d826612-6e1e-4c2a-88dc-6d2873560777",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/PPL.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
   },
   {
     "home_team": {
@@ -339,7 +339,7 @@
     "live_channel_id": "123",
     "id": "be7983b5-9a3d-4725-a095-4db21791d6e9",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/DED.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
   },
   {
     "home_team": {
@@ -357,7 +357,7 @@
     "live_channel_id": "380",
     "id": "55ba4fbd-61b4-474a-b219-81117091737d",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/PPL.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
   },
   {
     "home_team": {
@@ -375,7 +375,7 @@
     "live_channel_id": "123",
     "id": "6e7d7e30-599d-41ce-9e8e-bf1ef743e831",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/DED.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
   },
   {
     "home_team": {
@@ -393,7 +393,7 @@
     "live_channel_id": "380",
     "id": "e87772f4-a470-4c41-a5e0-c77b5c07d395",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/PPL.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/por.1.png"
   },
   {
     "home_team": {
@@ -411,7 +411,7 @@
     "live_channel_id": "123",
     "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/DED.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
   },
   {
     "home_team": {
@@ -429,6 +429,6 @@
     "live_channel_id": "123",
     "id": "c695c76b-7818-4b97-9d2d-7a2dfdba3e86",
     "type": "FOOTBALL",
-    "type_url": "https://crests.football-data.org/DED.png"
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/ned.1.png"
   }
 ]
