@@ -1,668 +1,452 @@
 [
   {
     "home_team": {
-      "name": "Saskatchewan Roughriders",
-      "short_name": "SR",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2LBUeeFPaRdf7WmDYiejJCeQq7SrokuGD3pmJbKbCdWNgk8o6uSZ8w8uY97Lk9U9PWSohqhmhQVZ7XegXj3rTncVht5eqXuj5YsySBWtxXaArHvnJMQgqpjK6rFqtqAYGzHppgacdY9pb22QmmYfbp"
-    },
-    "away_team": {
-      "name": "Ottawa Redblacks",
-      "short_name": "OR",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2ab8DZrVSMc6KwLQMh34H5vuBmiiLpw31EvrDy9GcZRmnkWHZxYVgVmqavvSnA6u9MSFYirLveS6tWytic2PhqAhDxTLh97C41zaEE5P1fjvTdFyxrWhTgaFTDdHgqek8aZ8P6ZUZhmC4jaYuFfrJu"
-    },
-    "start_time": "2026-08-08T01:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "4764379",
-    "type": "NFL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/CkiB5Cmcea8f31ArqiT2d2D433vdEnmGYmpDjArhrDaQkK8AA8ezN4eM42Ku1L4wVbZqoWWQQh6Vqqq5716wMFM4drsUwF2se8eA4pkTU2zXAr1rqsTQo1JrFEEunkixuKpcEN4otGfbRcTABvcWwCJ5f8mtKzG6wCtq2FC5DcSBt7k9QNu5FtbiMrqeFE5Nz4ynAGXF"
-  },
-  {
-    "home_team": {
-      "name": "Montreal Alouettes",
-      "short_name": "MA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/JsjynLKtgRv6epjGrTac2jToh5vSHGXeZXFhzKHAd87u4RcSnDTY6TXERo5NxCmbjxDnFWb9BV9z139942aqb3Pw5SNDPUR2gPpFcXRhPeZDRwJS3EapLirjjpna1e9HrRnjjpk22skySyxkcjmu"
-    },
-    "away_team": {
-      "name": "Edmonton Elks",
-      "short_name": "EE",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/HMUkKd83wip1oWSpXeSfLfpfR2vr6hnpTgZS6EB7mfJu4LPdsRtoPwP3N1VSvU3FNnxjX3iie7rj6xq9G43tyXnkoBnddtX2HX83im9oAhPC87HMomcChSaAASmgm93eNPU3Y1XxghW2NEcT8KuJ"
-    },
-    "start_time": "2026-08-08T19:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "4764378",
-    "type": "NFL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/EccuHwXkr9UVeb2B8WHS34k2BenW83dhveraedDYVDHe1yuxDQLZsJwFatehSRspnEX2qsKsGWvi2esRQSPweuPikgSBHxat8hWbZJHSzsk7gG3py5R6SeXTYB5c9ndgxRDQ7zAvsedvttd5bEjBY4jqqsMwXFUGtaNVNiPtgqdT5XYPXwEoDAGpiypTjUt94tvjhmos"
-  },
-  {
-    "home_team": {
-      "name": "BC Lions",
-      "short_name": "BL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/NnnUneFukdZ4YLr9Pu9ZY186dWpsPhaiikSzSCuTXbtX8iQz1ZB5WJrhyHoMZoNr6nZZAe5w5iN1EB4rA52PdoAmfxioSzyNbCNjD8uxRgSLJgvbAmDFURJ5DmSaJEnqPmHFVLYnPWwJoQFVfDff"
-    },
-    "away_team": {
-      "name": "Hamilton Tiger-Cats",
-      "short_name": "HT",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/NZ7uA4PB8MCLjoWNNwTZtsrtBb4FN7FBEAbBfyzBUtqeWpu6z9j8sNvDCSAF5zVYB3fNWBewdNmKCdkeqBYx99djouDzjcsNKU8SBnLC77UfgN5WCEX58Gv7SwHZfutgB1FdoWshkfDoQCyTo67m"
-    },
-    "start_time": "2026-08-08T23:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "4765069",
-    "type": "NFL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/CjJQci3Q4kNofWgoZ2hWf3k2q6YuZvfYQRoSLs5nyudcfBKLmGxuk3er1ZS6zVd1fMovDDd6AhgYTRDhG4tZn5Ai3gaoRACmXoXcZCEwaWjCtRRWFrir6iJab4Sg2kW5vSLC9RQF5htidtDnCpmUbUfRxfG5b7AXagmKM9WoYvVjc61we31FXucpwoQRdSFzRJtL2CXB"
-  },
-  {
-    "home_team": {
-      "name": "Arizona Cardinals",
-      "short_name": "AC",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/NvySRQHMXs72hnRm2Z9Ac3JQSmLsgYfWYqczAhwyefftGyz9KZ6frm4t6vM8yeD6BFTkE9nPv1BQ2uLJoX3pyHCKfrJh3qVGSBrjFDGYrPWoW3UsKXGz78PQCpzgkQBX2J6CWBtm9Gfw4duARVyA"
-    },
-    "away_team": {
-      "name": "Carolina Panthers",
-      "short_name": "CP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/MmTipBqWwXiPUErWpt9RdZXcj9q29eDHrd4fRJRQEFcfEHN75NCcpXdawueNo7SReY8yoHEetYsWKgVxCv9nv4PwSCuyMHbAYhmxRKnFhQ7VvWrArkn1HJ6oPtQCe4QjRpUdzcJ7xudJgfFcvk5f"
-    },
-    "start_time": "2026-08-07T00:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4700640",
-    "type": "NFL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/sZ2RbdeeKDWzXHmd49NsjL3NVvAofwqrtr7RnHWzZpsvchFULYyTrhRzWw2yK5VsDdHZtnkqNq65yba3Ct9TPuHaQyszvhyMZLz5q3RJiqcqBfhHR17pPp3MPrTX4RtuGtodvRraujQ88EjeYF54jhjCDSM4AQ5wTHcVW6saebAyUnXGHkPuP7GqW7zipEY5F94SXjSKuoZ4zA2ZTi7BxuMu"
-  },
-  {
-    "home_team": {
-      "name": "San Francisco Giants",
-      "short_name": "SFG",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2rp1j61kXSrsA8wAJgCWCxPMKvWKuYs4pD55Gx97cWw1V1fK1yTcE6NWJhjni6ymyqjPJcuc4KYHcwx11CizvLZWAsehjRrP9FsoiPvzRmasyzp9Gj9FEsb7iEX3WpHo21Ty2NpNNzUcjsZBF2DNfgMwmCMrZoEeinXmXbnfnABfPFP9SmvnmmRRFSWeoZwC6ihFpYPpmtQdMLC1dHKC15b8vLnM4Veyp"
-    },
-    "away_team": {
-      "name": "Detroit Tigers",
-      "short_name": "DT",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2sEYzJwyf5yEEECXTTUUhsnrMN1EmX5jyQDeuZwzYVdEhm17qeS5UTXg9QqN41Zmne9BcSkCkiVMcche5G2ANwJ9pXn3up1cyPQZq9b7Yox5H9tgzWppUV4Uu8AhnkxKkmkToB1HyApxdXBkB8mmeckzUHA3yntLKi7qpitQDeC2ipjXu98dKMwUiLjp7iQnAHYkVJ9PJVpgRvWkw9RJYKahuUqBGiUNf"
-    },
-    "start_time": "2026-08-08T02:15:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "401816435",
-    "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/XqVQC9PSEbFHb9kYSLW395x5kSCusvQpgvLncsVG1gX4q4iCUkpZ6D5ohnTND5YQKzwf6mBdo2WVeDw59dg4S23ZbXeHvuETMfmckwouBhXkacTUfJVTEFQa5k4gSTy431pDcq7HTBmSCqH7wVkjsqRc"
-  },
-  {
-    "home_team": {
-      "name": "Arizona Diamondbacks",
-      "short_name": "AD",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/AvUqd53TA9C7NDbpeGTvKhUMX44v9puecLcze5WyHeQe6JaLPRjc6ZNNdCegc8ngDgJb2Rt3r9epPfb33xJE8Pd4udNvMY9HMnKtERNxhos26vZpiKnJhSt4pqpuiD6CQ5Wkr78M2dFp7EGVnMQpEHu4KCsyp1fEsna4s1zozgQ1DHDkcgVLuoFuBcyu8pctxdEtWgeo4fZPjwjNzkxhyCiDzNAax9Egxi"
-    },
-    "away_team": {
-      "name": "Los Angeles Dodgers",
-      "short_name": "LAD",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/8ySiwJ6BaSwkSuctr71Ad3a61tiRTztP7vPhwf17JyJWp3owEoRLE89XDfS8z8tgTUmhrzvJXeYM6qdTCFLgfdBM3CRvNuyF2GsK7Y42Rgfg1DwxcJ8NLFTuBQS5nbWnFS64U7Rt3Fy9sd3sCo4Yx6z8QnxCDeJGYxRoBPiLNawizT8syJWWFE9MRaJUBwxGSFRGMJMEXxGQHLFeppbzmuGvSnL4nYAtJB"
-    },
-    "start_time": "2026-08-08T01:40:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "401816437",
-    "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/P6NJxfWZ5gRd4jNd8tHyoPyWqwfWH2EsBzXcBsok6gMMHdzmPHN47k7vFGjiHW6hN4P9Asau5UNVcNx5JdQxP8bAMUGzXBu8Vqms2eZzXp4fJ48WFuMAjUEPLw5kK3dhSM3vvH4VcTGvGwMooRcyf1an"
-  },
-  {
-    "home_team": {
       "name": "Boston Red Sox",
       "short_name": "BRS",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2qvZh3vGLky5KxVcMgJNP5EczWivp328pL4TVf4LEKre8nHrPmwCuiXviHKwbLLU96jYDbPXwpQY5dUAaeM5eSZ6qnpVTpgQHaVDWckKYQNrKcTcpX1B4b2RV7am6G5aYALyxyHjpmmhfh6kJyKp6AMw9aFhtUmH2mkz8G5wqCwFJvBG9jrUoZE5Wfku7FfRC4kBB2THwHGp7vEsn369LjWJFS2NKQ88L"
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Athletics",
-      "short_name": "ATH",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/CUT13nPMfFUTQJDUAxhtjQ2N2zcM5BjwC81JBJ99HitGHYu4TqdpUhiHe13qWU1AgntKnU7K74qcaFMYfyfJpZBEeFj4kkUqYqK9GeUGnjPoaaWU5mkFKHXtfBGFA6zERzRJ9wGTEDUeJmMmqyvupqp97hZWgwbJXGsavWZNHurVd2vMAbLwAzgd7NCySUvXC7etQ7PGRcfbqpT78UsqCG2E3kHBBsbhLw"
+      "name": "Chicago White Sox",
+      "short_name": "CWS",
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T20:10:00.000Z",
+    "start_time": "2026-08-06T23:10Z",
     "live_subscription_id": "zetastream",
     "live_channel_id": "762",
-    "id": "401816440",
+    "id": "401816416",
     "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/RsuAgZ5t5UAszyLZCW11sFCZz5m91wWpDoP2MXWJZXh8gRYnxBYikhDm6hEmNJ7GKjBr3FdhuS7grofxx6gsevx83mvfkb5VmD2WULgd6SXHJDuyfRzxHEZpZWn7UXQDZYT2QGGntWbD12DyNYR7Mj9i"
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "Pittsburgh Pirates",
+      "short_name": "PP",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "New York Mets",
+      "short_name": "NYM",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-07T22:40Z",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "WPIX-DT.us_locals1",
+    "id": "401816428",
+    "type": "MLB",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PP",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TBJ",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-07T22:40Z",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "CA1400003R3",
+    "id": "401816429",
+    "type": "MLB",
+    "type_url": ""
   },
   {
     "home_team": {
       "name": "New York Yankees",
       "short_name": "NYY",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6xN5whNKszvQs57tBYsHcdK2xSSRqwcmekakD3HMLk2sUE3kZjoYjGHEufGC5CD8MWMYeMpTpeckLL51JrwLz4YzuzHXgXH1p3QfCS8KApRyThQMiuysGcCWFTEabBTDjoWp4Vs5"
+      "icon_url": ""
     },
     "away_team": {
       "name": "Atlanta Braves",
       "short_name": "AB",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/66xzyt6ayjanZQFe1VpgASae82AD2EH9NLGzxFBYWGh2Csp3xQighitvc9yppYDWqj83dswQBvN7kfivcwqgVeNDAaBNcCaPnnnQFCWdwDsoEtCXLka1ovP1SF8Nx8MM9Lgnokda"
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T19:05:00.000Z",
+    "start_time": "2026-08-07T23:05Z",
     "live_subscription_id": "zetastream",
     "live_channel_id": "763",
-    "id": "4602898",
+    "id": "401816426",
     "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/ou7rNLiB2bZmJSP9C2zxuRjVcgx3k1tJKusbPio8qJe8thVFincwbY92GZp99D9Uw53MSxLh4N5Z9L5ETV7Hatvj6MX78x8Pd4nkrpZNfRpYG1KiYsTPcxaAdBmi4bZBSqypoanqj3Pi33dvy9xfEWxW7TjT8ogF25DNUR5FJaxd1TGuFTKhckmudN"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Miami Marlins",
-      "short_name": "MM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/78BQfoGv5TyS7gxibrpNWL5od73iRMLoQGjsFkaF3k56iZULdS44rA2j9txiDyjXFe5aZSEdkShYkb9VX95efUVH6HMutZCwG82nWCkZ4bGoayfSmyEdQaf1brYddnDmv4xLccM8"
+      "name": "Boston Red Sox",
+      "short_name": "BRS",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Los Angeles Angels",
-      "short_name": "LAA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5nqhPBtJT8drP5MXX73RmzmmNoRX1MkwvEoKRuF8YYgC1eZZLFDcLizomp8JWbhchwjxEMZFfCj8Qak7PzbkDL2qnhzYWXT4jhfwUJg3UnPh32UxK9iufE8W5jXn9i27wiqGTvdx"
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T20:10:00.000Z",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "ABTVBariloche.ar@SD",
-    "id": "4602881",
+    "start_time": "2026-08-07T23:10Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "id": "401816425",
     "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/s1YhiovGqC54LsDkNwFJzc9e8mSxR6UQCCKMkvZ7NNxbrGvCUAKWzKfuV6zroUkWLxPTESKv4tqVxiuKgc7cqbf2ZqfdWgqT4vNQF4hq7QjwB3SmTRviVto9mWhHU32pU8Y1mpKeuEYHurNa6cQHoizYeknU8rhbWvSpceHE7Tn1hwZ5vgVFNzwuhM"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Sultanes de Monterrey",
-      "short_name": "SDM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6xjkUB1p957TWJ6jnHXvLnwVgbLv2mr4deZCKshoXSGoSMzV6c6C4psmpUwsmdXku9Pv5nZBK8FSzTugUNRB2ZNirrmZ584CB1ZokysNYjKpWy7bFofT5kMFdyYUbhdL3LysDJRB"
+      "name": "Texas Rangers",
+      "short_name": "TR",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Tecos de los Dos Laredos",
-      "short_name": "TDLD",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/T7JrtQciD4aNgsMAqHZUEg51vk57nwzb24bJudUrNB5XKG1VF6BJHu6dDWTjZL644CaQonMbnEJKEM1vU4cVAk9jkvByGKXdgVqWDGrJ7DHaKYfx9i8BdLYJpb5rZMfS5dLSMGmd8"
+      "name": "Baltimore Orioles",
+      "short_name": "BO",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T01:30:00.000Z",
+    "start_time": "2026-08-08T00:15Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4802650",
+    "live_channel_id": "923",
+    "id": "401816430",
     "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/iBU78NpMYwPFcX5CiAKk3w8ua9yzSVchDEhBbMUkJhjfkDkAFvr9T2BgA9UTCMBGZbRGv2jT1P4JiVSU7SFrAAi8HaFntKHNWZ3dBgzGatVss9mkyg9hrKcgAFWMS85BfTNU1KcNKLV1BuiE4QWn2eCa8uqJJmwFeuqDddLKjrXj7k5Y3Pvbu8QC3U"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Algodoneros del Unión Laguna",
-      "short_name": "ADUL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5uoyM1FbjLry3jzfPXp85Nt2afXECa6d98H7h3Ch9vz5LnaVhaa9wfHsgvsb4w6zLCuGeZgCS2PXSqkzwLn5qFC9MjLiUoEHvy4XuUu5zoAMTSJVGvttZDmAL5QWsotpa7bv6Gkc"
+      "name": "San Diego Padres",
+      "short_name": "SDP",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Saraperos de Saltillo",
-      "short_name": "SDS",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/7imS7fxiRttUXrFQDSQmXXHCcFG8CAXN7wAJxZXfaC5uQ4dBdQUn74Knpu1o3pDgEAWP2JeFZ4gaBEw85iy6qfpMNrS9zeSuzkpcURh4mfPfeKVcArDPat27fhUeDvSuEZayFidA"
+      "name": "Houston Astros",
+      "short_name": "HA",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T00:30:00.000Z",
+    "start_time": "2026-08-08T01:40Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4802648",
+    "live_channel_id": "921",
+    "id": "401816436",
     "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/rvFXCrcE2iZcPTffnN1x3FhEjKrc81Z2ajSEZ17q9wqy7KR5iJe9rQ5vHF3w1meqSwzmKtWFnpnxDhU35eJDUhnsgfFAiFm4bFqaG2Xo3y5VNWKAhk8aYxnwve6rLfudYZ1nikMKofG4DvK7Y7ZwB6Cgosr1ZtbM4dKBSEZo2nX2bRhSb8ThmPrKtC"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Dorados de Chihuahua",
-      "short_name": "DDC",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6jJn2r6GAqzA5npRXNU1SrHWQvcvoX7RBkBqqLq1EF96UN7pStdGzJ6kbXxBNvjZHYDCxqgD2DWSgUKufRgAoreeUMd7axpezjfZfmouhaUAhfEBqc6gic4gaDprHFsyvGmjaJw2"
+      "name": "Arizona Diamondbacks",
+      "short_name": "AD",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Charros de Jalisco",
-      "short_name": "CDJ",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/PVFFpeLrRFuUNw4BCVPa28p59Y521vQrEn36xCGep69rjQzh6q2rjo6su9LNa8x7mLZUEqwen7VZHQQd4dpnMMuZNe9QYxpErgaeroz8LVgp5DHK3EXm3BtoMHHqKcUvMZmSQm5ep"
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T01:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4802647",
-    "type": "MLB",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/oYQ5VuqaT9uenCWjn93edbrnTmEzc952mR6AbYqtQifqJqMwU1riKyBkBBHETmNERVdvNJB4PuK5f7BTgbVH3EgSb6mm14inKTAh1QzxyBn1dRuu3CHfXBSzh91KGfkhq21KnUp8ya3iwnMjv3UL667i3eDtMumk9ajkQFQfuZyaZRogfR9MGNWDsP"
-  },
-  {
-    "home_team": {
-      "name": "Leones De Ponce",
-      "short_name": "LDP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/8G54rtBmpRz9BGjL2iUdJRy6ha7M7WjM1zFV6T63WuZVeLR3FZsyhvuLLYzQjK8SDTauCPXf2xZ6rtbkGAcAAs9VqyV8Ysd27X7FER9Qn5ToJdY54mvyjDDri9TBEUkEjV78P9Tm2jPa"
-    },
-    "away_team": {
-      "name": "Santeros de Aguada",
-      "short_name": "SDA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/AEKirU7KcgGFkpUGAMYdp1f83wWSGMDTShdVstsmLZiTcsYRDUsURQHEWsHYEPNxohxdsQHHnQkCkYJAJGvpiPqCRmLG9whs4rndwvfZ6cn5hZENipmf7pc3vTBXzFZzz2zXNRZCEcJD"
-    },
-    "start_time": "2026-08-07T00:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "123",
-    "id": "4781354",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/8ixcfqTPCAqoKKMmUQqm8txopRhSRpRPx9exPc9yGR3yLskeBW72hAPmfA9kDfTsCScPVrT5xH5GTpgiUX59hKKTuzTwo8J3qUmpsemhgwTNCNUWYMfN2hrwAF31ppST5mA2ZZ2cW2KhxBjtmYfpBCbmjyZX1hCCbMbhDumpN2wLhXNy4bBBeWVEE2Pkt3aTrTEWgfdXMsdfU7s5p2L"
-  },
-  {
-    "home_team": {
-      "name": "Minnesota Lynx",
-      "short_name": "ML",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2dN6rcHQWVR4AZbH9ajcsHriXKS859YXTsF2VhxqAXvS8H9cN2nd6iMhfzuod8ogXXDKEYVi6wKZw4cKPqcxhiQju6TajAdgTRwLWkaX9KbGKtqw4oTK3Zvf55gP3L8EtXhU3DV2DxN"
-    },
-    "away_team": {
-      "name": "Los Angeles Sparks",
-      "short_name": "LAS",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/32y9GHz6r1z4mb23msyf4xWepsiNvRR5JjFXABVFdHiYRDdEXg6iq3k4BgukRUz1GGoJty2ApKeY5fmyAAM5Ue8pJ8LR6zsLoazFEEPtXouuCeF6ZjFDAb83nAAhTq37Dtf7B77zrcG"
-    },
-    "start_time": "2026-08-07T01:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4659855",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/28peexcx18Mde3o2w9WXqNEXahN1kLePmWMXUePavEABEwsobgUi7uNyRMfps4HAbfW2rSK9sdjHbS1RnLQRwdsdHs1rnMv6q3Z1ZrvSiXBKEMLStHJoF442wH3TQ1xEVqXcAQ8dAf2hTnXSbet23tZ26nNoC66ATYXR4VaNyFojmCAEb2hAmYPb2WZwn9i"
-  },
-  {
-    "home_team": {
-      "name": "Winnipeg Sea Bears",
-      "short_name": "WSB",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/9VHhtcHtubehctx74KYKBozbYLcsCwo4cvW4j6gx9nxpfeCjGgo7qStWmsJN9C6h8sbQ2WgksZWtg5P42qbHJWAh78pHDWk6Q24ris1uZacMYTduHuC8vp1BSkCbVk1a7FPHsFVhbX8X"
-    },
-    "away_team": {
-      "name": "Saskatoon Mamba",
-      "short_name": "SM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/8GUWt1DuAGVcJ3DunQD7fPLXbjCLb3Jqme13SDkejjaUEMPKUSGXUpJSZ3bnT9euieod2TX5MgMLzyWkxqPyfBgKkYVmpcqprpVJLefixZhEp6UVwuxKVz1RkaTR3hvQmiPqc7uBqq7j"
-    },
-    "start_time": "2026-08-07T00:30:00.000Z",
+    "start_time": "2026-08-08T01:40Z",
     "live_subscription_id": "garysclub",
     "live_channel_id": "CA1400003R3",
-    "id": "4804129",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/6EBwCSwM8pb7BRpwSsCZ4VeGrGSggGC4K5eHSTjAusMr3V8Rv6Xriz9N9FbaNgKRJRsFnYcsK8XmcKVCyzk1hoJrHYZG2t5jA8xfQRhYguLHPxPdJKiAubjqr6qiYHt63Mm3f5ypXUrdQRRX9QwC1bW59hbmc8ZBT8hanD5wzq7KXSqd5QCSDexvsnkucjZa"
-  },
-  {
-    "home_team": {
-      "name": "Vancouver Bandits",
-      "short_name": "VB",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/AVYY9MHCEGAw39nfQ59LmprE5KBbhhG14ZVpVeY2YfPRkEKc5Q16WBbBXVJdXSPYkXvgFZqtmKSdBAZjyefV34akWb9r1WVu8NzZ64vmwr6EqhR81jD63v6zRdTPcg3D3fgE9anaZGhf"
-    },
-    "away_team": {
-      "name": "Edmonton Stingers",
-      "short_name": "ES",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/9EdUJUDAocuHPKGMYEk8qxddTCtBJxnXz451xthH7uBiB85hiH2Rah2sD7RkpAc99oL7J4k2D7Z65TV639B6bbQdr14NX4hAJjeSaDFRgMKdG4A3vyuCufGRsvPaYr6o1x7SwCtSo7mt"
-    },
-    "start_time": "2026-08-07T02:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
-    "id": "4802607",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/5W7MchjjDjvaZPHxwQ3Jy7gEGQkLRrGe6EuDRC4t8GRCYBBvsgqZENNT7yysYFMd6NuwLopEWpe5NNv7rstuZb41Dg8FZwgu8c7mbw4dbmuFjD8mRu4AhEAgtLeLrphG9iujbek3kWNsH3rqwjC1wTXiQXVePkkZmEGfxSkRmewmkKCNHZm5VeSWbzdTZdd4"
-  },
-  {
-    "home_team": {
-      "name": "Diablos Rojos del Mexico",
-      "short_name": "DRDM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/9UzwDT9vK1cEaHsxjxPDJ4JynrH2qGHLKfpqNfdSgZaT4Te23eKo8S3rx3vLHBKBzJ73oS9Wvsys96FQmEC31wNNmDkruyuc7EP2VqWcTsPRs5J6bQDMHUX99aCRV7CBgot6LfQYES2K"
-    },
-    "away_team": {
-      "name": "Freseros De Irapuato",
-      "short_name": "FDI",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/9ShfwgaGVbEejWjzDef1xKq8R8ie6r7PQBoc6HP3Ur2aVSaA1zXhFNMDf9ex5cyzbyRaYBwZVeESMSLYoW6robsejwCky5XeaVtRkqwub6M1Z8hT9Qh2U871v8VhGgm6x9RPcmUgnk4G"
-    },
-    "start_time": "2026-08-07T02:15:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "929",
-    "id": "4707851",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2MEgrTpryAVbUoR1gR2NiJRwnwYZGMXC5c2ZSk6oVDt7UEmoRhTYD5aN5URaCqUpcZWAQXmQGGBRbr5emVNRMUVVikFc9yUJUwKTd352mMSVM8tyUYBBerTNpCs4NwMYT7icmu6XfgFX5MjKuwshBEHaGRh95vuCszdPwWVPJvDdAEYJsEHZxADmeut99Ly"
+    "id": "401816437",
+    "type": "MLB",
+    "type_url": ""
   },
   {
     "home_team": {
       "name": "Portland Fire",
       "short_name": "PF",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/96DgveraBmegDRRCXRu6xRJBaVAodQ6r79U3EJHMx1VDhAHhGX7NDrt895ATkHrmUwDT95wGwN6uXB3rbdBKACzEKsqZUQffwvn6xxPHxtggV7Em2F68ZoxNjkd2h2RrUneSK1QFRH6c"
+      "icon_url": ""
     },
     "away_team": {
       "name": "Toronto Tempo",
       "short_name": "TT",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/89iShZHmTs3WTE6tuYTyCvEzHYzcN824Gsqpmk1DfZ7HMih199UAsNwjzA5y2851ZGc4qJEbWxycoUAgtaQPzcmuHYBbiWGLzvos12Y4obQGg9rPGvj3w4cJRoUMSye8DDzs3NUXsWwf"
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T02:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "44",
-    "id": "4659856",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2AyLBHyEXzALeoQBicj7yjoA23BKVSq3QgU2PD3u2ajJDjPKkipog6ZTFTVkru6RZuDiqHy1XSVzAADCbkJM6fNcu1FwrN7VNHPc9Hk64v6gqE8vHkZLHPzjxsYRQv1AHUGRwR9nxCWZcfW33DeTZSMYQiGeNVLeUvWY7XFTxLxU1Bav2T9HVLoNbei6bV9"
-  },
-  {
-    "home_team": {
-      "name": "Gambusinos De Fresnillo",
-      "short_name": "GDF",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/AeafuYWT42dk9dmKE5bYref5tUPXk5TCmZGUuX2r2FDFxjYQ3nM8zHeizVfpC1kB2TMPW5frocKaNVbaMLcTdmL5tk9wkBSJj4pAUk8XPCo6SxXqrzHERtQBiwHHoUitwsSF87CUKjjk"
-    },
-    "away_team": {
-      "name": "Panteras De Aguascalientes",
-      "short_name": "PDA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/35nLo9a6GdS9PBhYoYyrhyognCZZAsbHBBsFtyZ5MeWRAg6rVijhJ42yMh2PAAd6NeLsFiGGWhbkJkbCdqb2uAYAGsH7KwmPRoLAKr8wKfoWWJQxKkYXxQAb2iN54RKNx8EdyBqkzaZ"
-    },
-    "start_time": "2026-08-07T02:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "929",
-    "id": "4707847",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2JwSEvRmvJfCekHKCMPg5UUfo4TWfoKrznXz5xXS2uNaCBC6oqSKdLvcqWPcxPtK3XmuXuuQvVJsgodG7Bf37NAiJFnWqMSiK7ECSTvkxkP3skAT22zLijto44HbCMPyv8zj9v2Jdk58Tb7fDG1KUNEs9Mg6pdNjrgFjLAZuZ6PrRaVd5nb14uQ8zQfDVpr"
-  },
-  {
-    "home_team": {
-      "name": "Abejas de León",
-      "short_name": "ADL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2oR8YdJJEEmg3e8BLuVe6yUa5qPKMqyLYmpcLoemLkTwPPQGiUaX21uh1hDBhaHXnoSmmBYoWnwt4GqwVm7TuwzQDYAWiWWrMW1wo7wyW5AwUrLRfg8Gcv22QnRVzLYJbdXgUEFke5w"
-    },
-    "away_team": {
-      "name": "Astros De Jalisco",
-      "short_name": "ADJ",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/ASH1XNvosxHkDTZeGiJwfyYthbFZHj5fCmLmn7WGon9d1VMYoaY8kPmy8bNtY3BWy5sMR2D3NF7KnukoNoqRiivPTJskVkvGnrYMLoApH5b6gMeYSFYxtCwkQDQAaUbHd2LdTNmmeJdL"
-    },
-    "start_time": "2026-08-07T02:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "929",
-    "id": "4707848",
-    "type": "NBA",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2GV44ASgPcGvVisirC7QLPJsjq9duQvmgr6848edFejviieRfd2sqoBqtUw644DjqQUQtrM7TMbh9b9vNVv95YHnum8DF2MqdZ33KTAFXBemoPdb6S63bcytvAm7tLnFSm69ftmDPxJeNTD7M7A4ySC9KcFWXqwwQUxnb46Ucc9L1cAyxXCePEoT349JSJr"
-  },
-  {
-    "home_team": {
-      "name": "Scotland",
-      "short_name": "SCO",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2QP6we2BhNydSeSS13FxQzmFCAkkcXedHjzGpjyJ4H2HxeHS1azYVkRNCVuiS83PSX5oq6TKnNuDYDKCuMDFywaC3WUUHmEyEdhHsfkVA3jQcX8c2h9xpGS3ZYRpucjDxbU8RRyPZQmW1eCE3C4ZDkTNjAbEkq5TeZn9HtktQJLDKyA6iNSheKd4nuhXRB3ykwXjDVnZZQHwvmgQy2rdB7FTHVCWiMKTgKLdMz8tMU4KckbmEz37UPgyQaamxvvePe5aSZpQFBtTfmyMFHNo9rBVozqfPBMc2wXYaTDeJFQ6n61BgCX"
-    },
-    "away_team": {
-      "name": "Canada",
-      "short_name": "CAN",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/4PyAb6HnWD2CEZpzwbEQdHanTMh433JFApRz32HaKLiVSrckHtwsArGmfmRgchj9ewZgVFH4Y3eXXdbJCtPDK4x74tiBzQ7JzvEJe6xN5yQapWZQ3LD4kuZRXgyURXkt969JiJyxENL5AaUcQpN3So9hH4DJy952iay4gcSxhG5C9jnfVZza32NXL4sv8dELFzonepbfzDNRwWukrgYcxBrjXCV1SciAjRzeiS8nWgN69RgGAwAXztKsQs8GKJuHboABRtXytMDmPHKFfMqGkmRZr97TxRVWPcEYrMNELZSJ"
-    },
-    "start_time": "2026-08-07T00:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "35",
-    "id": "1546000",
-    "type": "CRICKET",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/2MUcGVpjs2i6wVvZnSJmm58kcvKsp64JiNWdu2niTLN65QtGN87bkq6zWuNREGFtByN19QX4uRydgDDYtjRxL5sQGhg7UGd3vHJj2skjoJ9QxJM1ZLTDQinXc1Q7td6vedwvkrAnma2k6vgbQLNTL7ZN194GxyGw1WhgGBcGj3goPJBxbE35CQXBHvrai7NqDbex4k1sU3yvMsVmAnmeUc7pyFp2M8iUoHGWDiA5DUodmTnwQ2Qh4c4"
-  },
-  {
-    "home_team": {
-      "name": "Vancouver",
-      "short_name": "VAN",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2HawYcwnMUV9hsPcm45SP3JvBzgDvXa3vX4J1GKotASpSYUwhUgaMC35PSHQoySiMtSmd2uEonJQvoiRJAuFSTt5XvaW88hAmDuiS3SDBUz76HjmmJi25EYPd3y7Sb9C2ZHGmY4"
-    },
-    "away_team": {
-      "name": "Juárez",
-      "short_name": "JUÁ",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2RdWek6ByNhY3hrgRhYQrBzGKTFqmupLyxpPvjsMntdkCt35TBZ6gycDdmVdKBi22KmSV49CKxq9EsnyvTLfrxmNK1mgQCvfqbAxoZEbM1yPwdaTXnvVQPX2k234dsDQ7Pn4bfC"
-    },
-    "start_time": "2026-08-08T02:30:00.000Z",
+    "start_time": "2026-08-07T02:00Z",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "5844844",
-    "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/3xb1KcJin3v8XCUTncBTfGkABRoCS65hud8kWfg22zTVwQAdbQE7e6y75HR7ej3cJ4askN5nGY26E7p9Mjt1xtcPnufAtLDmTrbgjMrqVSG2r22EaYSYria2yjk3vqTHBPCL695gqyjCD9SSGTwvaviPnR2LBt3mMDDhHC3nNagX1"
+    "live_channel_id": "CA1400003R3",
+    "id": "401857121",
+    "type": "NBA",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Tigres",
-      "short_name": "TIG",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/4XKhYNPUDQwjhWkVq3Fv9NGRavrTiEPydNVd1k9BfJhoYidsbzUVNZmoWgbwqEvF3qUJX1hCdRNH1jCLbyHQ4iLWpxZJRJ3mvncv8yNHreVpspXdrE6rpxz8U3JDCMu7VNaW"
+      "name": "Connecticut Sun",
+      "short_name": "CS",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Minnesota",
-      "short_name": "MIN",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2WnJ8Z1bzGFy5PpxsdwUKeTYgutZPjZdN4hCujZ3BZjVVqzkmmqf5Dpi66fNtN1MN4maZHANavpmwrsS9pYYZ5tb6nML9K1bq6qUDCU96M7vqfBND4yQuVgskc2xZcFP9JAVHaq"
+      "name": "Phoenix Mercury",
+      "short_name": "PM",
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T01:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "5844843",
-    "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/4VBSa4MLqgek2n4cXnssAyN52hDi5b6fJuWFXTg7gwsX2v6aCe5KLH3yLsdkk7JyuSKwVmFwSpoenNxUMtaMN5a9CbvQm24729cXGB5YYakr8Mg3YVvu4hjv4rP36nbPBY7p8DGSJh2U44UeTPU4xyxH3tGPLKdXoDA4ym4ecFcab"
+    "start_time": "2026-08-07T23:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "325",
+    "id": "401857122",
+    "type": "NBA",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Portland Timbers II",
-      "short_name": "PTI",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/U5Gfd3exLMMCPDJxXDYyuF7Nkne2KRKh81eZ6DVCBwGLZHUCLjwu9j57U6Pc8vdE98oEFdsrA1RtW6utoTFjRqps7Tp3CvXnKdum84gWyAkZPuaRKdLcotwJyiwdUVNfQK97ugwMn"
+      "name": "Washington Mystics",
+      "short_name": "WM",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Los Angeles FC II",
-      "short_name": "LAFI",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/SEeVjSVg8KUM3qdF3BCHyZtmBvwjniJNBWBfDFAujx39Yc3aVjPLJzyiwCLqNk4JBMMxWQWjcefVBNfvf7MgNQD93NKBE1oJTFyZWKMHkch6xPtbAv21UvjUrLAMe7ac5ShMRv1C2"
+      "name": "Atlanta Dream",
+      "short_name": "AD",
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T20:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "4659143",
-    "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/BGzMxDd52VGAC4DHfx54E9d5oxcqCjb2rioSF68Ak8UhWmNvbmG55jBCGY8dYC5Cc3w3UuHGtDhut1tfFguYQtUY5dPtwvYj2AhoBpANuEjks32yWSZ2Z8NB4ckAovSRGe5c1LfbichaVZanNrEkDrTpH7LJ7NWmYMPCMrpHHw7oyq9oVVvx15vrW2X35Yk8SxBPqA1j"
+    "start_time": "2026-08-07T23:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "325",
+    "id": "401857123",
+    "type": "NBA",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "San Francisco Fc Ii",
-      "short_name": "SFFI",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/SunjTMA9fM9eK3qp518k1nofQBnveh1CZ74bQtgtiDLp5RtgrYKRNEhr5sz7gzhFyvz16VD8mAJ7EEytLgMGp7aMCrYwVUgpMYXd37SKmVPh8sccoLofUMEuEvbBkkopr8rehTxiy"
+      "name": "Dallas Wings",
+      "short_name": "DW",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Independiente De La Chorrera U20",
-      "short_name": "IDLC",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/Thk8kxxsTVPkeTyFx3qFqS6ggkBwirNz6j4vtxcEoLx1nFMF4Qn3twXUuna6AbpNxyAyM5s5bU4YZorB1ycJ1k6Y1JsZPtnKg3sAHu9ikDEVJVQ74n37qAvWfrfYqPVwTRjqNpt3V"
+      "name": "Golden State Valkyries",
+      "short_name": "GSV",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T21:00:00.000Z",
+    "start_time": "2026-08-08T01:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "325",
+    "id": "401857124",
+    "type": "NBA",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "Minnesota Lynx",
+      "short_name": "ML",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Las Vegas Aces",
+      "short_name": "LVA",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-08T17:00Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "52",
+    "id": "401857125",
+    "type": "NBA",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "Chicago Sky",
+      "short_name": "CS",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Indiana Fever",
+      "short_name": "IF",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-08T19:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "51",
+    "id": "401857126",
+    "type": "NBA",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "Portland Fire",
+      "short_name": "PF",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Seattle Storm",
+      "short_name": "SS",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-09T00:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "404",
+    "id": "401857127",
+    "type": "NBA",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "New York Liberty",
+      "short_name": "NYL",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Las Vegas Aces",
+      "short_name": "LVA",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-09T16:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "51",
+    "id": "401857128",
+    "type": "NBA",
+    "type_url": ""
+  },
+  {
+    "home_team": {
+      "name": "New England Revolution",
+      "short_name": "NER",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Houston Dynamo FC",
+      "short_name": "HDF",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-08T20:30Z",
     "live_subscription_id": "zetastream",
     "live_channel_id": "123",
-    "id": "4778519",
+    "id": "761469",
     "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/4HF1nnNVuhraqrBsT3L4NVKHqsoGYfGYYgv3toMY9nbFzUdRDY9EM2U9DdqWYBe6Zju76A4hHJcVspAdSyBu7Z3cTMNMBmTREj2sgh5CL4mSYJ5h7otWbseSweTEBQpq4bQMP8D317EiTHz4t83upcUqHm5S9MSMnWuEQxpLPLXeFkFrCYKTL2VsS1EuUwCPmmKZAbUQaXtekX4Sg6FEwDzNPguc7s9bF3fdw2LJJ1229wZ6g3QKYPPZXDMjFXmTdf3"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "FC Cincinnati",
-      "short_name": "FC",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6sg4Dj3p1FUTvxv4mv7aDtYnQWXqtFtZJS7ZVthKZZH6XYW8rD1rm9vdAejyXEUkkGPfAuYa5HZ1sFnxuQ1BtT2R8WEr3p17DnKDTU6a1BbpLu69JN7MkjBVnffbQ6JHSKHUccqG95m37M8XdnKzNWFFwcbmbF25DvVdVb1tEL6YkevSJyXfozw6Lbawt7VeghqqhHGEf1KZbeCU4CxB1985LXKmcf"
+      "name": "VfL Bochum",
+      "short_name": "VB",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Pumas UNAM",
-      "short_name": "PU",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/yrihce4szqutNUWthKceGVynoc2tYkU4V776ntLFuq295hRmXjhA2w4PrU7G8p1TywvMdrenxewr7xfrV56CyYa8NpnAgG8inHpfQUBYJ14LFYHSpL8SeHGhixURj6g4ZNBDVUNXgLT1ERC3e1pbJHvk4DyGVkAGUsfAefKwCjczwTbG3JuozRDpfhgeTofZqhFQrVmbg89tJCfViyDV7uUU"
+      "name": "Hertha Berlin",
+      "short_name": "HB",
+      "icon_url": ""
     },
-    "start_time": "2026-08-08T00:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "401863592",
+    "start_time": "2026-08-07T18:30Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "401885155",
     "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/B34PPERBy3MCpXGBpj1jVYxSAvCunxTdShWQisPAFjechopuL5mzkcuAgTeuCRqrev3mSrpp1f4wc3629WmXN6u9AjUXU2PQSwE6qjbPwin8Pg46sdfYxkh43DiS3MJiYy9BjbAPTSkwbfLd7EuRZE5UnyyEh4FJCPBiEu9YVH"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Charlotte FC",
-      "short_name": "CF",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6s8VQMb2wFSoTSUcYCmtnGjz84LoqQS4h6EtxfHyTKuUR15gPut4Tbq7cxkeaVzPY8WCeGb6VjvfrFaUeS7RRTYMkFW7fBacqhKfvBsTUPoJ29M5EzmJCU6mvDeqsP94PsPCKiQ4"
+      "name": "1. FC Heidenheim 1846",
+      "short_name": "FH",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Atlas",
-      "short_name": "ATL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/45WfPY9EGDvW1LKLBKAv4BE2BgoHG8cMQSkoNTQU2ZMeYFg8tUK5kznhvoSPzLGm9DDcHPqsU9iiDmwPxiNqLK1MUYeoMx14xPhJoPkyC2wGKywzMCnkPQUJsZMtEo7GMkGo"
+      "name": "VfL Osnabruck",
+      "short_name": "VO",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T23:30:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "5844840",
+    "start_time": "2026-08-08T11:00Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "401885152",
     "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/4FpgMWMbnXEATRuRxVRrcg2AmKkFFz6M62atrraQcbEH7yLWeBGacV66yggo6U55e6ptEyD9vE5TWTnLU9ir86C2uYHQb9MYyhzkYvG6WBxw3abaYWKU1C1wS68mrVQfsdbjKMuPZ1SU5K6AGaGDDdBigQWPcToYYjeAqq8KJDwpa"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Inter Miami CF II",
-      "short_name": "IMCI",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/6kaRoGPKfeTUhqBrDah81pbejQU7M8TauDyKbM7oPGey7KxAgo63s5EigKxNDXGZPvAEyvy7qjye86dHwkei5ZGeAKWUUN9BChAo65WTrJPDaTWwUr9QBAsBM77E1fMTFGb3Q2JT"
+      "name": "1. FC Magdeburg",
+      "short_name": "FM",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Crown Legacy FC",
-      "short_name": "CLF",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5cec1DgWVbkduwqJMFo2H21X9UVKrtbwBcV6jYm1CxLv5eXM88QUiZw2gnsEGNzU2G7VpLruSM5WhWmneA4bMhev6ZqFLCNBddPGV2oXvpcRgVdHBXzaFCzYvCKTjBY3BmEnWmwM"
+      "name": "TSV Eintracht Braunschweig",
+      "short_name": "TEB",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T23:00:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "1000007697",
+    "start_time": "2026-08-08T11:00Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "401885148",
     "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/DZWe7iUtSRniTUsrVAbqojUVThD2aK8DLnBK2RjsE2wKrxo36HamornQSakBD25JYhsAXfG8BWGGgbtg8kJrKTCnsRapJ32aMYuP1sAFi8VHTo7GQMy3USCwpX6CA5P2JawjsR1T33mMTtSaYVLjRZfzDeNbsog2thhjBk46g6ZSUq"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Columbus",
-      "short_name": "COL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/5UV9EPZgCm6HH8LNdKSyXciMXGiqThb4PY8u9Qyow5hVxvGKyj6NW8TYdLh41XcZPLcTiPqBUpphEqAnj5B9gpHzzrvFp9E3GuZMfGRuJKHNzqtuehKxg6Cz16Nbm8mdFPvu"
+      "name": "Karlsruher SC",
+      "short_name": "KS",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Pachuca",
-      "short_name": "PAC",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/4GXhH4DPiX4s5gN6NWq5zoSvgUKT8mKMmMzwo2sd14bZsj5oCirPeg661acsUmZw4JGA3rj85YwHCRdHUKLKNSPErYPAzUWj7B6rpzLSi4PhFfWi7B7XmW5ZgY1iZkfq9NaD"
+      "name": "Arminia Bielefeld",
+      "short_name": "AB",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T23:30:00.000Z",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "id": "5844841",
+    "start_time": "2026-08-08T11:00Z",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "id": "401885149",
     "type": "FOOTBALL",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/3ic1kSPk9NMEmtj73RgEbByw5tgnAZdKT2qSdvzzvW21R8Yq3jy8VncNmhqYh2M5SpQNPgZvvNs8gmQZSThmym8XhPifu7XT4yEgpwRLU7cxhNN5DpTaoTx9gRSG6yJuX6pog6FviLASMd5a6gzCQTduB9wRtJQ9d17t564oMuYhy"
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Elmer Moller",
-      "short_name": "EM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/24mJQCEfCfSmnMC4GoKpZYDSvsBZHg5Tn3dsycjeuZgF847cnGteN9JfM58uyUYW5D361h2uYSE3SDMf3wTNYiPuhPuN6nrJ1PmgFSRLQ4uCvZCLJBVmHrmPfn3WhWzXNkJJCyG"
+      "name": "SV Darmstadt 98",
+      "short_name": "SD",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Carlos Taberner",
-      "short_name": "CT",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2HZm4SCvwJMQ5dBTJ8gU9eBND2bjnS3mMCGUNzTHHnNw9KrtcwJ4H2esmpopDxYzvzP4qZK4Eh5RBFK3vvuVkGpdWUGZka4XFLghj2Cwo5hVptz5Q3QAE7YsvYgnE7Mm5BxDQfG"
+      "name": "Holstein Kiel",
+      "short_name": "HK",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T14:00:00.000Z",
+    "start_time": "2026-08-08T11:00Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805400",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/gR3223mS25sSAv1AiQwydSDYF7JU2JuL9ZQCtS1YYe3mCtn765T38oJ9yaa6sshHHPXDo3bHgzJGV6pAcnAurVka6xmwM8kAH8A2UHMcWdjvH24sNHRzQcYmmSSxGju112NyrvuWJimQqbZeAxjfcPYtFwUi6rxpTVt8vvXYtnNw6x1i7jLMeygwMNbueV11svDCWxP2hrua2ttTNnNg"
+    "live_channel_id": "123",
+    "id": "401885151",
+    "type": "FOOTBALL",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Lucas Poullain",
-      "short_name": "LP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2LBithREatEc5LiEEamfarvoL8rTQPq74iVZhQqaX9mHgWiJ643NipbpKSp36HrgRQ3b3y4tjg5g5XUvHosP5dcXXU3D6svbHhTX1kVGxvGex3f3Yd76EjTJ28WPddJLA3DNdmZ"
+      "name": "VfL Wolfsburg",
+      "short_name": "VW",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Kenta Miyoshi",
-      "short_name": "KM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2EM8rf4rJfumGkZMM6ncpMamcwfABh934dipCbPaxi8j5a1pgAvZEKUWiug1ZHSre1f55wpQoFR2JNrsqxUpxGgxaYMZPTJzHrPcJcQynEr8RgkZG5crogRudEkRDvXfh1gHuaJ"
+      "name": "Kaiserslautern",
+      "short_name": "KAI",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T14:00:00.000Z",
+    "start_time": "2026-08-08T18:30Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805341",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/28yCbVWFpPDuvt1PyGWoD8QbGQ4Ho2bejBXUUQ3Kxia7cm2neUjCyXSZpxreRdsZJNMKBHA2maXamS3qiXDfmHQuFXkA55zDJnDPc6g8VSp2jGoHc9EsmXrTU74LZBYGTWEVw44hoAAwi7ccVxaH5VbehDoHiKxQtBMgMapxEVRXZUotyeXndYaEkEJmsaZBWJCbWNU4c3SrNZkLpP79wX6fA"
+    "live_channel_id": "123",
+    "id": "401885154",
+    "type": "FOOTBALL",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Gerard Campana Lee",
-      "short_name": "GCL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/25RmZoQKN212MKR6a6MNcQx794qpa5CaPMAtvhU2bKsyu1GY2QNdyRYmysiZa4B3LfGntd75KvCmhRxqbi3TLNKYcAdHgEt4SH6ff8e983UJtdDRLgu5NSTF5JeNPiRA1L3wa9b"
+      "name": "1. FC Nürnberg",
+      "short_name": "FN",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Gabriele Piraino",
-      "short_name": "GP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2VqeL3J2yxZLRzapmZKGunDAiC61UsUWj32ozz9snx6Xke38XmG61rMsJXHA9xxEDaSJqKrBGo1jYLgZsk6hD8FxaFpNuPvTAQnJ4wtf1Anp3HjiTwadUuW9eMgEKw7pTHkhZdr"
+      "name": "Dynamo Dresden",
+      "short_name": "DD",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T12:00:00.000Z",
+    "start_time": "2026-08-09T11:30Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805220",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/FeVTD13zHsaXXhK793y9Eig5Xj2L1r5Jo7hJgwoXD1BgEvKNz2nQyDWQioiptnGFaXBmUnFrkZogYBX8KJHBxLVa4fpTDyxzR6Qpffd2C6UCfoSZMJ71qSKLJHWM7qykVSAEMWoX6LkNYoCenY4192SQGYuKfQFjdoiRaCqZkeLKri1JDHFxswmKPYSuvV6Lt7WeA8S6ghdRTD9Zoepn68N"
+    "live_channel_id": "123",
+    "id": "401885150",
+    "type": "FOOTBALL",
+    "type_url": ""
   },
   {
     "home_team": {
-      "name": "Yannick Theodor Alexandrescou",
-      "short_name": "YTA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2FjMDX8nrTvncY7weVbA1ffMhkdcF9maZccuxibXC9EbQfqBmdWtm1AeEn3AMmtynw872PyPL6w3NNF8QRfVeuEEsCrqxJen1p62xaUn35ZftKjgRCDrV8zBkKA3khNYgPRKVe5"
+      "name": "",
+      "short_name": "",
+      "icon_url": ""
     },
     "away_team": {
-      "name": "Radu Mihai Papoe",
-      "short_name": "RMP",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2JPvu9w4f1kNwJvJhpbp7nRDNYJ2kiCtdRENCmBK6aUMCy1tQzFe2gpnAMqNp5AS3LzcSn775yYeNFM7to4vKSrhpUSp3njKJ6dNMya7MWorb4rLriii1K9EVfRwBmJx2vp3Mt3"
+      "name": "",
+      "short_name": "",
+      "icon_url": ""
     },
-    "start_time": "2026-08-07T13:10:00.000Z",
+    "start_time": "2026-08-06T04:00Z",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805233",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/FhQhL6rQwPpgx8e5KjZJu71tEHZUEjfif5jbwnsdKSy7cZzdbhMxRzRkoQg63X3xQszQeJrHaiUbkg9F2vpNvuhjDRa9AjLt42a1oQVobTQbDyeekGkDvTsyz2orBJfYcknvXYKj49nyrpRbs5y9UqjWDQEuvrKtdX6gAAm4QNscEqf3S3TeDay4LbKYeFXREReHENks8svbUgE7WKwjzAK"
-  },
-  {
-    "home_team": {
-      "name": "Adrian Andreev",
-      "short_name": "AA",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2Uzg6yX8wqSYSLM8wLtxiq1VxQgNTbeKRHBaHC5WBcoAnP2GN2YmKFZXr8bp3ayYPj5NhGTQgxGhaFerE2hB52WxdbTTuQNEhCZ6941dzfBmai121RVbVXwD8YtA61fJH2wUd5e"
-    },
-    "away_team": {
-      "name": "Petr Nesterov",
-      "short_name": "PN",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2Pg692i6CqngCm5YkHpkaVGnM16BZibXWxwqg9rnhPMWsK2G8Bp2P8ypjZ8x67xaiWtu9afpGyKTpvHu1fLKbqTvsuhw8RPd2fsrBhNymp5sSrcuyoZytJC1rnuHHzmZ1soYtgW"
-    },
-    "start_time": "2026-08-07T13:10:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4804960",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/G1fKE6npQi5XnVuvvLp16X6TqoNmsfzNN6bXPkSNHbKJWP4m448KnJ3LNgyoAKCFNjgXRhhLYATxxaa3FE2LmHN6c6JsxsYdpcy1djnXHk7mSKuhxhQHReSLnTpoEBvycVQErWA8oGrQ9rxQv4yB6r6UiFrgTjWN3SYNvRteivio4JTAydmyxxc35GV99jgfGCPrVpDz7yy5mbR8yWMDUP4"
-  },
-  {
-    "home_team": {
-      "name": "Carlos Sanchez Jover",
-      "short_name": "CSJ",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2TRybcc943w9HzCqrAysXc5SrvZnX5KPuSPxfSNQ2Ky5YuWNALoisCV5eV1BcK5N4zA9gPJigDpiqP7NBsgwdKnzHKjKSHn1UgF2sWk12mdKFKfGKrUTUmkrPAqw7mK3UNK6hr8"
-    },
-    "away_team": {
-      "name": "George Lazarov",
-      "short_name": "GL",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2K6ufykXKyo7fUFbzJHZBy5DQE7MTA4omPcyTAJnfpGkcApzesoihNwq6nNe6SogiS1yvk2ecSkuxo6q1tPocfF9eVL3X15CwvHCCmZufTqM8yhshcEfq794TF8YSXCdVFeoQRr"
-    },
-    "start_time": "2026-08-07T12:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4804963",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/BXBLsWg3gimGpsXwWCH9qsqmE7S49xrtfbtxC3BT2JHntMTC6cp1M6bW5JPesmqw1SDFT1iJBK8Hemm7hZMEHhPpDkPwPiEf2n7cqTvS1cD8zWGjUHiNU2MyxcsvoG6DfXCnpPFdNuY23UyqR9hgvm9TG7pr6ZMmdqtfiZWKtdCRh4XKUPDcUbm1Szn1T68c8vyJbvZFS7YQg925Z4av34A"
-  },
-  {
-    "home_team": {
-      "name": "Lorenzo Giustino",
-      "short_name": "LG",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2M3TVqmE9tkz8ZhLuhM3YqGBLtFdrYt6y9HbXKsMtKdsMUKzHvMJnahjnzerfrXxvDqHkKQbCMXGWDpqubVRK1w1p8rNzjRtsYXAXXJ4WYtz4nPZWsm9mvyHtL5bGBp38LhtA7W"
-    },
-    "away_team": {
-      "name": "Jerome Kym",
-      "short_name": "JK",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2X4oaRjSVyarynpYePgtXiFcPGcUmfWWcbeYmPbUrvTdSrpnNmgBuG39o2ryZYXM1yDzBc1yAWLP9ejbRQLYfjkhL8L3s2QMNhz2ScvHYUQNXQEuwfMYearwSg19JvaLpU1Lzod"
-    },
-    "start_time": "2026-08-07T12:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805092",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/k8GWqnYvUm472ky4WNEdnYP2ACsTff46jwcrqyNSVtXcBrbsqr6noc9eEa7rA5dEY6FDdBK3yTzTTdPoPBsEyNKAAJHpS5Wnz3jNBcTrypA722LrKScQZTEt7TKRpmQipCdZ8M5kNVVonp7vU8gCV4ScgPZe9xNT1Foy8q3PvbrwdfJjHCZsWzve6zRrA2d8m7peCTRQobXtfM5rzEWH"
-  },
-  {
-    "home_team": {
-      "name": "Koki Matsuda",
-      "short_name": "KM",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2UsKHvXBMWqEc15HnSvBGQbDqPWrXcnUC4oxPA8CUwjRuTXnciLxS2yfKmMxW9JP3aBYTgkcnXEdNh51MaJN5YaY4rToANWiMyoBPAfHqCp9y1gB7PB1AujBwbdmaj1REfe8KMA"
-    },
-    "away_team": {
-      "name": "Gijs Brouwer",
-      "short_name": "GB",
-      "icon_url": "https://api.watchfooty.st/api/v1/team-logo/2PMGHUez4EgYgBZNXB9PrLYfKg29U8Zz2xGoCLJVALnSWreVMsBrE6Rv5bWK9q7wGH8BrBxQC61Rqof8Aeb5YmU5YGXT94Yc2NQZKa6NBhyG8WDurqZSTGPeqQZ3rNQjNAWTrU3"
-    },
-    "start_time": "2026-08-07T14:00:00.000Z",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "41",
-    "id": "4805194",
-    "type": "TENNIS",
-    "type_url": "https://api.watchfooty.st/api/v1/league-logo/u3dLMNGMPRgS1kGhX1qbHiRe7Co8qvEbrh54ScBdSPFR8oY84nvzTjp1ta8WNWzgpKumv8z3V7D3n4pwZjFaVNQJJhK9B9TG8pudwbm2VYio1P75MESHUHCLbfx7YfmSj7B8xqFMRRG37vfPFAw7b6nUZSVRrqLkXaKaS2NALWQuLtMvrDznUDQJXzYb5wSWx3xHfyEaS63Xh21fPRtdNqAJ"
+    "live_channel_id": "52",
+    "id": "401811961",
+    "type": "GOLF",
+    "type_url": ""
   }
 ]
