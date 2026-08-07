@@ -1,5 +1,35 @@
 [
   {
+    "title": "Wyndham Championship",
+    "home_team": {
+      "name": "Wyndham Championship",
+      "short_name": "WC",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png"
+    },
+    "away_team": {
+      "name": "",
+      "short_name": "",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-06T12:00:00.000+08:00",
+    "end_time": "2026-08-09T12:00:00.000+08:00",
+    "end_time_estimated": false,
+    "status": "live",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "318",
+    "live_channel_name": "golf channel usa",
+    "live_channel_region": "us",
+    "id": "401811961",
+    "type": "golf",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png",
+    "verification": {
+      "broadcaster": "Golf Chnl",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "New York Mets at Pittsburgh Pirates",
     "home_team": {
       "name": "Pittsburgh Pirates",
@@ -210,6 +240,36 @@
     }
   },
   {
+    "title": "Fortuna Sittard at PSV",
+    "home_team": {
+      "name": "PSV",
+      "short_name": "PSV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+    },
+    "away_team": {
+      "name": "Fortuna Sittard",
+      "short_name": "FS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
+    },
+    "start_time": "2026-08-09T02:00:00.000+08:00",
+    "end_time": "2026-08-09T04:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Atlanta Braves at New York Yankees",
     "home_team": {
       "name": "New York Yankees",
@@ -234,6 +294,216 @@
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
     "verification": {
       "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Sporting Clube de Portugal at CF Estrela da Amadora",
+    "home_team": {
+      "name": "CF Estrela da Amadora",
+      "short_name": "CEDA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png"
+    },
+    "away_team": {
+      "name": "Sporting Clube de Portugal",
+      "short_name": "SCDP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png"
+    },
+    "start_time": "2026-08-09T03:30:00.000+08:00",
+    "end_time": "2026-08-09T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "c11dad3e-a20e-4a9b-b229-ac5e6c56c310",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Athletics Athletics at Boston Red Sox",
+    "home_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BRS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "away_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "start_time": "2026-08-09T04:10:00.000+08:00",
+    "end_time": "2026-08-09T07:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816440",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Houston Dynamo FC at New England Revolution",
+    "home_team": {
+      "name": "New England Revolution",
+      "short_name": "NER",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
+    },
+    "away_team": {
+      "name": "Houston Dynamo FC",
+      "short_name": "HDF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
+    },
+    "start_time": "2026-08-09T04:30:00.000+08:00",
+    "end_time": "2026-08-09T06:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "111",
+    "live_channel_name": "tsn1",
+    "live_channel_region": "ca",
+    "id": "bc4a3c16-14be-4edf-8151-d9da4027531e",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mls.png",
+    "verification": {
+      "broadcaster": "TSN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Toronto Blue Jays at Philadelphia Phillies",
+    "home_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "away_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TBJ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "start_time": "2026-08-09T06:05:00.000+08:00",
+    "end_time": "2026-08-09T09:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "406",
+    "live_channel_name": "sportsnet ontario",
+    "live_channel_region": "ca",
+    "id": "401816444",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "Sportsnet",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Cubs at Kansas City Royals",
+    "home_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KCR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "start_time": "2026-08-09T07:10:00.000+08:00",
+    "end_time": "2026-08-09T10:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816446",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "Marquee Sports Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Houston Astros at San Diego Padres",
+    "home_team": {
+      "name": "San Diego Padres",
+      "short_name": "SDP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "away_team": {
+      "name": "Houston Astros",
+      "short_name": "HA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "start_time": "2026-08-09T07:15:00.000+08:00",
+    "end_time": "2026-08-09T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Space.City.Home.Network.HD.us2",
+    "live_channel_name": "Space City Home Network",
+    "live_channel_region": "us",
+    "id": "401816451",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "Space City Home Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Los Angeles Dodgers at Arizona Diamondbacks",
+    "home_team": {
+      "name": "Arizona Diamondbacks",
+      "short_name": "AD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+    },
+    "away_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "start_time": "2026-08-09T08:10:00.000+08:00",
+    "end_time": "2026-08-09T11:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816452",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -270,120 +540,360 @@
     }
   },
   {
-    "title": "Golden State Valkyries at Los Angeles Sparks",
+    "title": "FC Dallas at Guadalajara",
     "home_team": {
-      "name": "Los Angeles Sparks",
-      "short_name": "LAS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+      "name": "Guadalajara",
+      "short_name": "GUA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png"
     },
     "away_team": {
-      "name": "Golden State Valkyries",
-      "short_name": "GSV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+      "name": "FC Dallas",
+      "short_name": "FD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
     },
-    "start_time": "2026-08-10T07:00:00.000+08:00",
-    "end_time": "2026-08-10T09:30:00.000+08:00",
+    "start_time": "2026-08-09T09:00:00.000+08:00",
+    "end_time": "2026-08-09T11:15:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.HD.us2",
-    "live_channel_name": "ESPN",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
     "live_channel_region": "us",
-    "id": "401857131",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "id": "401863596",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
     "verification": {
-      "broadcaster": "ESPN",
+      "broadcaster": "FS1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "Toronto Tempo at Atlanta Dream",
+    "title": "LAFC at Toluca",
     "home_team": {
-      "name": "Atlanta Dream",
-      "short_name": "AD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+      "name": "Toluca",
+      "short_name": "TOL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png"
     },
     "away_team": {
-      "name": "Toronto Tempo",
-      "short_name": "TT",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+      "name": "LAFC",
+      "short_name": "LAF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
     },
-    "start_time": "2026-08-11T08:00:00.000+08:00",
-    "end_time": "2026-08-11T10:30:00.000+08:00",
+    "start_time": "2026-08-09T11:10:00.000+08:00",
+    "end_time": "2026-08-09T13:25:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401863599",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Feyenoord Rotterdam at Sparta Rotterdam",
+    "home_team": {
+      "name": "Sparta Rotterdam",
+      "short_name": "SR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png"
+    },
+    "away_team": {
+      "name": "Feyenoord Rotterdam",
+      "short_name": "FR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+    },
+    "start_time": "2026-08-09T18:15:00.000+08:00",
+    "end_time": "2026-08-09T20:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "14c9dfc9-e207-4c8d-9eff-c7f8f0d35ff8",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "AFC Ajax at PEC Zwolle",
+    "home_team": {
+      "name": "PEC Zwolle",
+      "short_name": "PZ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
+    },
+    "away_team": {
+      "name": "AFC Ajax",
+      "short_name": "AA",
+      "icon_url": "https://crests.football-data.org/678.png"
+    },
+    "start_time": "2026-08-09T20:30:00.000+08:00",
+    "end_time": "2026-08-09T22:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "448c97fd-427a-4688-b258-d72b795ca97a",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Celtic at Kilmarnock",
+    "home_team": {
+      "name": "Kilmarnock",
+      "short_name": "KIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png"
+    },
+    "away_team": {
+      "name": "Celtic",
+      "short_name": "CEL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+    },
+    "start_time": "2026-08-09T20:30:00.000+08:00",
+    "end_time": "2026-08-09T22:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "345fefb6-b730-4e0c-9b06-9d658ac92910",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Hibernian at Rangers",
+    "home_team": {
+      "name": "Rangers",
+      "short_name": "RAN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
+    },
+    "away_team": {
+      "name": "Hibernian",
+      "short_name": "HIB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png"
+    },
+    "start_time": "2026-08-09T23:00:00.000+08:00",
+    "end_time": "2026-08-10T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "8463e9bb-84b9-4761-8e3a-1fbd4af104b2",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "FC Alverca at FC Porto",
+    "home_team": {
+      "name": "FC Porto",
+      "short_name": "FP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+    },
+    "away_team": {
+      "name": "FC Alverca",
+      "short_name": "FA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png"
+    },
+    "start_time": "2026-08-10T01:00:00.000+08:00",
+    "end_time": "2026-08-10T03:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "31675987-ec4c-4250-bd5e-834abd4ecca1",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Athletics Athletics at Boston Red Sox",
+    "home_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BRS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "away_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "start_time": "2026-08-10T01:35:00.000+08:00",
+    "end_time": "2026-08-10T05:05:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "111",
-    "live_channel_name": "tsn1",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816455",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Atlanta Braves at New York Yankees",
+    "home_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "away_team": {
+      "name": "Atlanta Braves",
+      "short_name": "AB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+    },
+    "start_time": "2026-08-10T01:35:00.000+08:00",
+    "end_time": "2026-08-10T05:05:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "763",
+    "live_channel_name": "yes network usa",
+    "live_channel_region": "us",
+    "id": "401816456",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Toronto Blue Jays at Philadelphia Phillies",
+    "home_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "away_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TBJ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "start_time": "2026-08-10T01:35:00.000+08:00",
+    "end_time": "2026-08-10T05:05:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "406",
+    "live_channel_name": "sportsnet ontario",
     "live_channel_region": "ca",
-    "id": "401857132",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "id": "401816459",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
     "verification": {
-      "broadcaster": "TSN",
+      "broadcaster": "Sportsnet",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "Chicago Sky at Seattle Storm",
+    "title": "Chicago Cubs at Kansas City Royals",
     "home_team": {
-      "name": "Seattle Storm",
-      "short_name": "SS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
+      "name": "Kansas City Royals",
+      "short_name": "KCR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
     },
     "away_team": {
-      "name": "Chicago Sky",
-      "short_name": "CS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+      "name": "Chicago Cubs",
+      "short_name": "CC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
     },
-    "start_time": "2026-08-11T10:00:00.000+08:00",
-    "end_time": "2026-08-11T12:30:00.000+08:00",
+    "start_time": "2026-08-10T02:10:00.000+08:00",
+    "end_time": "2026-08-10T05:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816461",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "verification": {
+      "broadcaster": "Marquee Sports Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Baltimore Orioles at Texas Rangers",
+    "home_team": {
+      "name": "Texas Rangers",
+      "short_name": "TR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "start_time": "2026-08-10T02:35:00.000+08:00",
+    "end_time": "2026-08-10T06:05:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "343",
-    "live_channel_name": "usa network",
+    "live_channel_id": "829",
+    "live_channel_name": "masn usa",
     "live_channel_region": "us",
-    "id": "401857133",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "id": "401816460",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
     "verification": {
-      "broadcaster": "USA Net",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Wyndham Championship",
-    "home_team": {
-      "name": "Wyndham Championship",
-      "short_name": "WC",
-      "icon_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png"
-    },
-    "away_team": {
-      "name": "",
-      "short_name": "",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-06T12:00:00.000+08:00",
-    "end_time": "2026-08-09T12:00:00.000+08:00",
-    "end_time_estimated": false,
-    "status": "live",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "318",
-    "live_channel_name": "golf channel usa",
-    "live_channel_region": "us",
-    "id": "401811961",
-    "type": "golf",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png",
-    "verification": {
-      "broadcaster": "Golf Chnl",
+      "broadcaster": "MASN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -420,56 +930,26 @@
     }
   },
   {
-    "title": "SBV Excelsior at SC Cambuur-Leeuwarden",
+    "title": "Académico de Viseu FC at Sport Lisboa e Benfica",
     "home_team": {
-      "name": "SC Cambuur-Leeuwarden",
-      "short_name": "SC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
+      "name": "Sport Lisboa e Benfica",
+      "short_name": "SLEB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
     },
     "away_team": {
-      "name": "SBV Excelsior",
-      "short_name": "SE",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
+      "name": "Académico de Viseu FC",
+      "short_name": "ADVF",
+      "icon_url": "https://crests.football-data.org/5527.png"
     },
-    "start_time": "2026-08-08T02:00:00.000+08:00",
-    "end_time": "2026-08-08T04:15:00.000+08:00",
+    "start_time": "2026-08-10T03:30:00.000+08:00",
+    "end_time": "2026-08-10T05:45:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
     "live_channel_id": "beIN.Sports.USA.HD.us2",
     "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
-    "id": "aa805c32-b527-4390-8197-58c9b0cb7eff",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "FC Famalicão at GD Estoril Praia",
-    "home_team": {
-      "name": "GD Estoril Praia",
-      "short_name": "GEP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png"
-    },
-    "away_team": {
-      "name": "FC Famalicão",
-      "short_name": "FF",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png"
-    },
-    "start_time": "2026-08-08T03:15:00.000+08:00",
-    "end_time": "2026-08-08T05:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "4d826612-6e1e-4c2a-88dc-6d2873560777",
+    "id": "4957d2c9-f20b-4820-be5a-06c8586cf4a4",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
     "verification": {
@@ -480,180 +960,120 @@
     }
   },
   {
-    "title": "Telstar 1963 at NEC",
+    "title": "Los Angeles Dodgers at Arizona Diamondbacks",
     "home_team": {
-      "name": "NEC",
-      "short_name": "NEC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      "name": "Arizona Diamondbacks",
+      "short_name": "AD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
     },
     "away_team": {
-      "name": "Telstar 1963",
-      "short_name": "T",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
     },
-    "start_time": "2026-08-08T22:30:00.000+08:00",
-    "end_time": "2026-08-09T00:45:00.000+08:00",
+    "start_time": "2026-08-10T04:10:00.000+08:00",
+    "end_time": "2026-08-10T07:40:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
     "live_channel_region": "us",
-    "id": "be7983b5-9a3d-4725-a095-4db21791d6e9",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "id": "401816467",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "SportsNet LA",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "Casa Pia AC at CS Marítimo",
+    "title": "Golden State Valkyries at Los Angeles Sparks",
     "home_team": {
-      "name": "CS Marítimo",
-      "short_name": "CM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png"
+      "name": "Los Angeles Sparks",
+      "short_name": "LAS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
     },
     "away_team": {
-      "name": "Casa Pia AC",
-      "short_name": "CPA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png"
+      "name": "Golden State Valkyries",
+      "short_name": "GSV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
     },
-    "start_time": "2026-08-08T22:30:00.000+08:00",
-    "end_time": "2026-08-09T00:45:00.000+08:00",
+    "start_time": "2026-08-10T07:00:00.000+08:00",
+    "end_time": "2026-08-10T09:30:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
-    "id": "55ba4fbd-61b4-474a-b219-81117091737d",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "id": "401857131",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "Willem II Tilburg at Go Ahead Eagles",
+    "title": "New York City FC at Cruz Azul",
     "home_team": {
-      "name": "Go Ahead Eagles",
-      "short_name": "GAE",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png"
+      "name": "Cruz Azul",
+      "short_name": "CA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png"
     },
     "away_team": {
-      "name": "Willem II Tilburg",
-      "short_name": "WIT",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
+      "name": "New York City FC",
+      "short_name": "NYCF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
     },
-    "start_time": "2026-08-09T00:45:00.000+08:00",
-    "end_time": "2026-08-09T03:00:00.000+08:00",
+    "start_time": "2026-08-10T07:30:00.000+08:00",
+    "end_time": "2026-08-10T09:45:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
     "live_channel_region": "us",
-    "id": "6e7d7e30-599d-41ce-9e8e-bf1ef743e831",
+    "id": "401863597",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "FS1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "FC Arouca at Vitória SC",
+    "title": "Portland Timbers at América",
     "home_team": {
-      "name": "Vitória SC",
-      "short_name": "VS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png"
+      "name": "América",
+      "short_name": "AMÉ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png"
     },
     "away_team": {
-      "name": "FC Arouca",
-      "short_name": "FA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png"
+      "name": "Portland Timbers",
+      "short_name": "PT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
     },
-    "start_time": "2026-08-09T01:00:00.000+08:00",
-    "end_time": "2026-08-09T03:15:00.000+08:00",
+    "start_time": "2026-08-10T10:15:00.000+08:00",
+    "end_time": "2026-08-10T12:30:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
     "live_channel_region": "us",
-    "id": "e87772f4-a470-4c41-a5e0-c77b5c07d395",
+    "id": "401863604",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
+    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/2410.png",
     "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Fortuna Sittard at PSV",
-    "home_team": {
-      "name": "PSV",
-      "short_name": "PSV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
-    },
-    "away_team": {
-      "name": "Fortuna Sittard",
-      "short_name": "FS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
-    },
-    "start_time": "2026-08-09T02:00:00.000+08:00",
-    "end_time": "2026-08-09T04:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "ced24090-8490-43f6-b6f8-dc3eae5db669",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "ADO Den Haag at AZ",
-    "home_team": {
-      "name": "AZ",
-      "short_name": "AZ",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
-    },
-    "away_team": {
-      "name": "ADO Den Haag",
-      "short_name": "ADH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
-    },
-    "start_time": "2026-08-09T03:00:00.000+08:00",
-    "end_time": "2026-08-09T05:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "c695c76b-7818-4b97-9d2d-7a2dfdba3e86",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
-    "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "FS1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
