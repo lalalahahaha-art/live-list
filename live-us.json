@@ -51,7 +51,7 @@
     "live_channel_region": "us",
     "id": "401816428",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "WPIX",
       "forward": true,
@@ -81,7 +81,7 @@
     "live_channel_region": "ca",
     "id": "401816429",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Sportsnet",
       "forward": true,
@@ -111,7 +111,7 @@
     "live_channel_region": "us",
     "id": "401816426",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "YES",
       "forward": true,
@@ -141,7 +141,7 @@
     "live_channel_region": "us",
     "id": "401816425",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "NESN",
       "forward": true,
@@ -171,7 +171,7 @@
     "live_channel_region": "us",
     "id": "401816431",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Marquee Sports Net",
       "forward": true,
@@ -201,7 +201,7 @@
     "live_channel_region": "us",
     "id": "401816436",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Space City Home Network",
       "forward": true,
@@ -231,7 +231,7 @@
     "live_channel_region": "us",
     "id": "401816437",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "SportsNet LA",
       "forward": true,
@@ -291,7 +291,7 @@
     "live_channel_region": "us",
     "id": "401816441",
     "type": "baseball",
-    "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "YES",
       "forward": true,
@@ -621,7 +621,7 @@
     "live_channel_region": "us",
     "id": "14c9dfc9-e207-4c8d-9eff-c7f8f0d35ff8",
     "type": "soccer",
-    "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -706,14 +706,74 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816467",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Golden State Valkyries at Los Angeles Sparks",
+    "home_team": {
+      "name": "Los Angeles Sparks",
+      "short_name": "LAS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+    },
+    "away_team": {
+      "name": "Golden State Valkyries",
+      "short_name": "GSV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+    },
+    "start_time": "2026-08-10T07:00:00.000+08:00",
+    "end_time": "2026-08-10T09:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "8463e9bb-84b9-4761-8e3a-1fbd4af104b2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/45.png",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Portland Timbers at América",
+    "home_team": {
+      "name": "América",
+      "short_name": "AMÉ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png"
+    },
+    "away_team": {
+      "name": "Portland Timbers",
+      "short_name": "PT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
+    },
+    "start_time": "2026-08-10T10:15:00.000+08:00",
+    "end_time": "2026-08-10T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401863604",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "verification": {
+      "broadcaster": "FS1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
