@@ -30,7 +30,7 @@
     },
     "start_time": "2026-08-08T06:40:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "53",
+    "live_channel_id": "759",
     "id": "401816429",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -48,7 +48,7 @@
     },
     "start_time": "2026-08-08T06:45:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "325",
+    "live_channel_id": "39",
     "id": "401816427",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -66,7 +66,7 @@
     },
     "start_time": "2026-08-08T07:05:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "325",
+    "live_channel_id": "763",
     "id": "401816426",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -84,7 +84,7 @@
     },
     "start_time": "2026-08-08T07:10:00.000+08:00",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "53",
+    "live_channel_id": "762",
     "id": "401816425",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
@@ -137,8 +137,8 @@
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
     },
     "start_time": "2026-08-08T09:40:00.000+08:00",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CA1400003R3",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "764",
     "id": "401816437",
     "type": "MLB",
     "type_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png"
