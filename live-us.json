@@ -11,7 +11,7 @@
       "short_name": "LV",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
     },
-    "start_time": "2026-08-08T17:30:00.000+08:00",
+    "start_time": "2026-08-09T01:00:00.000+08:00",
     "end_time": "2026-08-09T03:30:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
@@ -150,6 +150,36 @@
     }
   },
   {
+    "title": "Los Angeles Angels at Miami Marlins",
+    "home_team": {
+      "name": "Miami Marlins",
+      "short_name": "MIA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "away_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "start_time": "2026-08-09T04:10:00.000+08:00",
+    "end_time": "2026-08-09T07:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816439",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Athletics Athletics at Boston Red Sox",
     "home_team": {
       "name": "Boston Red Sox",
@@ -256,14 +286,14 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "SportsNet.Pittsburgh.HD.us2",
-    "live_channel_name": "SportsNet Pittsburgh",
+    "live_channel_id": "SNY.SportsNet.New.York.HD.us2",
+    "live_channel_name": "SportsNet New York",
     "live_channel_region": "us",
     "id": "401816443",
     "type": "baseball",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
-      "broadcaster": "SportsNet Pittsburgh",
+      "broadcaster": "SNY",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -294,6 +324,156 @@
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Marquee Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Minnesota Twins at Milwaukee Brewers",
+    "home_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "away_team": {
+      "name": "Minnesota Twins",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "start_time": "2026-08-09T07:10:00.000+08:00",
+    "end_time": "2026-08-09T10:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "907",
+    "live_channel_name": "fanduel sports network wisconsin",
+    "live_channel_region": "unknown",
+    "id": "401816449",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Brewers.TV Presented by Potawatomi Sportsbook",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Baltimore Orioles at Texas Rangers",
+    "home_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "start_time": "2026-08-09T07:15:00.000+08:00",
+    "end_time": "2026-08-09T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "54",
+    "live_channel_name": "fox usa",
+    "live_channel_region": "us",
+    "id": "401816445",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "FOX",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Cleveland Guardians at Chicago White Sox",
+    "home_team": {
+      "name": "Chicago White Sox",
+      "short_name": "CHW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    "away_team": {
+      "name": "Cleveland Guardians",
+      "short_name": "CLE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+    },
+    "start_time": "2026-08-09T07:15:00.000+08:00",
+    "end_time": "2026-08-09T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "54",
+    "live_channel_name": "fox usa",
+    "live_channel_region": "us",
+    "id": "401816447",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "FOX",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Colorado Rockies at St. Louis Cardinals",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "away_team": {
+      "name": "Colorado Rockies",
+      "short_name": "COL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+    },
+    "start_time": "2026-08-09T07:15:00.000+08:00",
+    "end_time": "2026-08-09T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "896",
+    "live_channel_name": "fanduel sports network midwest",
+    "live_channel_region": "unknown",
+    "id": "401816448",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Cardinals.TV Presented by bet365",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Detroit Tigers at San Francisco Giants",
+    "home_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "away_team": {
+      "name": "Detroit Tigers",
+      "short_name": "DET",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+    },
+    "start_time": "2026-08-09T07:15:00.000+08:00",
+    "end_time": "2026-08-09T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "54",
+    "live_channel_name": "fox usa",
+    "live_channel_region": "us",
+    "id": "401816450",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "FOX",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -570,6 +750,36 @@
     }
   },
   {
+    "title": "Cincinnati Reds at Washington Nationals",
+    "home_team": {
+      "name": "Washington Nationals",
+      "short_name": "WSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "away_team": {
+      "name": "Cincinnati Reds",
+      "short_name": "CIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "start_time": "2026-08-10T00:15:00.000+08:00",
+    "end_time": "2026-08-10T03:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "NBCSN.us@SD",
+    "live_channel_name": "NBCSN (720p)",
+    "live_channel_region": "us",
+    "id": "401816457",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Las Vegas Aces at New York Liberty",
     "home_team": {
       "name": "New York Liberty",
@@ -706,14 +916,14 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "SportsNet.Pittsburgh.HD.us2",
-    "live_channel_name": "SportsNet Pittsburgh",
+    "live_channel_id": "SNY.SportsNet.New.York.HD.us2",
+    "live_channel_name": "SportsNet New York",
     "live_channel_region": "us",
     "id": "401816458",
     "type": "baseball",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
-      "broadcaster": "SportsNet Pittsburgh",
+      "broadcaster": "SNY",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -744,6 +954,36 @@
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "NBCSP",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Los Angeles Angels at Miami Marlins",
+    "home_team": {
+      "name": "Miami Marlins",
+      "short_name": "MIA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "away_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "start_time": "2026-08-10T01:40:00.000+08:00",
+    "end_time": "2026-08-10T05:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816454",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -804,6 +1044,66 @@
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
     "verification": {
       "broadcaster": "Chicago Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Minnesota Twins at Milwaukee Brewers",
+    "home_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "away_team": {
+      "name": "Minnesota Twins",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "start_time": "2026-08-10T02:10:00.000+08:00",
+    "end_time": "2026-08-10T05:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "907",
+    "live_channel_name": "fanduel sports network wisconsin",
+    "live_channel_region": "unknown",
+    "id": "401816464",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Brewers.TV Presented by Potawatomi Sportsbook",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Colorado Rockies at St. Louis Cardinals",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "away_team": {
+      "name": "Colorado Rockies",
+      "short_name": "COL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+    },
+    "start_time": "2026-08-10T02:15:00.000+08:00",
+    "end_time": "2026-08-10T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "896",
+    "live_channel_name": "fanduel sports network midwest",
+    "live_channel_region": "unknown",
+    "id": "401816463",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Cardinals.TV Presented by bet365",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1050,6 +1350,36 @@
     }
   },
   {
+    "title": "Houston Astros at San Diego Padres",
+    "home_team": {
+      "name": "San Diego Padres",
+      "short_name": "SD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "away_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "start_time": "2026-08-10T08:20:00.000+08:00",
+    "end_time": "2026-08-10T11:50:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "53",
+    "live_channel_name": "nbc usa",
+    "live_channel_region": "us",
+    "id": "401816466",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBC",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Portland Timbers at América",
     "home_team": {
       "name": "América",
@@ -1070,6 +1400,1596 @@
     "live_channel_name": "FS1",
     "live_channel_region": "us",
     "id": "401863604",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Boston Red Sox at Toronto Blue Jays",
+    "home_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "away_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BOS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "start_time": "2026-08-11T07:07:00.000+08:00",
+    "end_time": "2026-08-11T10:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816469",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "New York Mets at Atlanta Braves",
+    "home_team": {
+      "name": "Atlanta Braves",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+    },
+    "away_team": {
+      "name": "New York Mets",
+      "short_name": "NYM",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    "start_time": "2026-08-11T07:15:00.000+08:00",
+    "end_time": "2026-08-11T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SNY.SportsNet.New.York.HD.us2",
+    "live_channel_name": "SportsNet New York",
+    "live_channel_region": "us",
+    "id": "401816470",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SNY",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Baltimore Orioles at Minnesota Twins",
+    "home_team": {
+      "name": "Minnesota Twins",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "start_time": "2026-08-11T07:40:00.000+08:00",
+    "end_time": "2026-08-11T11:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "829",
+    "live_channel_name": "masn usa",
+    "live_channel_region": "us",
+    "id": "401816471",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "MASN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Philadelphia Phillies at St. Louis Cardinals",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "away_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "start_time": "2026-08-11T07:45:00.000+08:00",
+    "end_time": "2026-08-11T11:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401816472",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Toronto Tempo at Atlanta Dream",
+    "home_team": {
+      "name": "Atlanta Dream",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+    },
+    "away_team": {
+      "name": "Toronto Tempo",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+    },
+    "start_time": "2026-08-11T08:00:00.000+08:00",
+    "end_time": "2026-08-11T10:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "NBCSN.us@SD",
+    "live_channel_name": "NBCSN (720p)",
+    "live_channel_region": "us",
+    "id": "401857132",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "NBCSN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Texas Rangers at Los Angeles Angels",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "away_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "start_time": "2026-08-11T09:38:00.000+08:00",
+    "end_time": "2026-08-11T13:08:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816478",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Milwaukee Brewers at San Diego Padres",
+    "home_team": {
+      "name": "San Diego Padres",
+      "short_name": "SD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "away_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "start_time": "2026-08-11T09:40:00.000+08:00",
+    "end_time": "2026-08-11T13:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "907",
+    "live_channel_name": "fanduel sports network wisconsin",
+    "live_channel_region": "unknown",
+    "id": "401816476",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Brewers.TV Presented by Potawatomi Sportsbook",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Tampa Bay Rays at Athletics Athletics",
+    "home_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "away_team": {
+      "name": "Tampa Bay Rays",
+      "short_name": "TB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    "start_time": "2026-08-11T09:40:00.000+08:00",
+    "end_time": "2026-08-11T13:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.California.SAT.us2",
+    "live_channel_name": "NBC Sports California",
+    "live_channel_region": "us",
+    "id": "401816477",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSCA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Houston Astros at San Francisco Giants",
+    "home_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "away_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "start_time": "2026-08-11T09:45:00.000+08:00",
+    "end_time": "2026-08-11T13:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
+    "live_channel_name": "NBC Sports Bay Area",
+    "live_channel_region": "us",
+    "id": "401816474",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCS BA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Sky at Seattle Storm",
+    "home_team": {
+      "name": "Seattle Storm",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
+    },
+    "away_team": {
+      "name": "Chicago Sky",
+      "short_name": "CHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+    },
+    "start_time": "2026-08-11T10:00:00.000+08:00",
+    "end_time": "2026-08-11T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "343",
+    "live_channel_name": "usa network",
+    "live_channel_region": "us",
+    "id": "401857133",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "USA Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Kansas City Royals at Los Angeles Dodgers",
+    "home_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "away_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "start_time": "2026-08-11T10:10:00.000+08:00",
+    "end_time": "2026-08-11T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816475",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Pittsburgh Pirates at Miami Marlins",
+    "home_team": {
+      "name": "Miami Marlins",
+      "short_name": "MIA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "away_team": {
+      "name": "Pittsburgh Pirates",
+      "short_name": "PIT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    "start_time": "2026-08-12T06:40:00.000+08:00",
+    "end_time": "2026-08-12T10:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SportsNet.Pittsburgh.HD.us2",
+    "live_channel_name": "SportsNet Pittsburgh",
+    "live_channel_region": "us",
+    "id": "401816483",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet Pittsburgh",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Cubs at Washington Nationals",
+    "home_team": {
+      "name": "Washington Nationals",
+      "short_name": "WSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CHC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "start_time": "2026-08-12T06:45:00.000+08:00",
+    "end_time": "2026-08-12T10:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816480",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Marquee Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Seattle Mariners at New York Yankees",
+    "home_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "away_team": {
+      "name": "Seattle Mariners",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "start_time": "2026-08-12T07:05:00.000+08:00",
+    "end_time": "2026-08-12T10:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "763",
+    "live_channel_name": "yes network usa",
+    "live_channel_region": "us",
+    "id": "401816484",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Boston Red Sox at Toronto Blue Jays",
+    "home_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "away_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BOS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "start_time": "2026-08-12T07:07:00.000+08:00",
+    "end_time": "2026-08-12T10:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816479",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "New York Mets at Atlanta Braves",
+    "home_team": {
+      "name": "Atlanta Braves",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+    },
+    "away_team": {
+      "name": "New York Mets",
+      "short_name": "NYM",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    "start_time": "2026-08-12T07:15:00.000+08:00",
+    "end_time": "2026-08-12T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SNY.SportsNet.New.York.HD.us2",
+    "live_channel_name": "SportsNet New York",
+    "live_channel_region": "us",
+    "id": "401816482",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SNY",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "New York Liberty at Indiana Fever",
+    "home_team": {
+      "name": "Indiana Fever",
+      "short_name": "IND",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"
+    },
+    "away_team": {
+      "name": "New York Liberty",
+      "short_name": "NY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png"
+    },
+    "start_time": "2026-08-12T07:30:00.000+08:00",
+    "end_time": "2026-08-12T10:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "44",
+    "live_channel_name": "espn usa",
+    "live_channel_region": "us",
+    "id": "401857134",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "ESPN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Baltimore Orioles at Minnesota Twins",
+    "home_team": {
+      "name": "Minnesota Twins",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "start_time": "2026-08-12T07:40:00.000+08:00",
+    "end_time": "2026-08-12T11:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "829",
+    "live_channel_name": "masn usa",
+    "live_channel_region": "us",
+    "id": "401816485",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "MASN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Cincinnati Reds at Chicago White Sox",
+    "home_team": {
+      "name": "Chicago White Sox",
+      "short_name": "CHW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    "away_team": {
+      "name": "Cincinnati Reds",
+      "short_name": "CIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "start_time": "2026-08-12T07:40:00.000+08:00",
+    "end_time": "2026-08-12T11:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "CHSN.Chicago.Sports.Network.us2",
+    "live_channel_name": "Chicago Sports Network",
+    "live_channel_region": "us",
+    "id": "401816486",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Chicago Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Philadelphia Phillies at St. Louis Cardinals",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "away_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "start_time": "2026-08-12T07:45:00.000+08:00",
+    "end_time": "2026-08-12T11:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Philadelphia.HD.us2",
+    "live_channel_name": "NBC Sports Philadelphia",
+    "live_channel_region": "us",
+    "id": "401816487",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSP",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Atlas at FC Cincinnati",
+    "home_team": {
+      "name": "FC Cincinnati",
+      "short_name": "CIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
+    },
+    "away_team": {
+      "name": "Atlas",
+      "short_name": "ATS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
+    },
+    "start_time": "2026-08-12T08:00:00.000+08:00",
+    "end_time": "2026-08-12T10:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401863610",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Texas Rangers at Los Angeles Angels",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "away_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "start_time": "2026-08-12T09:38:00.000+08:00",
+    "end_time": "2026-08-12T13:08:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816493",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Milwaukee Brewers at San Diego Padres",
+    "home_team": {
+      "name": "San Diego Padres",
+      "short_name": "SD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "away_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "start_time": "2026-08-12T09:40:00.000+08:00",
+    "end_time": "2026-08-12T13:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "907",
+    "live_channel_name": "fanduel sports network wisconsin",
+    "live_channel_region": "unknown",
+    "id": "401816491",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Brewers.TV Presented by Potawatomi Sportsbook",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Tampa Bay Rays at Athletics Athletics",
+    "home_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "away_team": {
+      "name": "Tampa Bay Rays",
+      "short_name": "TB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    "start_time": "2026-08-12T09:40:00.000+08:00",
+    "end_time": "2026-08-12T13:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.California.SAT.us2",
+    "live_channel_name": "NBC Sports California",
+    "live_channel_region": "us",
+    "id": "401816492",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSCA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Houston Astros at San Francisco Giants",
+    "home_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "away_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "start_time": "2026-08-12T09:45:00.000+08:00",
+    "end_time": "2026-08-12T13:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
+    "live_channel_name": "NBC Sports Bay Area",
+    "live_channel_region": "us",
+    "id": "401816489",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCS BA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Phoenix Mercury at Los Angeles Sparks",
+    "home_team": {
+      "name": "Los Angeles Sparks",
+      "short_name": "LA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+    },
+    "away_team": {
+      "name": "Phoenix Mercury",
+      "short_name": "PHX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
+    },
+    "start_time": "2026-08-12T10:00:00.000+08:00",
+    "end_time": "2026-08-12T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "404",
+    "live_channel_name": "nba tv usa",
+    "live_channel_region": "us",
+    "id": "401857136",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "NBA TV",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Kansas City Royals at Los Angeles Dodgers",
+    "home_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "away_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "start_time": "2026-08-12T10:10:00.000+08:00",
+    "end_time": "2026-08-12T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816490",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Baltimore Orioles at Minnesota Twins",
+    "home_team": {
+      "name": "Minnesota Twins",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "start_time": "2026-08-13T01:40:00.000+08:00",
+    "end_time": "2026-08-13T05:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "829",
+    "live_channel_name": "masn usa",
+    "live_channel_region": "us",
+    "id": "401816500",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "MASN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Philadelphia Phillies at St. Louis Cardinals",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "away_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "start_time": "2026-08-13T02:15:00.000+08:00",
+    "end_time": "2026-08-13T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Philadelphia.HD.us2",
+    "live_channel_name": "NBC Sports Philadelphia",
+    "live_channel_region": "us",
+    "id": "401816502",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSP",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Tampa Bay Rays at Athletics Athletics",
+    "home_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "away_team": {
+      "name": "Tampa Bay Rays",
+      "short_name": "TB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    "start_time": "2026-08-13T03:05:00.000+08:00",
+    "end_time": "2026-08-13T06:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.California.SAT.us2",
+    "live_channel_name": "NBC Sports California",
+    "live_channel_region": "us",
+    "id": "401816507",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCSCA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Houston Astros at San Francisco Giants",
+    "home_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "away_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "start_time": "2026-08-13T03:45:00.000+08:00",
+    "end_time": "2026-08-13T07:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
+    "live_channel_name": "NBC Sports Bay Area",
+    "live_channel_region": "us",
+    "id": "401816504",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NBCS BA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Milwaukee Brewers at San Diego Padres",
+    "home_team": {
+      "name": "San Diego Padres",
+      "short_name": "SD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "away_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "start_time": "2026-08-13T04:10:00.000+08:00",
+    "end_time": "2026-08-13T07:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "907",
+    "live_channel_name": "fanduel sports network wisconsin",
+    "live_channel_region": "unknown",
+    "id": "401816506",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Brewers.TV Presented by Potawatomi Sportsbook",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Pittsburgh Pirates at Miami Marlins",
+    "home_team": {
+      "name": "Miami Marlins",
+      "short_name": "MIA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "away_team": {
+      "name": "Pittsburgh Pirates",
+      "short_name": "PIT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    "start_time": "2026-08-13T06:40:00.000+08:00",
+    "end_time": "2026-08-13T10:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SportsNet.Pittsburgh.HD.us2",
+    "live_channel_name": "SportsNet Pittsburgh",
+    "live_channel_region": "us",
+    "id": "401816498",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet Pittsburgh",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Cubs at Washington Nationals",
+    "home_team": {
+      "name": "Washington Nationals",
+      "short_name": "WSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CHC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "start_time": "2026-08-13T06:45:00.000+08:00",
+    "end_time": "2026-08-13T10:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816495",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Marquee Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Seattle Mariners at New York Yankees",
+    "home_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "away_team": {
+      "name": "Seattle Mariners",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "start_time": "2026-08-13T07:00:00.000+08:00",
+    "end_time": "2026-08-13T10:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "44",
+    "live_channel_name": "espn usa",
+    "live_channel_region": "us",
+    "id": "401816499",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ESPN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Boston Red Sox at Toronto Blue Jays",
+    "home_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "away_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BOS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "start_time": "2026-08-13T07:07:00.000+08:00",
+    "end_time": "2026-08-13T10:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816494",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "New York Mets at Atlanta Braves",
+    "home_team": {
+      "name": "Atlanta Braves",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+    },
+    "away_team": {
+      "name": "New York Mets",
+      "short_name": "NYM",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    "start_time": "2026-08-13T07:15:00.000+08:00",
+    "end_time": "2026-08-13T10:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SNY.SportsNet.New.York.HD.us2",
+    "live_channel_name": "SportsNet New York",
+    "live_channel_region": "us",
+    "id": "401816497",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SNY",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Cincinnati Reds at Chicago White Sox",
+    "home_team": {
+      "name": "Chicago White Sox",
+      "short_name": "CHW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    "away_team": {
+      "name": "Cincinnati Reds",
+      "short_name": "CIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "start_time": "2026-08-13T07:40:00.000+08:00",
+    "end_time": "2026-08-13T11:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "CHSN.Chicago.Sports.Network.us2",
+    "live_channel_name": "Chicago Sports Network",
+    "live_channel_region": "us",
+    "id": "401816501",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Chicago Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Toronto Tempo at Dallas Wings",
+    "home_team": {
+      "name": "Dallas Wings",
+      "short_name": "DAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
+    },
+    "away_team": {
+      "name": "Toronto Tempo",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+    },
+    "start_time": "2026-08-13T08:00:00.000+08:00",
+    "end_time": "2026-08-13T10:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "343",
+    "live_channel_name": "usa network",
+    "live_channel_region": "us",
+    "id": "401857137",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "USA Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Nashville SC at Monterrey",
+    "home_team": {
+      "name": "Monterrey",
+      "short_name": "MTY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png"
+    },
+    "away_team": {
+      "name": "Nashville SC",
+      "short_name": "NSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
+    },
+    "start_time": "2026-08-13T08:00:00.000+08:00",
+    "end_time": "2026-08-13T10:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401863616",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Texas Rangers at Los Angeles Angels",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "away_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "start_time": "2026-08-13T10:00:00.000+08:00",
+    "end_time": "2026-08-13T13:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "44",
+    "live_channel_name": "espn usa",
+    "live_channel_region": "us",
+    "id": "401816508",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ESPN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Sky at Golden State Valkyries",
+    "home_team": {
+      "name": "Golden State Valkyries",
+      "short_name": "GS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+    },
+    "away_team": {
+      "name": "Chicago Sky",
+      "short_name": "CHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+    },
+    "start_time": "2026-08-13T10:00:00.000+08:00",
+    "end_time": "2026-08-13T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "343",
+    "live_channel_name": "usa network",
+    "live_channel_region": "us",
+    "id": "401857138",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "USA Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Minnesota Lynx at Portland Fire",
+    "home_team": {
+      "name": "Portland Fire",
+      "short_name": "POR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
+    },
+    "away_team": {
+      "name": "Minnesota Lynx",
+      "short_name": "MIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
+    },
+    "start_time": "2026-08-13T10:00:00.000+08:00",
+    "end_time": "2026-08-13T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8",
+    "live_channel_name": "Victory+ (1080p)",
+    "live_channel_region": "unknown",
+    "id": "401857139",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "Victory+ MIN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Kansas City Royals at Los Angeles Dodgers",
+    "home_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "away_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "start_time": "2026-08-13T10:10:00.000+08:00",
+    "end_time": "2026-08-13T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816505",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Pittsburgh Pirates at Miami Marlins",
+    "home_team": {
+      "name": "Miami Marlins",
+      "short_name": "MIA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "away_team": {
+      "name": "Pittsburgh Pirates",
+      "short_name": "PIT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    "start_time": "2026-08-14T01:10:00.000+08:00",
+    "end_time": "2026-08-14T04:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SportsNet.Pittsburgh.HD.us2",
+    "live_channel_name": "SportsNet Pittsburgh",
+    "live_channel_region": "us",
+    "id": "401816512",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet Pittsburgh",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Seattle Mariners at New York Yankees",
+    "home_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "away_team": {
+      "name": "Seattle Mariners",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "start_time": "2026-08-14T01:35:00.000+08:00",
+    "end_time": "2026-08-14T05:05:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "763",
+    "live_channel_name": "yes network usa",
+    "live_channel_region": "us",
+    "id": "401816513",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Cincinnati Reds at Chicago White Sox",
+    "home_team": {
+      "name": "Chicago White Sox",
+      "short_name": "CHW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+    },
+    "away_team": {
+      "name": "Cincinnati Reds",
+      "short_name": "CIN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "start_time": "2026-08-14T02:10:00.000+08:00",
+    "end_time": "2026-08-14T05:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "CHSN.Chicago.Sports.Network.us2",
+    "live_channel_name": "Chicago Sports Network",
+    "live_channel_region": "us",
+    "id": "401816514",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Chicago Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Boston Red Sox at Toronto Blue Jays",
+    "home_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "away_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BOS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "start_time": "2026-08-14T03:07:00.000+08:00",
+    "end_time": "2026-08-14T06:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "762",
+    "live_channel_name": "nesn usa",
+    "live_channel_region": "us",
+    "id": "401816509",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chicago Cubs at Washington Nationals",
+    "home_team": {
+      "name": "Washington Nationals",
+      "short_name": "WSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CHC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "start_time": "2026-08-14T04:05:00.000+08:00",
+    "end_time": "2026-08-14T07:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816510",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "Marquee Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Atlanta Dream at Connecticut Sun",
+    "home_team": {
+      "name": "Connecticut Sun",
+      "short_name": "CON",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+    },
+    "away_team": {
+      "name": "Atlanta Dream",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+    },
+    "start_time": "2026-08-14T07:00:00.000+08:00",
+    "end_time": "2026-08-14T09:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Boston.HD.us2",
+    "live_channel_name": "NBC Sports Boston",
+    "live_channel_region": "us",
+    "id": "401857140",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "verification": {
+      "broadcaster": "NBC Sports BO",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Texas Rangers at Los Angeles Angels",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "away_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "start_time": "2026-08-14T10:07:00.000+08:00",
+    "end_time": "2026-08-14T13:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816516",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Milwaukee Brewers at Los Angeles Dodgers",
+    "home_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "away_team": {
+      "name": "Milwaukee Brewers",
+      "short_name": "MIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+    },
+    "start_time": "2026-08-14T10:10:00.000+08:00",
+    "end_time": "2026-08-14T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816515",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Tijuana at Portland Timbers",
+    "home_team": {
+      "name": "Portland Timbers",
+      "short_name": "POR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
+    },
+    "away_team": {
+      "name": "Tijuana",
+      "short_name": "TIJ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png"
+    },
+    "start_time": "2026-08-14T10:30:00.000+08:00",
+    "end_time": "2026-08-14T12:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401863625",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "verification": {
