@@ -99,4 +99,29 @@
       "epg_confirmed": null
     }
   },
+  {
+    "title": "Las Vegas Aces at Minnesota Lynx",
+    "home_team": {
+      "name": "NFL TV",
+      "short_name": "NFL",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png"
+    },
+    "start_time": "2026-08-08T04:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NFL.Network.HD.us2",
+    "live_channel_name": "NFL TV",
+    "live_channel_region": "us",
+    "id": "4018571254",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png"
+    "verification": {
+      "broadcaster": "CBS",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
 ]
