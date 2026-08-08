@@ -3,7 +3,7 @@
     "title": "Wyndham Championship",
     "home_team": {
       "name": "Wyndham Championship",
-      "short_name": "WC",
+      "short_name": "Wyndham Championship",
       "icon_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png"
     },
     "away_team": {
@@ -30,435 +30,15 @@
     }
   },
   {
-    "title": "Wrexham AFC at Middlesbrough FC",
-    "home_team": {
-      "name": "Middlesbrough FC",
-      "short_name": "MF",
-      "icon_url": "https://crests.football-data.org/343.png"
-    },
-    "away_team": {
-      "name": "Wrexham AFC",
-      "short_name": "WA",
-      "icon_url": "https://crests.football-data.org/404.png"
-    },
-    "start_time": "2026-08-08T03:00:00.000+08:00",
-    "end_time": "2026-08-08T05:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "350",
-    "live_channel_name": "itv 1 uk",
-    "live_channel_region": "unknown",
-    "id": "a6df96a1-d8ba-4a2d-a166-90938a59460e",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "verification": {
-      "broadcaster": "Sky Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "New York Mets at Pittsburgh Pirates",
-    "home_team": {
-      "name": "Pittsburgh Pirates",
-      "short_name": "PP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
-    },
-    "away_team": {
-      "name": "New York Mets",
-      "short_name": "NYM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
-    },
-    "start_time": "2026-08-08T06:40:00.000+08:00",
-    "end_time": "2026-08-08T10:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "WPIX-DT.us_locals1",
-    "live_channel_name": "WPIX CW New York",
-    "live_channel_region": "us",
-    "id": "401816428",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "WPIX",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Toronto Blue Jays at Philadelphia Phillies",
-    "home_team": {
-      "name": "Philadelphia Phillies",
-      "short_name": "PP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
-    },
-    "away_team": {
-      "name": "Toronto Blue Jays",
-      "short_name": "TBJ",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
-    },
-    "start_time": "2026-08-08T06:40:00.000+08:00",
-    "end_time": "2026-08-08T10:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Philadelphia.HD.us2",
-    "live_channel_name": "NBC Sports Philadelphia",
-    "live_channel_region": "us",
-    "id": "401816429",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "NBCSP",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Cincinnati Reds at Washington Nationals",
-    "home_team": {
-      "name": "Washington Nationals",
-      "short_name": "WN",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
-    },
-    "away_team": {
-      "name": "Cincinnati Reds",
-      "short_name": "CR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
-    },
-    "start_time": "2026-08-08T06:45:00.000+08:00",
-    "end_time": "2026-08-08T10:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "WTTG51.us@HD",
-    "live_channel_name": "WTTG-DT1 (1080p)",
-    "live_channel_region": "us",
-    "id": "401816427",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "Fox 5 WTTG",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Atlanta Braves at New York Yankees",
-    "home_team": {
-      "name": "New York Yankees",
-      "short_name": "NYY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
-    },
-    "away_team": {
-      "name": "Atlanta Braves",
-      "short_name": "AB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
-    },
-    "start_time": "2026-08-08T07:05:00.000+08:00",
-    "end_time": "2026-08-08T10:35:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "763",
-    "live_channel_name": "yes network usa",
-    "live_channel_region": "us",
-    "id": "401816426",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "YES",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Athletics Athletics at Boston Red Sox",
-    "home_team": {
-      "name": "Boston Red Sox",
-      "short_name": "BRS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
-    },
-    "away_team": {
-      "name": "Athletics",
-      "short_name": "ATH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    "start_time": "2026-08-08T07:10:00.000+08:00",
-    "end_time": "2026-08-08T10:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "762",
-    "live_channel_name": "nesn usa",
-    "live_channel_region": "us",
-    "id": "401816425",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "NESN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Phoenix Mercury at Connecticut Sun",
-    "home_team": {
-      "name": "Connecticut Sun",
-      "short_name": "CS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
-    },
-    "away_team": {
-      "name": "Phoenix Mercury",
-      "short_name": "PM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
-    },
-    "start_time": "2026-08-08T07:30:00.000+08:00",
-    "end_time": "2026-08-08T10:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "325",
-    "live_channel_name": "ion usa",
-    "live_channel_region": "us",
-    "id": "401857122",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
-    "verification": {
-      "broadcaster": "ION",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Atlanta Dream at Washington Mystics",
-    "home_team": {
-      "name": "Washington Mystics",
-      "short_name": "WM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
-    },
-    "away_team": {
-      "name": "Atlanta Dream",
-      "short_name": "AD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
-    },
-    "start_time": "2026-08-08T07:30:00.000+08:00",
-    "end_time": "2026-08-08T10:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "325",
-    "live_channel_name": "ion usa",
-    "live_channel_region": "us",
-    "id": "401857123",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
-    "verification": {
-      "broadcaster": "ION",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Cleveland Guardians at Chicago White Sox",
-    "home_team": {
-      "name": "Chicago White Sox",
-      "short_name": "CWS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
-    },
-    "away_team": {
-      "name": "Cleveland Guardians",
-      "short_name": "CG",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
-    },
-    "start_time": "2026-08-08T07:40:00.000+08:00",
-    "end_time": "2026-08-08T11:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "CHSN.Chicago.Sports.Network.us2",
-    "live_channel_name": "Chicago Sports Network",
-    "live_channel_region": "us",
-    "id": "401816432",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "Chicago Sports Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Chicago Cubs at Kansas City Royals",
-    "home_team": {
-      "name": "Kansas City Royals",
-      "short_name": "KCR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
-    },
-    "away_team": {
-      "name": "Chicago Cubs",
-      "short_name": "CC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
-    },
-    "start_time": "2026-08-08T08:10:00.000+08:00",
-    "end_time": "2026-08-08T11:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Marquee.Sports.Network.HD.us2",
-    "live_channel_name": "Marquee Sports Network",
-    "live_channel_region": "us",
-    "id": "401816431",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "Marquee Sports Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Golden State Valkyries at Dallas Wings",
-    "home_team": {
-      "name": "Dallas Wings",
-      "short_name": "DW",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
-    },
-    "away_team": {
-      "name": "Golden State Valkyries",
-      "short_name": "GSV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
-    },
-    "start_time": "2026-08-08T09:30:00.000+08:00",
-    "end_time": "2026-08-08T12:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "325",
-    "live_channel_name": "ion usa",
-    "live_channel_region": "us",
-    "id": "401857124",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
-    "verification": {
-      "broadcaster": "ION",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Houston Astros at San Diego Padres",
-    "home_team": {
-      "name": "San Diego Padres",
-      "short_name": "SDP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
-    },
-    "away_team": {
-      "name": "Houston Astros",
-      "short_name": "HA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    "start_time": "2026-08-08T09:40:00.000+08:00",
-    "end_time": "2026-08-08T13:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Space.City.Home.Network.HD.us2",
-    "live_channel_name": "Space City Home Network",
-    "live_channel_region": "us",
-    "id": "401816436",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "Space City Home Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Los Angeles Dodgers at Arizona Diamondbacks",
-    "home_team": {
-      "name": "Arizona Diamondbacks",
-      "short_name": "AD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
-    },
-    "away_team": {
-      "name": "Los Angeles Dodgers",
-      "short_name": "LAD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
-    },
-    "start_time": "2026-08-08T09:40:00.000+08:00",
-    "end_time": "2026-08-08T13:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
-    "live_channel_name": "Spectrum SportsNet LA",
-    "live_channel_region": "us",
-    "id": "401816437",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "SportsNet LA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "Detroit Tigers at San Francisco Giants",
-    "home_team": {
-      "name": "San Francisco Giants",
-      "short_name": "SFG",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "away_team": {
-      "name": "Detroit Tigers",
-      "short_name": "DT",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
-    },
-    "start_time": "2026-08-08T10:15:00.000+08:00",
-    "end_time": "2026-08-08T13:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
-    "live_channel_name": "NBC Sports Bay Area",
-    "live_channel_region": "us",
-    "id": "401816435",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "verification": {
-      "broadcaster": "NBCS BA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
     "title": "Las Vegas Aces at Minnesota Lynx",
     "home_team": {
       "name": "Minnesota Lynx",
-      "short_name": "ML",
+      "short_name": "MIN",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
     },
     "away_team": {
       "name": "Las Vegas Aces",
-      "short_name": "LVA",
+      "short_name": "LV",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
     },
     "start_time": "2026-08-09T01:00:00.000+08:00",
@@ -488,7 +68,7 @@
     },
     "away_team": {
       "name": "Fortuna Sittard",
-      "short_name": "FS",
+      "short_name": "FOR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
     },
     "start_time": "2026-08-09T02:00:00.000+08:00",
@@ -518,7 +98,7 @@
     },
     "away_team": {
       "name": "Atlanta Braves",
-      "short_name": "AB",
+      "short_name": "ATL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
     },
     "start_time": "2026-08-09T03:05:00.000+08:00",
@@ -543,12 +123,12 @@
     "title": "Indiana Fever at Chicago Sky",
     "home_team": {
       "name": "Chicago Sky",
-      "short_name": "CS",
+      "short_name": "CHI",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
     },
     "away_team": {
       "name": "Indiana Fever",
-      "short_name": "IF",
+      "short_name": "IND",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"
     },
     "start_time": "2026-08-09T03:30:00.000+08:00",
@@ -573,12 +153,12 @@
     "title": "Sporting Clube de Portugal at CF Estrela da Amadora",
     "home_team": {
       "name": "CF Estrela da Amadora",
-      "short_name": "CEDA",
+      "short_name": "EST",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png"
     },
     "away_team": {
       "name": "Sporting Clube de Portugal",
-      "short_name": "SCDP",
+      "short_name": "SCP",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png"
     },
     "start_time": "2026-08-09T03:30:00.000+08:00",
@@ -603,7 +183,7 @@
     "title": "Athletics Athletics at Boston Red Sox",
     "home_team": {
       "name": "Boston Red Sox",
-      "short_name": "BRS",
+      "short_name": "BOS",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
     },
     "away_team": {
@@ -633,12 +213,12 @@
     "title": "Houston Dynamo FC at New England Revolution",
     "home_team": {
       "name": "New England Revolution",
-      "short_name": "NER",
+      "short_name": "NE",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
     },
     "away_team": {
       "name": "Houston Dynamo FC",
-      "short_name": "HDF",
+      "short_name": "HOU",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
     },
     "start_time": "2026-08-09T04:30:00.000+08:00",
@@ -663,12 +243,12 @@
     "title": "Toronto Blue Jays at Philadelphia Phillies",
     "home_team": {
       "name": "Philadelphia Phillies",
-      "short_name": "PP",
+      "short_name": "PHI",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
     },
     "away_team": {
       "name": "Toronto Blue Jays",
-      "short_name": "TBJ",
+      "short_name": "TOR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
     },
     "start_time": "2026-08-09T06:05:00.000+08:00",
@@ -693,7 +273,7 @@
     "title": "New York Mets at Pittsburgh Pirates",
     "home_team": {
       "name": "Pittsburgh Pirates",
-      "short_name": "PP",
+      "short_name": "PIT",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
     },
     "away_team": {
@@ -723,12 +303,12 @@
     "title": "Chicago Cubs at Kansas City Royals",
     "home_team": {
       "name": "Kansas City Royals",
-      "short_name": "KCR",
+      "short_name": "KC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
     },
     "away_team": {
       "name": "Chicago Cubs",
-      "short_name": "CC",
+      "short_name": "CHC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
     },
     "start_time": "2026-08-09T07:10:00.000+08:00",
@@ -753,12 +333,12 @@
     "title": "Houston Astros at San Diego Padres",
     "home_team": {
       "name": "San Diego Padres",
-      "short_name": "SDP",
+      "short_name": "SD",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
     },
     "away_team": {
       "name": "Houston Astros",
-      "short_name": "HA",
+      "short_name": "HOU",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
     },
     "start_time": "2026-08-09T07:15:00.000+08:00",
@@ -783,7 +363,7 @@
     "title": "Los Angeles Dodgers at Arizona Diamondbacks",
     "home_team": {
       "name": "Arizona Diamondbacks",
-      "short_name": "AD",
+      "short_name": "ARI",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
     },
     "away_team": {
@@ -813,12 +393,12 @@
     "title": "Seattle Storm at Portland Fire",
     "home_team": {
       "name": "Portland Fire",
-      "short_name": "PF",
+      "short_name": "POR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
     },
     "away_team": {
       "name": "Seattle Storm",
-      "short_name": "SS",
+      "short_name": "SEA",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
     },
     "start_time": "2026-08-09T08:30:00.000+08:00",
@@ -843,12 +423,12 @@
     "title": "FC Dallas at Guadalajara",
     "home_team": {
       "name": "Guadalajara",
-      "short_name": "GUA",
+      "short_name": "GDL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png"
     },
     "away_team": {
       "name": "FC Dallas",
-      "short_name": "FD",
+      "short_name": "DAL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
     },
     "start_time": "2026-08-09T09:00:00.000+08:00",
@@ -878,7 +458,7 @@
     },
     "away_team": {
       "name": "LAFC",
-      "short_name": "LAF",
+      "short_name": "LAFC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
     },
     "start_time": "2026-08-09T11:10:00.000+08:00",
@@ -903,12 +483,12 @@
     "title": "Feyenoord Rotterdam at Sparta Rotterdam",
     "home_team": {
       "name": "Sparta Rotterdam",
-      "short_name": "SR",
+      "short_name": "SPA",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png"
     },
     "away_team": {
       "name": "Feyenoord Rotterdam",
-      "short_name": "FR",
+      "short_name": "FEY",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
     },
     "start_time": "2026-08-09T18:15:00.000+08:00",
@@ -933,13 +513,13 @@
     "title": "AFC Ajax at PEC Zwolle",
     "home_team": {
       "name": "PEC Zwolle",
-      "short_name": "PZ",
+      "short_name": "PEC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
     },
     "away_team": {
       "name": "AFC Ajax",
-      "short_name": "AA",
-      "icon_url": "https://crests.football-data.org/678.png"
+      "short_name": "AJA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
     },
     "start_time": "2026-08-09T20:30:00.000+08:00",
     "end_time": "2026-08-09T22:45:00.000+08:00",
@@ -998,7 +578,7 @@
     },
     "away_team": {
       "name": "Hibernian",
-      "short_name": "HIB",
+      "short_name": "HIBS",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png"
     },
     "start_time": "2026-08-09T23:00:00.000+08:00",
@@ -1023,12 +603,12 @@
     "title": "Las Vegas Aces at New York Liberty",
     "home_team": {
       "name": "New York Liberty",
-      "short_name": "NYL",
+      "short_name": "NY",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png"
     },
     "away_team": {
       "name": "Las Vegas Aces",
-      "short_name": "LVA",
+      "short_name": "LV",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
     },
     "start_time": "2026-08-10T00:30:00.000+08:00",
@@ -1053,12 +633,12 @@
     "title": "FC Alverca at FC Porto",
     "home_team": {
       "name": "FC Porto",
-      "short_name": "FP",
+      "short_name": "FCP",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
     },
     "away_team": {
       "name": "FC Alverca",
-      "short_name": "FA",
+      "short_name": "ALV",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png"
     },
     "start_time": "2026-08-10T01:00:00.000+08:00",
@@ -1083,7 +663,7 @@
     "title": "Athletics Athletics at Boston Red Sox",
     "home_team": {
       "name": "Boston Red Sox",
-      "short_name": "BRS",
+      "short_name": "BOS",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
     },
     "away_team": {
@@ -1118,7 +698,7 @@
     },
     "away_team": {
       "name": "Atlanta Braves",
-      "short_name": "AB",
+      "short_name": "ATL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
     },
     "start_time": "2026-08-10T01:35:00.000+08:00",
@@ -1143,7 +723,7 @@
     "title": "New York Mets at Pittsburgh Pirates",
     "home_team": {
       "name": "Pittsburgh Pirates",
-      "short_name": "PP",
+      "short_name": "PIT",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
     },
     "away_team": {
@@ -1173,12 +753,12 @@
     "title": "Toronto Blue Jays at Philadelphia Phillies",
     "home_team": {
       "name": "Philadelphia Phillies",
-      "short_name": "PP",
+      "short_name": "PHI",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
     },
     "away_team": {
       "name": "Toronto Blue Jays",
-      "short_name": "TBJ",
+      "short_name": "TOR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
     },
     "start_time": "2026-08-10T01:35:00.000+08:00",
@@ -1203,12 +783,12 @@
     "title": "Chicago Cubs at Kansas City Royals",
     "home_team": {
       "name": "Kansas City Royals",
-      "short_name": "KCR",
+      "short_name": "KC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
     },
     "away_team": {
       "name": "Chicago Cubs",
-      "short_name": "CC",
+      "short_name": "CHC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
     },
     "start_time": "2026-08-10T02:10:00.000+08:00",
@@ -1233,12 +813,12 @@
     "title": "Cleveland Guardians at Chicago White Sox",
     "home_team": {
       "name": "Chicago White Sox",
-      "short_name": "CWS",
+      "short_name": "CHW",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
     },
     "away_team": {
       "name": "Cleveland Guardians",
-      "short_name": "CG",
+      "short_name": "CLE",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
     },
     "start_time": "2026-08-10T02:10:00.000+08:00",
@@ -1263,12 +843,12 @@
     "title": "Baltimore Orioles at Texas Rangers",
     "home_team": {
       "name": "Texas Rangers",
-      "short_name": "TR",
+      "short_name": "TEX",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
     },
     "away_team": {
       "name": "Baltimore Orioles",
-      "short_name": "BO",
+      "short_name": "BAL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
     },
     "start_time": "2026-08-10T02:35:00.000+08:00",
@@ -1293,12 +873,12 @@
     "title": "Dallas Wings at Minnesota Lynx",
     "home_team": {
       "name": "Minnesota Lynx",
-      "short_name": "ML",
+      "short_name": "MIN",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
     },
     "away_team": {
       "name": "Dallas Wings",
-      "short_name": "DW",
+      "short_name": "DAL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
     },
     "start_time": "2026-08-10T03:30:00.000+08:00",
@@ -1320,15 +900,45 @@
     }
   },
   {
+    "title": "NASCAR Cup Series at Iowa",
+    "home_team": {
+      "name": "NASCAR Cup Series at Iowa",
+      "short_name": "NASCAR Cup Series at Iowa",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-NASCAR.png"
+    },
+    "away_team": {
+      "name": "",
+      "short_name": "",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-10T03:30:00.000+08:00",
+    "end_time": "2026-08-10T07:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "343",
+    "live_channel_name": "usa network",
+    "live_channel_region": "us",
+    "id": "202608090746",
+    "type": "nascar",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png",
+    "verification": {
+      "broadcaster": "USA Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Académico de Viseu FC at Sport Lisboa e Benfica",
     "home_team": {
       "name": "Sport Lisboa e Benfica",
-      "short_name": "SLEB",
+      "short_name": "SLB",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
     },
     "away_team": {
       "name": "Académico de Viseu FC",
-      "short_name": "ADVF",
+      "short_name": "AVF",
       "icon_url": "https://crests.football-data.org/5527.png"
     },
     "start_time": "2026-08-10T03:30:00.000+08:00",
@@ -1353,12 +963,12 @@
     "title": "Detroit Tigers at San Francisco Giants",
     "home_team": {
       "name": "San Francisco Giants",
-      "short_name": "SFG",
+      "short_name": "SF",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
     },
     "away_team": {
       "name": "Detroit Tigers",
-      "short_name": "DT",
+      "short_name": "DET",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
     },
     "start_time": "2026-08-10T04:05:00.000+08:00",
@@ -1383,7 +993,7 @@
     "title": "Los Angeles Dodgers at Arizona Diamondbacks",
     "home_team": {
       "name": "Arizona Diamondbacks",
-      "short_name": "AD",
+      "short_name": "ARI",
       "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
     },
     "away_team": {
@@ -1413,12 +1023,12 @@
     "title": "Golden State Valkyries at Los Angeles Sparks",
     "home_team": {
       "name": "Los Angeles Sparks",
-      "short_name": "LAS",
+      "short_name": "LA",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
     },
     "away_team": {
       "name": "Golden State Valkyries",
-      "short_name": "GSV",
+      "short_name": "GS",
       "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
     },
     "start_time": "2026-08-10T07:00:00.000+08:00",
@@ -1443,12 +1053,12 @@
     "title": "New York City FC at Cruz Azul",
     "home_team": {
       "name": "Cruz Azul",
-      "short_name": "CA",
+      "short_name": "CAZ",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png"
     },
     "away_team": {
       "name": "New York City FC",
-      "short_name": "NYCF",
+      "short_name": "NYC",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
     },
     "start_time": "2026-08-10T07:30:00.000+08:00",
@@ -1473,12 +1083,12 @@
     "title": "Portland Timbers at América",
     "home_team": {
       "name": "América",
-      "short_name": "AMÉ",
+      "short_name": "AME",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png"
     },
     "away_team": {
       "name": "Portland Timbers",
-      "short_name": "PT",
+      "short_name": "POR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
     },
     "start_time": "2026-08-10T10:15:00.000+08:00",
