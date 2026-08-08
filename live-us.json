@@ -1,35 +1,5 @@
 [
   {
-    "title": "Wyndham Championship",
-    "home_team": {
-      "name": "Wyndham Championship",
-      "short_name": "Wyndham Championship",
-      "icon_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/pgatour.png"
-    },
-    "away_team": {
-      "name": "",
-      "short_name": "",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-06T12:00:00.000+08:00",
-    "end_time": "2026-08-09T12:00:00.000+08:00",
-    "end_time_estimated": false,
-    "status": "live",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "52",
-    "live_channel_name": "cbs usa",
-    "live_channel_region": "us",
-    "id": "401811961",
-    "type": "golf",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-golf.png",
-    "verification": {
-      "broadcaster": "CBS",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
     "title": "Las Vegas Aces at Minnesota Lynx",
     "home_team": {
       "name": "Minnesota Lynx",
