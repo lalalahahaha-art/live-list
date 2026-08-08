@@ -116,7 +116,7 @@
     "live_channel_region": "us",
     "id": "4018571254",
     "type": "Live Room",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png"
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
     "verification": {
       "broadcaster": "CBS",
       "forward": true,
