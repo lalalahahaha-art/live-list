@@ -22,9 +22,195 @@
     "id": "5dd99564-a040-4202-9c85-e07bd859be09",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=960&q=70",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
       "broadcaster": "SuperSport Cricket",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Exeter City at Plymouth Argyle",
+    "home_team": {
+      "name": "Plymouth Argyle",
+      "short_name": "Plymouth Argyle",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Exeter City",
+      "short_name": "Exeter City",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-11T03:00:00.000+08:00",
+    "end_time": "2026-08-11T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "35",
+    "live_channel_name": "sky sports football uk",
+    "live_channel_region": "uk",
+    "id": "eaf97431-0b52-4f8f-8e40-911e1ceef426",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sky Sports Football",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "CD Nacional at CD Santa Clara",
+    "home_team": {
+      "name": "CD Santa Clara",
+      "short_name": "CDSC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png"
+    },
+    "away_team": {
+      "name": "CD Nacional",
+      "short_name": "CD Nacional",
+      "icon_url": "https://crests.football-data.org/5529.png"
+    },
+    "start_time": "2026-08-11T03:15:00.000+08:00",
+    "end_time": "2026-08-11T05:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "d0a8c8cf-46aa-47bb-9aad-886a766e5d6b",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Fenerbahce at Sturm Graz",
+    "home_team": {
+      "name": "Sturm Graz",
+      "short_name": "Sturm Graz",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Fenerbahce",
+      "short_name": "Fenerbahce",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+    },
+    "start_time": "2026-08-12T02:30:00.000+08:00",
+    "end_time": "2026-08-12T04:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "36",
+    "live_channel_name": "sky sports+ plus",
+    "live_channel_region": "uk",
+    "id": "010d5806-6b0a-4ac3-8fba-ef6881dc8793",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sky Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Sparta Praha at Lyon",
+    "home_team": {
+      "name": "Lyon",
+      "short_name": "Lyon",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+    },
+    "away_team": {
+      "name": "Sparta Praha",
+      "short_name": "Sparta Praha",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-12T03:00:00.000+08:00",
+    "end_time": "2026-08-12T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "36",
+    "live_channel_name": "sky sports+ plus",
+    "live_channel_region": "uk",
+    "id": "3cbe4566-00b6-4052-944a-199b316fd8d4",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sky Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Sparta Rotterdam at Telstar 1963",
+    "home_team": {
+      "name": "Telstar 1963",
+      "short_name": "TEL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
+    },
+    "away_team": {
+      "name": "Sparta Rotterdam",
+      "short_name": "SPA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png"
+    },
+    "start_time": "2026-08-15T02:00:00.000+08:00",
+    "end_time": "2026-08-15T04:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "c7680aa9-4d34-4aa6-8561-38a21c0d15eb",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Akhisar Belediyespor at Galatasaray",
+    "home_team": {
+      "name": "Galatasaray",
+      "short_name": "Galatasaray",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+    },
+    "away_team": {
+      "name": "Akhisar Belediyespor",
+      "short_name": "Akhisar Belediyespor",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-15T02:30:00.000+08:00",
+    "end_time": "2026-08-15T04:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "2ee2a0e2-ad16-40dd-b88d-3f42d0e43aaf",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -62,6 +248,533 @@
     }
   },
   {
+    "title": "Blackburn Rovers FC at Wolverhampton Wanderers FC",
+    "home_team": {
+      "name": "Wolverhampton Wanderers FC",
+      "short_name": "Wolverhampton Wanderers FC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
+    },
+    "away_team": {
+      "name": "Blackburn Rovers FC",
+      "short_name": "Blackburn Rovers FC",
+      "icon_url": "https://crests.football-data.org/59.png"
+    },
+    "start_time": "2026-08-15T03:00:00.000+08:00",
+    "end_time": "2026-08-15T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "35",
+    "live_channel_name": "sky sports football uk",
+    "live_channel_region": "uk",
+    "id": "66a188cc-6f42-42bb-a02d-7ac4aef4565d",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sky Sports Football",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Blackburn Rovers FC at Wolverhampton Wanderers FC",
+    "home_team": {
+      "name": "Wolverhampton Wanderers FC",
+      "short_name": "Wolverhampton Wanderers FC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
+    },
+    "away_team": {
+      "name": "Blackburn Rovers FC",
+      "short_name": "Blackburn Rovers FC",
+      "icon_url": "https://crests.football-data.org/59.png"
+    },
+    "start_time": "2026-08-15T03:00:00.000+08:00",
+    "end_time": "2026-08-15T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "32465e43-87f3-42ed-bdc5-c4a8fbd0995c",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Vitória SC at Sporting Clube de Portugal",
+    "home_team": {
+      "name": "Sporting Clube de Portugal",
+      "short_name": "SCP",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png"
+    },
+    "away_team": {
+      "name": "Vitória SC",
+      "short_name": "VSC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png"
+    },
+    "start_time": "2026-08-15T03:15:00.000+08:00",
+    "end_time": "2026-08-15T05:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "b6533398-da45-496c-be20-74d3da1de91b",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Preston North End FC at Bolton Wanderers FC",
+    "home_team": {
+      "name": "Bolton Wanderers FC",
+      "short_name": "Bolton Wanderers FC",
+      "icon_url": "https://crests.football-data.org/60.png"
+    },
+    "away_team": {
+      "name": "Preston North End FC",
+      "short_name": "Preston North End FC",
+      "icon_url": "https://crests.football-data.org/1081.png"
+    },
+    "start_time": "2026-08-15T19:30:00.000+08:00",
+    "end_time": "2026-08-15T21:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "1321dc91-b117-47bc-80ea-0a26e705fbaf",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "West Bromwich Albion FC at Norwich City FC",
+    "home_team": {
+      "name": "Norwich City FC",
+      "short_name": "Norwich City FC",
+      "icon_url": "https://crests.football-data.org/68.png"
+    },
+    "away_team": {
+      "name": "West Bromwich Albion FC",
+      "short_name": "West Bromwich Albion FC",
+      "icon_url": "https://crests.football-data.org/74.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "22c89e29-c43f-498c-8b6a-16c14ddbfc5d",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Millwall FC at Bristol City FC",
+    "home_team": {
+      "name": "Bristol City FC",
+      "short_name": "Bristol City FC",
+      "icon_url": "https://crests.football-data.org/387.png"
+    },
+    "away_team": {
+      "name": "Millwall FC",
+      "short_name": "Millwall FC",
+      "icon_url": "https://crests.football-data.org/384.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "b700f8fe-4942-467f-990c-ecc1df49ab37",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Lincoln City FC at Middlesbrough FC",
+    "home_team": {
+      "name": "Middlesbrough FC",
+      "short_name": "Middlesbrough FC",
+      "icon_url": "https://crests.football-data.org/343.png"
+    },
+    "away_team": {
+      "name": "Lincoln City FC",
+      "short_name": "Lincoln City FC",
+      "icon_url": "https://crests.football-data.org/1126.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "9c0a1a5e-2010-486b-9dfc-535cc9f128c8",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Swansea City AFC at Stoke City FC",
+    "home_team": {
+      "name": "Stoke City FC",
+      "short_name": "Stoke City FC",
+      "icon_url": "https://crests.football-data.org/70.png"
+    },
+    "away_team": {
+      "name": "Swansea City AFC",
+      "short_name": "Swansea City AFC",
+      "icon_url": "https://crests.football-data.org/72.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "6ade0c1a-3de8-4639-b4c3-ed1540d1ba8a",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Derby County FC at Charlton Athletic FC",
+    "home_team": {
+      "name": "Charlton Athletic FC",
+      "short_name": "Charlton Athletic FC",
+      "icon_url": "https://crests.football-data.org/348.png"
+    },
+    "away_team": {
+      "name": "Derby County FC",
+      "short_name": "Derby County FC",
+      "icon_url": "https://crests.football-data.org/342.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "8f70bb93-5d8d-4a37-a3c0-ff539f87a790",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Queens Park Rangers FC at Portsmouth FC",
+    "home_team": {
+      "name": "Portsmouth FC",
+      "short_name": "Portsmouth FC",
+      "icon_url": "https://crests.football-data.org/325.png"
+    },
+    "away_team": {
+      "name": "Queens Park Rangers FC",
+      "short_name": "Queens Park Rangers FC",
+      "icon_url": "https://crests.football-data.org/69.png"
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "ba94a7aa-cad1-4630-ae58-3e14d0172a28",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "NEC at Willem II Tilburg",
+    "home_team": {
+      "name": "Willem II Tilburg",
+      "short_name": "WIL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
+    },
+    "away_team": {
+      "name": "NEC",
+      "short_name": "NEC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+    },
+    "start_time": "2026-08-15T22:30:00.000+08:00",
+    "end_time": "2026-08-16T00:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "abc1ad5a-b2ea-40fc-898f-4506ff5d63b0",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "CF Estrela da Amadora at FC Alverca",
+    "home_team": {
+      "name": "FC Alverca",
+      "short_name": "ALV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png"
+    },
+    "away_team": {
+      "name": "CF Estrela da Amadora",
+      "short_name": "EST",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png"
+    },
+    "start_time": "2026-08-15T22:30:00.000+08:00",
+    "end_time": "2026-08-16T00:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "5c0284d2-603d-4478-8d9b-e9fc1ab702d1",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Birmingham City FC at Sheffield United FC",
+    "home_team": {
+      "name": "Sheffield United FC",
+      "short_name": "Sheffield United FC",
+      "icon_url": "https://crests.football-data.org/356.png"
+    },
+    "away_team": {
+      "name": "Birmingham City FC",
+      "short_name": "Birmingham City FC",
+      "icon_url": "https://crests.football-data.org/332.png"
+    },
+    "start_time": "2026-08-16T00:30:00.000+08:00",
+    "end_time": "2026-08-16T02:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "57746b8e-fd4b-49c5-9fa4-5b42cbdd2bb8",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "AZ at FC Utrecht",
+    "home_team": {
+      "name": "FC Utrecht",
+      "short_name": "UTR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
+    },
+    "away_team": {
+      "name": "AZ",
+      "short_name": "AZ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+    },
+    "start_time": "2026-08-16T00:45:00.000+08:00",
+    "end_time": "2026-08-16T03:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "e1ae2f89-e282-4163-9756-3cc10f673e88",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "CD Santa Clara at Académico de Viseu FC",
+    "home_team": {
+      "name": "Académico de Viseu FC",
+      "short_name": "AVF",
+      "icon_url": "https://crests.football-data.org/5527.png"
+    },
+    "away_team": {
+      "name": "CD Santa Clara",
+      "short_name": "CDSC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png"
+    },
+    "start_time": "2026-08-16T01:00:00.000+08:00",
+    "end_time": "2026-08-16T03:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "3e2cac5d-2f12-4c6a-824d-21120bb4ded6",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Getafe at Deportivo Alavés",
+    "home_team": {
+      "name": "Deportivo Alavés",
+      "short_name": "Deportivo Alavés",
+      "icon_url": "https://crests.football-data.org/263.png"
+    },
+    "away_team": {
+      "name": "Getafe",
+      "short_name": "Getafe",
+      "icon_url": "https://crests.football-data.org/82.png"
+    },
+    "start_time": "2026-08-16T01:30:00.000+08:00",
+    "end_time": "2026-08-16T03:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "67a4aee8-766e-45b0-9ec3-2dea9e1b5589",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Getafe at Alaves",
+    "home_team": {
+      "name": "Alaves",
+      "short_name": "Alaves",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+    },
+    "away_team": {
+      "name": "Getafe",
+      "short_name": "Getafe",
+      "icon_url": "https://crests.football-data.org/82.png"
+    },
+    "start_time": "2026-08-16T01:30:00.000+08:00",
+    "end_time": "2026-08-16T03:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "7599374e-4df6-4ca3-992b-076de9242ddc",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "PSV at SBV Excelsior",
     "home_team": {
       "name": "SBV Excelsior",
@@ -90,6 +803,99 @@
       "forward": true,
       "reverse": true,
       "epg_confirmed": true
+    }
+  },
+  {
+    "title": "Fenerbahce at Genclerbirligi SK",
+    "home_team": {
+      "name": "Genclerbirligi SK",
+      "short_name": "Genclerbirligi SK",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
+    },
+    "away_team": {
+      "name": "Fenerbahce",
+      "short_name": "Fenerbahce",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+    },
+    "start_time": "2026-08-16T02:30:00.000+08:00",
+    "end_time": "2026-08-16T04:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "e60a168d-575d-47f2-8f55-369e94641634",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Fenerbahce at Genclerbirligi",
+    "home_team": {
+      "name": "Genclerbirligi",
+      "short_name": "Genclerbirligi",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
+    },
+    "away_team": {
+      "name": "Fenerbahce",
+      "short_name": "Fenerbahce",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+    },
+    "start_time": "2026-08-16T02:30:00.000+08:00",
+    "end_time": "2026-08-16T04:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "ff37aeca-c6ec-4aee-bc0f-685be352fb60",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "SC Cambuur-Leeuwarden at Fortuna Sittard",
+    "home_team": {
+      "name": "Fortuna Sittard",
+      "short_name": "FOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
+    },
+    "away_team": {
+      "name": "SC Cambuur-Leeuwarden",
+      "short_name": "CAM",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
+    },
+    "start_time": "2026-08-16T03:00:00.000+08:00",
+    "end_time": "2026-08-16T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "0deea26c-adf1-48b2-9bdc-9ed58b78b61e",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
     }
   },
   {
@@ -124,6 +930,161 @@
     }
   },
   {
+    "title": "Rayo Vallecano at Sevilla FC",
+    "home_team": {
+      "name": "Sevilla FC",
+      "short_name": "Sevilla FC",
+      "icon_url": "https://crests.football-data.org/559.png"
+    },
+    "away_team": {
+      "name": "Rayo Vallecano",
+      "short_name": "Rayo Vallecano",
+      "icon_url": "https://crests.football-data.org/87.png"
+    },
+    "start_time": "2026-08-16T03:30:00.000+08:00",
+    "end_time": "2026-08-16T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "94f9aba1-38fd-4dc5-9f28-85f13d697221",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "SE Palmeiras at Fluminense FC",
+    "home_team": {
+      "name": "Fluminense FC",
+      "short_name": "Fluminense FC",
+      "icon_url": "https://crests.football-data.org/1765.png"
+    },
+    "away_team": {
+      "name": "SE Palmeiras",
+      "short_name": "SE Palmeiras",
+      "icon_url": "https://crests.football-data.org/1769.png"
+    },
+    "start_time": "2026-08-16T03:30:00.000+08:00",
+    "end_time": "2026-08-16T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "53fa8af7-480f-49d8-810c-0fb6ceae78e8",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "RB Bragantino at CA Paranaense",
+    "home_team": {
+      "name": "CA Paranaense",
+      "short_name": "CA Paranaense",
+      "icon_url": "https://crests.football-data.org/1768.png"
+    },
+    "away_team": {
+      "name": "RB Bragantino",
+      "short_name": "RB Bragantino",
+      "icon_url": "https://crests.football-data.org/4286.png"
+    },
+    "start_time": "2026-08-16T05:30:00.000+08:00",
+    "end_time": "2026-08-16T07:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "85dc378a-a4cd-4e61-9b6b-c101ea6d7ca2",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Coritiba FBC at São Paulo FC",
+    "home_team": {
+      "name": "São Paulo FC",
+      "short_name": "São Paulo FC",
+      "icon_url": "https://crests.football-data.org/1776.png"
+    },
+    "away_team": {
+      "name": "Coritiba FBC",
+      "short_name": "Coritiba FBC",
+      "icon_url": "https://crests.football-data.org/4241.png"
+    },
+    "start_time": "2026-08-16T08:00:00.000+08:00",
+    "end_time": "2026-08-16T10:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "7879a2ce-a1ef-4742-bcf0-a85c1ae6cc24",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "FC Groningen at ADO Den Haag",
+    "home_team": {
+      "name": "ADO Den Haag",
+      "short_name": "ADO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
+    },
+    "away_team": {
+      "name": "FC Groningen",
+      "short_name": "GRO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png"
+    },
+    "start_time": "2026-08-16T18:15:00.000+08:00",
+    "end_time": "2026-08-16T20:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "48022a8c-794e-4825-85a3-17a6c87b1497",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Southampton at Watford FC",
     "home_team": {
       "name": "Watford FC",
@@ -155,6 +1116,192 @@
     }
   },
   {
+    "title": "Southampton at Watford FC",
+    "home_team": {
+      "name": "Watford FC",
+      "short_name": "Watford FC",
+      "icon_url": "https://crests.football-data.org/346.png"
+    },
+    "away_team": {
+      "name": "Southampton",
+      "short_name": "Southampton",
+      "icon_url": "https://crests.football-data.org/340.png"
+    },
+    "start_time": "2026-08-16T20:30:00.000+08:00",
+    "end_time": "2026-08-16T22:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "9c679ebb-8076-4ce1-aa36-93e977e3ae47",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Go Ahead Eagles at Feyenoord Rotterdam",
+    "home_team": {
+      "name": "Feyenoord Rotterdam",
+      "short_name": "FEY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+    },
+    "away_team": {
+      "name": "Go Ahead Eagles",
+      "short_name": "GAE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png"
+    },
+    "start_time": "2026-08-16T20:30:00.000+08:00",
+    "end_time": "2026-08-16T22:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "b5a023bc-a9c6-4318-be27-8b30f60e41e3",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "PEC Zwolle at FC Twente '65",
+    "home_team": {
+      "name": "FC Twente '65",
+      "short_name": "TWE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png"
+    },
+    "away_team": {
+      "name": "PEC Zwolle",
+      "short_name": "PEC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
+    },
+    "start_time": "2026-08-16T20:30:00.000+08:00",
+    "end_time": "2026-08-16T22:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "fbdebc18-63dd-4b3e-828a-82f7bfa9ecbb",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "EC Bahia at Chapecoense AF",
+    "home_team": {
+      "name": "Chapecoense AF",
+      "short_name": "Chapecoense AF",
+      "icon_url": "https://crests.football-data.org/1772_large.png"
+    },
+    "away_team": {
+      "name": "EC Bahia",
+      "short_name": "EC Bahia",
+      "icon_url": "https://crests.football-data.org/1777.png"
+    },
+    "start_time": "2026-08-16T22:00:00.000+08:00",
+    "end_time": "2026-08-17T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "81aade8b-4ec5-47af-bfef-fb9fbd6bad16",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "GD Estoril Praia at CD Nacional",
+    "home_team": {
+      "name": "CD Nacional",
+      "short_name": "CD Nacional",
+      "icon_url": "https://crests.football-data.org/5529.png"
+    },
+    "away_team": {
+      "name": "GD Estoril Praia",
+      "short_name": "EPF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png"
+    },
+    "start_time": "2026-08-16T22:30:00.000+08:00",
+    "end_time": "2026-08-17T00:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "d46d3262-3f08-477f-92b9-8958a7c14cd0",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "SC Heerenveen at AFC Ajax",
+    "home_team": {
+      "name": "AFC Ajax",
+      "short_name": "AJA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+    },
+    "away_team": {
+      "name": "SC Heerenveen",
+      "short_name": "HEE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
+    },
+    "start_time": "2026-08-16T22:45:00.000+08:00",
+    "end_time": "2026-08-17T01:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "6589837f-0ec7-44c6-ae0e-9504691f3f7e",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "West Ham United FC at Burnley FC",
     "home_team": {
       "name": "Burnley FC",
@@ -183,6 +1330,440 @@
       "forward": true,
       "reverse": true,
       "epg_confirmed": true
+    }
+  },
+  {
+    "title": "Villarreal at Real Racing Club de Santander",
+    "home_team": {
+      "name": "Real Racing Club de Santander",
+      "short_name": "Real Racing Club de Santander",
+      "icon_url": "https://crests.football-data.org/5335.png"
+    },
+    "away_team": {
+      "name": "Villarreal",
+      "short_name": "Villarreal",
+      "icon_url": "https://crests.football-data.org/94.png"
+    },
+    "start_time": "2026-08-16T23:00:00.000+08:00",
+    "end_time": "2026-08-17T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "351020e2-6e21-45de-8474-0e730a0639ba",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "West Ham United FC at Burnley FC",
+    "home_team": {
+      "name": "Burnley FC",
+      "short_name": "Burnley FC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
+    },
+    "away_team": {
+      "name": "West Ham United FC",
+      "short_name": "West Ham United FC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
+    },
+    "start_time": "2026-08-16T23:00:00.000+08:00",
+    "end_time": "2026-08-17T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "43688ec2-df74-45b4-913e-1181b8ff0e2c",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Villarreal at Racing Santander",
+    "home_team": {
+      "name": "Racing Santander",
+      "short_name": "Racing Santander",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Villarreal",
+      "short_name": "Villarreal",
+      "icon_url": "https://crests.football-data.org/94.png"
+    },
+    "start_time": "2026-08-16T23:00:00.000+08:00",
+    "end_time": "2026-08-17T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "32ae7348-c4a2-4977-bf40-4b820786d140",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Moreirense FC at FC Arouca",
+    "home_team": {
+      "name": "FC Arouca",
+      "short_name": "FCA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png"
+    },
+    "away_team": {
+      "name": "Moreirense FC",
+      "short_name": "MFC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png"
+    },
+    "start_time": "2026-08-17T01:00:00.000+08:00",
+    "end_time": "2026-08-17T03:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "c2285b4e-d7b0-4c9e-b271-264843716788",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Levante UD at Espanyol",
+    "home_team": {
+      "name": "Espanyol",
+      "short_name": "Espanyol",
+      "icon_url": "https://crests.football-data.org/80.png"
+    },
+    "away_team": {
+      "name": "Levante UD",
+      "short_name": "Levante UD",
+      "icon_url": "https://crests.football-data.org/88.png"
+    },
+    "start_time": "2026-08-17T01:00:00.000+08:00",
+    "end_time": "2026-08-17T03:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "280e46bb-a806-44b6-a287-7a9d7705378c",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Eyupspor at Besiktas",
+    "home_team": {
+      "name": "Besiktas",
+      "short_name": "Besiktas",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+    },
+    "away_team": {
+      "name": "Eyupspor",
+      "short_name": "Eyupspor",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
+    },
+    "start_time": "2026-08-17T02:30:00.000+08:00",
+    "end_time": "2026-08-17T04:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "27be0f8d-6c9a-440e-b1a6-4e425db19c1f",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Grêmio FBPA at CA Mineiro",
+    "home_team": {
+      "name": "CA Mineiro",
+      "short_name": "CA Mineiro",
+      "icon_url": "https://crests.football-data.org/1766.png"
+    },
+    "away_team": {
+      "name": "Grêmio FBPA",
+      "short_name": "Grêmio FBPA",
+      "icon_url": "https://crests.football-data.org/1767.png"
+    },
+    "start_time": "2026-08-17T03:00:00.000+08:00",
+    "end_time": "2026-08-17T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "0f8b9f66-d19c-4d9b-89ba-a06f2d2eb85f",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Santos FC at CR Vasco da Gama",
+    "home_team": {
+      "name": "CR Vasco da Gama",
+      "short_name": "CR Vasco da Gama",
+      "icon_url": "https://crests.football-data.org/1780.png"
+    },
+    "away_team": {
+      "name": "Santos FC",
+      "short_name": "Santos FC",
+      "icon_url": "https://crests.football-data.org/6685.png"
+    },
+    "start_time": "2026-08-17T03:00:00.000+08:00",
+    "end_time": "2026-08-17T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "e64882d9-bf99-483f-81c2-5696ce63b88d",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "CS Marítimo at FC Famalicão",
+    "home_team": {
+      "name": "FC Famalicão",
+      "short_name": "FCF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png"
+    },
+    "away_team": {
+      "name": "CS Marítimo",
+      "short_name": "MAR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png"
+    },
+    "start_time": "2026-08-17T03:30:00.000+08:00",
+    "end_time": "2026-08-17T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "8324f327-4670-4aed-ab46-20ddaf61e6ac",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Osasuna at RC Celta de Vigo",
+    "home_team": {
+      "name": "RC Celta de Vigo",
+      "short_name": "RC Celta de Vigo",
+      "icon_url": "https://crests.football-data.org/558.png"
+    },
+    "away_team": {
+      "name": "Osasuna",
+      "short_name": "Osasuna",
+      "icon_url": "https://crests.football-data.org/79.png"
+    },
+    "start_time": "2026-08-17T03:30:00.000+08:00",
+    "end_time": "2026-08-17T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "a3bd0b38-549a-4177-b533-bfa9baccdf65",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Gil Vicente FC at Sporting Clube de Braga",
+    "home_team": {
+      "name": "Sporting Clube de Braga",
+      "short_name": "Sporting Clube de Braga",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png"
+    },
+    "away_team": {
+      "name": "Gil Vicente FC",
+      "short_name": "GVFC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png"
+    },
+    "start_time": "2026-08-17T03:30:00.000+08:00",
+    "end_time": "2026-08-17T05:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "6cfa8c62-a16e-4798-a912-6a5350ce5225",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Botafogo FR at EC Vitória",
+    "home_team": {
+      "name": "EC Vitória",
+      "short_name": "EC Vitória",
+      "icon_url": "https://crests.football-data.org/1782.png"
+    },
+    "away_team": {
+      "name": "Botafogo FR",
+      "short_name": "Botafogo FR",
+      "icon_url": "https://crests.football-data.org/1770.png"
+    },
+    "start_time": "2026-08-17T05:30:00.000+08:00",
+    "end_time": "2026-08-17T07:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "5540c2a3-0488-4c77-a115-0e1c699c7524",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "CR Flamengo at Mirassol FC",
+    "home_team": {
+      "name": "Mirassol FC",
+      "short_name": "Mirassol FC",
+      "icon_url": "https://crests.football-data.org/4364.png"
+    },
+    "away_team": {
+      "name": "CR Flamengo",
+      "short_name": "CR Flamengo",
+      "icon_url": "https://crests.football-data.org/1783.png"
+    },
+    "start_time": "2026-08-17T05:30:00.000+08:00",
+    "end_time": "2026-08-17T07:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "61",
+    "live_channel_name": "bein sports mena english 1",
+    "live_channel_region": "unknown",
+    "id": "b19cdf7c-7de2-4b65-89fc-c826a4e079bc",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Cruzeiro EC at SC Corinthians Paulista",
+    "home_team": {
+      "name": "SC Corinthians Paulista",
+      "short_name": "SC Corinthians Paulista",
+      "icon_url": "https://crests.football-data.org/1779.png"
+    },
+    "away_team": {
+      "name": "Cruzeiro EC",
+      "short_name": "Cruzeiro EC",
+      "icon_url": "https://crests.football-data.org/1771.png"
+    },
+    "start_time": "2026-08-17T06:30:00.000+08:00",
+    "end_time": "2026-08-17T08:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "123",
+    "live_channel_name": "astro supersport 1",
+    "live_channel_region": "unknown",
+    "id": "43a8e0f5-2960-496a-bd6a-6892c87c6d56",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "SuperSport",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
     }
   }
 ]
