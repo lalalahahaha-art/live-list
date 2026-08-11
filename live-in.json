@@ -22,6 +22,7 @@
     "id": "5dd99564-a040-4202-9c85-e07bd859be09",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cricket_fielding_positions2.svg?width=640",
     "verification": {
       "broadcaster": "SuperSport Cricket",
       "forward": true,
@@ -52,6 +53,7 @@
     "id": "2f0d052a-f047-4d1a-8198-26d619788df7",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_pitch_metric.svg?width=640",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -82,6 +84,7 @@
     "id": "3c851a39-8012-4549-bcd9-7117342448f5",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_pitch_metric.svg?width=640",
     "verification": {
       "broadcaster": "Sportsnet+",
       "forward": true,
@@ -112,6 +115,7 @@
     "id": "ca88b4ef-60b4-4711-ab47-bcbaddd64223",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_pitch_metric.svg?width=640",
     "verification": {
       "broadcaster": "beIN Sports",
       "forward": true,
@@ -142,6 +146,7 @@
     "id": "d0bec16c-1a16-4a5a-8432-c21a38fef216",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_pitch_metric.svg?width=640",
     "verification": {
       "broadcaster": "Sky Sports Football",
       "forward": true,
@@ -172,6 +177,7 @@
     "id": "534a8a1a-6eb9-4d25-b7fa-5815480f58ce",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_pitch_metric.svg?width=640",
     "verification": {
       "broadcaster": "Sky Sports Football",
       "forward": true,
