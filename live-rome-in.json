@@ -17,7 +17,7 @@
     "id": "live-room-in-001",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Star Sports",
       "forward": true,
@@ -43,7 +43,7 @@
     "id": "live-room-in-002",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Star Sports Hindi",
       "forward": true,
@@ -69,7 +69,7 @@
     "id": "live-room-in-003",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Star Sports Select 1",
       "forward": true,
@@ -95,7 +95,7 @@
     "id": "live-room-in-004",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Star Sports Select 2",
       "forward": true,
@@ -121,7 +121,7 @@
     "id": "live-room-in-005",
     "type": "Live Room",
     "type_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kabaddi_pictogram.svg/240px-Kabaddi_pictogram.svg.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Star Sports Khel",
       "forward": true,
@@ -147,7 +147,7 @@
     "id": "live-room-in-006",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Sony TEN 1",
       "forward": true,
@@ -173,7 +173,7 @@
     "id": "live-room-in-007",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Sony TEN 2",
       "forward": true,
@@ -199,7 +199,7 @@
     "id": "live-room-in-008",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Sony TEN 3",
       "forward": true,
@@ -225,7 +225,7 @@
     "id": "live-room-in-009",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-all-sports.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "DD Sports",
       "forward": true,
@@ -251,7 +251,7 @@
     "id": "live-room-in-010",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Willow",
       "forward": true,
@@ -277,7 +277,7 @@
     "id": "live-room-in-011",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Sky Sports Cricket",
       "forward": true,
@@ -303,7 +303,7 @@
     "id": "live-room-in-012",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "SuperSport Cricket",
       "forward": true,
@@ -329,7 +329,7 @@
     "id": "live-room-in-013",
     "type": "Live Room",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=60",
+    "background_url": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=960&q=70",
     "verification": {
       "broadcaster": "Astro Cricket",
       "forward": true,
