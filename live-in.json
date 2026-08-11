@@ -1,95 +1,95 @@
 [
   {
-    "title": "Afghanistan at Ireland",
+    "title": "Canada at UAE",
     "home_team": {
-      "name": "Ireland",
-      "short_name": "Ireland",
-      "icon_url": ""
+      "name": "UAE",
+      "short_name": "UAE",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/6poybf1583580847.png"
     },
     "away_team": {
-      "name": "Afghanistan",
-      "short_name": "Afghanistan",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png"
+      "name": "Canada",
+      "short_name": "Canada",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/o49xhy1645907007.png"
     },
-    "start_time": "2026-08-10T17:45:00.000+08:00",
-    "end_time": "2026-08-11T01:45:00.000+08:00",
+    "start_time": "2026-08-11T18:00:00.000+08:00",
+    "end_time": "2026-08-12T02:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "368",
-    "live_channel_name": "supersport cricket",
+    "live_channel_id": "598",
+    "live_channel_name": "willow 2 cricket",
     "live_channel_region": "unknown",
-    "id": "5dd99564-a040-4202-9c85-e07bd859be09",
+    "id": "3c48dbac-2a7e-4883-aa48-35ed671ff4c7",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
-      "broadcaster": "SuperSport Cricket",
+      "broadcaster": "Willow",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
     }
   },
   {
-    "title": "Exeter City at Plymouth Argyle",
+    "title": "Nellai Royal Kings vs Trichy Grand Cholas, 12th Match, Tamil Nadu Premier League 2026",
     "home_team": {
-      "name": "Plymouth Argyle",
-      "short_name": "Plymouth Argyle",
+      "name": "Nellai Royal Kings",
+      "short_name": "NRK",
       "icon_url": ""
     },
     "away_team": {
-      "name": "Exeter City",
-      "short_name": "Exeter City",
+      "name": "Trichy Grand Cholas",
+      "short_name": "TGC",
       "icon_url": ""
     },
-    "start_time": "2026-08-11T03:00:00.000+08:00",
-    "end_time": "2026-08-11T05:15:00.000+08:00",
+    "start_time": "2026-08-11T18:00:00.000+08:00",
+    "end_time": "2026-08-12T02:00:00.000+08:00",
     "end_time_estimated": true,
-    "status": "upcoming",
+    "status": "live",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "35",
-    "live_channel_name": "sky sports football uk",
-    "live_channel_region": "uk",
-    "id": "eaf97431-0b52-4f8f-8e40-911e1ceef426",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
-    "verification": {
-      "broadcaster": "Sky Sports Football",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": null
-    }
-  },
-  {
-    "title": "CD Nacional at CD Santa Clara",
-    "home_team": {
-      "name": "CD Santa Clara",
-      "short_name": "CDSC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png"
-    },
-    "away_team": {
-      "name": "CD Nacional",
-      "short_name": "CD Nacional",
-      "icon_url": "https://crests.football-data.org/5529.png"
-    },
-    "start_time": "2026-08-11T03:15:00.000+08:00",
-    "end_time": "2026-08-11T05:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "61",
-    "live_channel_name": "bein sports mena english 1",
+    "live_channel_id": "598",
+    "live_channel_name": "willow 2 cricket",
     "live_channel_region": "unknown",
-    "id": "d0a8c8cf-46aa-47bb-9aad-886a766e5d6b",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "id": "cricapi-416b885c-1123-492c-a308-b5f5bd30aaec",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "Willow",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Manchester Super Giants Women vs Sunrisers Leeds Women",
+    "home_team": {
+      "name": "Manchester Super Giants Women",
+      "short_name": "MSG",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/0u8i0d1776457835.png"
+    },
+    "away_team": {
+      "name": "Sunrisers Leeds Women",
+      "short_name": "SL",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/9yog0t1776457889.png"
+    },
+    "start_time": "2026-08-11T22:00:00.000+08:00",
+    "end_time": "2026-08-12T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
+    "id": "tsdb-2466482",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
     }
   },
   {
@@ -155,6 +155,130 @@
     }
   },
   {
+    "title": "Afghanistan at Ireland",
+    "home_team": {
+      "name": "Ireland",
+      "short_name": "Ireland",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Afghanistan",
+      "short_name": "Afghanistan",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png"
+    },
+    "start_time": "2026-08-12T17:45:00.000+08:00",
+    "end_time": "2026-08-13T01:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cf1bcb82-296b-471f-a733-c9251237efe2",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow XTRA US",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Welsh Fire Women vs London Spirit Women",
+    "home_team": {
+      "name": "Welsh Fire Women",
+      "short_name": "WF",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/h3xr1k1754384225.png"
+    },
+    "away_team": {
+      "name": "London Spirit Women",
+      "short_name": "LS",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/zss4lo1776457806.png"
+    },
+    "start_time": "2026-08-12T18:30:00.000+08:00",
+    "end_time": "2026-08-13T02:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
+    "id": "tsdb-2466483",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    }
+  },
+  {
+    "title": "Birmingham Phoenix Women vs MI London Women",
+    "home_team": {
+      "name": "Birmingham Phoenix Women",
+      "short_name": "BP",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/3xxnhj1754384140.png"
+    },
+    "away_team": {
+      "name": "MI London Women",
+      "short_name": "ML",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/43nj3r1776457855.png"
+    },
+    "start_time": "2026-08-12T22:00:00.000+08:00",
+    "end_time": "2026-08-13T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "598",
+    "live_channel_name": "willow 2 cricket",
+    "live_channel_region": "unknown",
+    "id": "tsdb-2466484",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Ireland Cricket vs Afghanistan Cricket",
+    "home_team": {
+      "name": "Ireland Cricket",
+      "short_name": "IC",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/wlryed1646775269.png"
+    },
+    "away_team": {
+      "name": "Afghanistan Cricket",
+      "short_name": "AC",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png"
+    },
+    "start_time": "2026-08-14T17:45:00.000+08:00",
+    "end_time": "2026-08-15T01:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "598",
+    "live_channel_name": "willow 2 cricket",
+    "live_channel_region": "unknown",
+    "id": "tsdb-2524725",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Sparta Rotterdam at Telstar 1963",
     "home_team": {
       "name": "Telstar 1963",
@@ -194,7 +318,7 @@
     },
     "away_team": {
       "name": "Akhisar Belediyespor",
-      "short_name": "Akhisar Belediyespor",
+      "short_name": "AB",
       "icon_url": ""
     },
     "start_time": "2026-08-15T02:30:00.000+08:00",
@@ -251,12 +375,12 @@
     "title": "Blackburn Rovers FC at Wolverhampton Wanderers FC",
     "home_team": {
       "name": "Wolverhampton Wanderers FC",
-      "short_name": "Wolverhampton Wanderers FC",
+      "short_name": "WW",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
     },
     "away_team": {
       "name": "Blackburn Rovers FC",
-      "short_name": "Blackburn Rovers FC",
+      "short_name": "BR",
       "icon_url": "https://crests.football-data.org/59.png"
     },
     "start_time": "2026-08-15T03:00:00.000+08:00",
@@ -264,15 +388,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "zetastream",
-    "live_channel_id": "35",
-    "live_channel_name": "sky sports football uk",
-    "live_channel_region": "uk",
+    "live_channel_id": "1023",
+    "live_channel_name": "nova sport 3 cz",
+    "live_channel_region": "cz",
     "id": "66a188cc-6f42-42bb-a02d-7ac4aef4565d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "Sky Sports Football",
+      "broadcaster": "Nova Sport 3 CZ",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -282,12 +406,12 @@
     "title": "Blackburn Rovers FC at Wolverhampton Wanderers FC",
     "home_team": {
       "name": "Wolverhampton Wanderers FC",
-      "short_name": "Wolverhampton Wanderers FC",
+      "short_name": "WW",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
     },
     "away_team": {
       "name": "Blackburn Rovers FC",
-      "short_name": "Blackburn Rovers FC",
+      "short_name": "BR",
       "icon_url": "https://crests.football-data.org/59.png"
     },
     "start_time": "2026-08-15T03:00:00.000+08:00",
@@ -344,12 +468,12 @@
     "title": "Preston North End FC at Bolton Wanderers FC",
     "home_team": {
       "name": "Bolton Wanderers FC",
-      "short_name": "Bolton Wanderers FC",
+      "short_name": "BW",
       "icon_url": "https://crests.football-data.org/60.png"
     },
     "away_team": {
       "name": "Preston North End FC",
-      "short_name": "Preston North End FC",
+      "short_name": "PNE",
       "icon_url": "https://crests.football-data.org/1081.png"
     },
     "start_time": "2026-08-15T19:30:00.000+08:00",
@@ -375,12 +499,12 @@
     "title": "West Bromwich Albion FC at Norwich City FC",
     "home_team": {
       "name": "Norwich City FC",
-      "short_name": "Norwich City FC",
+      "short_name": "Norwich",
       "icon_url": "https://crests.football-data.org/68.png"
     },
     "away_team": {
       "name": "West Bromwich Albion FC",
-      "short_name": "West Bromwich Albion FC",
+      "short_name": "WBA",
       "icon_url": "https://crests.football-data.org/74.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -406,7 +530,7 @@
     "title": "Millwall FC at Bristol City FC",
     "home_team": {
       "name": "Bristol City FC",
-      "short_name": "Bristol City FC",
+      "short_name": "Bristol",
       "icon_url": "https://crests.football-data.org/387.png"
     },
     "away_team": {
@@ -437,12 +561,12 @@
     "title": "Lincoln City FC at Middlesbrough FC",
     "home_team": {
       "name": "Middlesbrough FC",
-      "short_name": "Middlesbrough FC",
+      "short_name": "Middlesbroug",
       "icon_url": "https://crests.football-data.org/343.png"
     },
     "away_team": {
       "name": "Lincoln City FC",
-      "short_name": "Lincoln City FC",
+      "short_name": "Lincoln",
       "icon_url": "https://crests.football-data.org/1126.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -468,12 +592,12 @@
     "title": "Swansea City AFC at Stoke City FC",
     "home_team": {
       "name": "Stoke City FC",
-      "short_name": "Stoke City FC",
+      "short_name": "Stoke",
       "icon_url": "https://crests.football-data.org/70.png"
     },
     "away_team": {
       "name": "Swansea City AFC",
-      "short_name": "Swansea City AFC",
+      "short_name": "Swansea",
       "icon_url": "https://crests.football-data.org/72.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -499,12 +623,12 @@
     "title": "Derby County FC at Charlton Athletic FC",
     "home_team": {
       "name": "Charlton Athletic FC",
-      "short_name": "Charlton Athletic FC",
+      "short_name": "CA",
       "icon_url": "https://crests.football-data.org/348.png"
     },
     "away_team": {
       "name": "Derby County FC",
-      "short_name": "Derby County FC",
+      "short_name": "DC",
       "icon_url": "https://crests.football-data.org/342.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -530,12 +654,12 @@
     "title": "Queens Park Rangers FC at Portsmouth FC",
     "home_team": {
       "name": "Portsmouth FC",
-      "short_name": "Portsmouth FC",
+      "short_name": "Portsmouth",
       "icon_url": "https://crests.football-data.org/325.png"
     },
     "away_team": {
       "name": "Queens Park Rangers FC",
-      "short_name": "Queens Park Rangers FC",
+      "short_name": "QPR",
       "icon_url": "https://crests.football-data.org/69.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -623,12 +747,12 @@
     "title": "Birmingham City FC at Sheffield United FC",
     "home_team": {
       "name": "Sheffield United FC",
-      "short_name": "Sheffield United FC",
+      "short_name": "Sheffield",
       "icon_url": "https://crests.football-data.org/356.png"
     },
     "away_team": {
       "name": "Birmingham City FC",
-      "short_name": "Birmingham City FC",
+      "short_name": "Birmingham",
       "icon_url": "https://crests.football-data.org/332.png"
     },
     "start_time": "2026-08-16T00:30:00.000+08:00",
@@ -685,7 +809,7 @@
     "title": "CD Santa Clara at Académico de Viseu FC",
     "home_team": {
       "name": "Académico de Viseu FC",
-      "short_name": "AVF",
+      "short_name": "ACV",
       "icon_url": "https://crests.football-data.org/5527.png"
     },
     "away_team": {
@@ -716,7 +840,7 @@
     "title": "Getafe at Deportivo Alavés",
     "home_team": {
       "name": "Deportivo Alavés",
-      "short_name": "Deportivo Alavés",
+      "short_name": "DA",
       "icon_url": "https://crests.football-data.org/263.png"
     },
     "away_team": {
@@ -809,7 +933,7 @@
     "title": "Fenerbahce at Genclerbirligi SK",
     "home_team": {
       "name": "Genclerbirligi SK",
-      "short_name": "Genclerbirligi SK",
+      "short_name": "GS",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
     },
     "away_team": {
@@ -840,7 +964,7 @@
     "title": "Fenerbahce at Genclerbirligi",
     "home_team": {
       "name": "Genclerbirligi",
-      "short_name": "Genclerbirligi",
+      "short_name": "Genclerbirli",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
     },
     "away_team": {
@@ -938,7 +1062,7 @@
     },
     "away_team": {
       "name": "Rayo Vallecano",
-      "short_name": "Rayo Vallecano",
+      "short_name": "Rayo",
       "icon_url": "https://crests.football-data.org/87.png"
     },
     "start_time": "2026-08-16T03:30:00.000+08:00",
@@ -964,7 +1088,7 @@
     "title": "SE Palmeiras at Fluminense FC",
     "home_team": {
       "name": "Fluminense FC",
-      "short_name": "Fluminense FC",
+      "short_name": "Fluminense",
       "icon_url": "https://crests.football-data.org/1765.png"
     },
     "away_team": {
@@ -995,12 +1119,12 @@
     "title": "RB Bragantino at CA Paranaense",
     "home_team": {
       "name": "CA Paranaense",
-      "short_name": "CA Paranaense",
+      "short_name": "CA",
       "icon_url": "https://crests.football-data.org/1768.png"
     },
     "away_team": {
       "name": "RB Bragantino",
-      "short_name": "RB Bragantino",
+      "short_name": "RB",
       "icon_url": "https://crests.football-data.org/4286.png"
     },
     "start_time": "2026-08-16T05:30:00.000+08:00",
@@ -1100,9 +1224,9 @@
     "end_time": "2026-08-16T22:45:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "SkySportsFootball.ie@SD",
-    "live_channel_name": "Sky Sports Football (1080p)",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "35",
+    "live_channel_name": "sky sports football uk",
     "live_channel_region": "uk",
     "id": "d0bec16c-1a16-4a5a-8432-c21a38fef216",
     "type": "soccer",
@@ -1212,7 +1336,7 @@
     "title": "EC Bahia at Chapecoense AF",
     "home_team": {
       "name": "Chapecoense AF",
-      "short_name": "Chapecoense AF",
+      "short_name": "Chapecoense",
       "icon_url": "https://crests.football-data.org/1772_large.png"
     },
     "away_team": {
@@ -1310,16 +1434,16 @@
     },
     "away_team": {
       "name": "West Ham United FC",
-      "short_name": "West Ham United FC",
+      "short_name": "WH",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
     },
     "start_time": "2026-08-16T23:00:00.000+08:00",
     "end_time": "2026-08-17T01:15:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "SkySportsFootball.ie@SD",
-    "live_channel_name": "Sky Sports Football (1080p)",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "35",
+    "live_channel_name": "sky sports football uk",
     "live_channel_region": "uk",
     "id": "534a8a1a-6eb9-4d25-b7fa-5815480f58ce",
     "type": "soccer",
@@ -1336,7 +1460,7 @@
     "title": "Villarreal at Real Racing Club de Santander",
     "home_team": {
       "name": "Real Racing Club de Santander",
-      "short_name": "Real Racing Club de Santander",
+      "short_name": "RRS",
       "icon_url": "https://crests.football-data.org/5335.png"
     },
     "away_team": {
@@ -1372,7 +1496,7 @@
     },
     "away_team": {
       "name": "West Ham United FC",
-      "short_name": "West Ham United FC",
+      "short_name": "WH",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
     },
     "start_time": "2026-08-16T23:00:00.000+08:00",
@@ -1398,8 +1522,8 @@
     "title": "Villarreal at Racing Santander",
     "home_team": {
       "name": "Racing Santander",
-      "short_name": "Racing Santander",
-      "icon_url": ""
+      "short_name": "RS",
+      "icon_url": "/logos/team/5e1a2de0-5a42-4c2c-bfbd-bba3084806aa-c93f281c.png"
     },
     "away_team": {
       "name": "Villarreal",
@@ -1553,7 +1677,7 @@
     "title": "Santos FC at CR Vasco da Gama",
     "home_team": {
       "name": "CR Vasco da Gama",
-      "short_name": "CR Vasco da Gama",
+      "short_name": "CVG",
       "icon_url": "https://crests.football-data.org/1780.png"
     },
     "away_team": {
@@ -1615,7 +1739,7 @@
     "title": "Osasuna at RC Celta de Vigo",
     "home_team": {
       "name": "RC Celta de Vigo",
-      "short_name": "RC Celta de Vigo",
+      "short_name": "RCV",
       "icon_url": "https://crests.football-data.org/558.png"
     },
     "away_team": {
@@ -1646,7 +1770,7 @@
     "title": "Gil Vicente FC at Sporting Clube de Braga",
     "home_team": {
       "name": "Sporting Clube de Braga",
-      "short_name": "Sporting Clube de Braga",
+      "short_name": "SCB",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png"
     },
     "away_team": {
@@ -1739,7 +1863,7 @@
     "title": "Cruzeiro EC at SC Corinthians Paulista",
     "home_team": {
       "name": "SC Corinthians Paulista",
-      "short_name": "SC Corinthians Paulista",
+      "short_name": "CP",
       "icon_url": "https://crests.football-data.org/1779.png"
     },
     "away_team": {
