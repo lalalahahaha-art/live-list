@@ -1,36 +1,5 @@
 [
   {
-    "title": "Manchester Super Giants Women vs Sunrisers Leeds Women",
-    "home_team": {
-      "name": "Manchester Super Giants Women",
-      "short_name": "MSG",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/0u8i0d1776457835.png"
-    },
-    "away_team": {
-      "name": "Sunrisers Leeds Women",
-      "short_name": "SL",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/9yog0t1776457889.png"
-    },
-    "start_time": "2026-08-11T22:00:00.000+08:00",
-    "end_time": "2026-08-12T06:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
-    "id": "tsdb-2466482",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
-    "verification": {
-      "broadcaster": "Willow",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    }
-  },
-  {
     "title": "Afghanistan at Ireland",
     "home_team": {
       "name": "Ireland",
@@ -124,6 +93,37 @@
     }
   },
   {
+    "title": "Canada at Scotland",
+    "home_team": {
+      "name": "Scotland",
+      "short_name": "Scotland",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/78woeh1646775360.png"
+    },
+    "away_team": {
+      "name": "Canada",
+      "short_name": "Canada",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/o49xhy1645907007.png"
+    },
+    "start_time": "2026-08-13T18:00:00.000+08:00",
+    "end_time": "2026-08-14T02:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "4f3f8b22-b4d3-4e84-bc69-fc3e5d19aa5e",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Ireland Cricket vs Afghanistan Cricket",
     "home_team": {
       "name": "Ireland Cricket",
@@ -189,7 +189,7 @@
     "title": "Akhisar Belediyespor at Galatasaray",
     "home_team": {
       "name": "Galatasaray",
-      "short_name": "Galatasaray",
+      "short_name": "GAL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
     },
     "away_team": {
@@ -220,12 +220,12 @@
     "title": "Çorum FK at Galatasaray",
     "home_team": {
       "name": "Galatasaray",
-      "short_name": "Galatasaray",
+      "short_name": "GAL",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
     },
     "away_team": {
       "name": "Çorum FK",
-      "short_name": "Çorum FK",
+      "short_name": "COR",
       "icon_url": ""
     },
     "start_time": "2026-08-15T02:30:00.000+08:00",
@@ -375,7 +375,7 @@
     "title": "West Bromwich Albion FC at Norwich City FC",
     "home_team": {
       "name": "Norwich City FC",
-      "short_name": "Norwich",
+      "short_name": "NOR",
       "icon_url": "https://crests.football-data.org/68.png"
     },
     "away_team": {
@@ -406,12 +406,12 @@
     "title": "Millwall FC at Bristol City FC",
     "home_team": {
       "name": "Bristol City FC",
-      "short_name": "Bristol",
+      "short_name": "BRC",
       "icon_url": "https://crests.football-data.org/387.png"
     },
     "away_team": {
       "name": "Millwall FC",
-      "short_name": "Millwall FC",
+      "short_name": "MIL",
       "icon_url": "https://crests.football-data.org/384.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -437,12 +437,12 @@
     "title": "Lincoln City FC at Middlesbrough FC",
     "home_team": {
       "name": "Middlesbrough FC",
-      "short_name": "Middlesbroug",
+      "short_name": "MID",
       "icon_url": "https://crests.football-data.org/343.png"
     },
     "away_team": {
       "name": "Lincoln City FC",
-      "short_name": "Lincoln",
+      "short_name": "LCN",
       "icon_url": "https://crests.football-data.org/1126.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -473,7 +473,7 @@
     },
     "away_team": {
       "name": "Swansea City AFC",
-      "short_name": "Swansea",
+      "short_name": "SWA",
       "icon_url": "https://crests.football-data.org/72.png"
     },
     "start_time": "2026-08-15T22:00:00.000+08:00",
@@ -530,7 +530,7 @@
     "title": "Queens Park Rangers FC at Portsmouth FC",
     "home_team": {
       "name": "Portsmouth FC",
-      "short_name": "Portsmouth",
+      "short_name": "POR",
       "icon_url": "https://crests.football-data.org/325.png"
     },
     "away_team": {
@@ -623,12 +623,12 @@
     "title": "Birmingham City FC at Sheffield United FC",
     "home_team": {
       "name": "Sheffield United FC",
-      "short_name": "Sheffield",
+      "short_name": "SHU",
       "icon_url": "https://crests.football-data.org/356.png"
     },
     "away_team": {
       "name": "Birmingham City FC",
-      "short_name": "Birmingham",
+      "short_name": "BIR",
       "icon_url": "https://crests.football-data.org/332.png"
     },
     "start_time": "2026-08-16T00:30:00.000+08:00",
@@ -721,7 +721,7 @@
     },
     "away_team": {
       "name": "Getafe",
-      "short_name": "Getafe",
+      "short_name": "GET",
       "icon_url": "https://crests.football-data.org/82.png"
     },
     "start_time": "2026-08-16T01:30:00.000+08:00",
@@ -747,12 +747,12 @@
     "title": "Getafe at Alaves",
     "home_team": {
       "name": "Alaves",
-      "short_name": "Alaves",
+      "short_name": "ALA",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
     },
     "away_team": {
       "name": "Getafe",
-      "short_name": "Getafe",
+      "short_name": "GET",
       "icon_url": "https://crests.football-data.org/82.png"
     },
     "start_time": "2026-08-16T01:30:00.000+08:00",
@@ -814,7 +814,7 @@
     },
     "away_team": {
       "name": "Fenerbahce",
-      "short_name": "Fenerbahce",
+      "short_name": "FEN",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
     },
     "start_time": "2026-08-16T02:30:00.000+08:00",
@@ -840,12 +840,12 @@
     "title": "Fenerbahce at Genclerbirligi",
     "home_team": {
       "name": "Genclerbirligi",
-      "short_name": "Genclerbirli",
+      "short_name": "GEN",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
     },
     "away_team": {
       "name": "Fenerbahce",
-      "short_name": "Fenerbahce",
+      "short_name": "FEN",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
     },
     "start_time": "2026-08-16T02:30:00.000+08:00",
@@ -933,7 +933,7 @@
     "title": "Rayo Vallecano at Sevilla FC",
     "home_team": {
       "name": "Sevilla FC",
-      "short_name": "Sevilla FC",
+      "short_name": "SEV",
       "icon_url": "https://crests.football-data.org/559.png"
     },
     "away_team": {
@@ -964,12 +964,12 @@
     "title": "SE Palmeiras at Fluminense FC",
     "home_team": {
       "name": "Fluminense FC",
-      "short_name": "Fluminense",
+      "short_name": "FLU",
       "icon_url": "https://crests.football-data.org/1765.png"
     },
     "away_team": {
       "name": "SE Palmeiras",
-      "short_name": "SE Palmeiras",
+      "short_name": "PAL",
       "icon_url": "https://crests.football-data.org/1769.png"
     },
     "start_time": "2026-08-16T03:30:00.000+08:00",
@@ -1026,12 +1026,12 @@
     "title": "Coritiba FBC at São Paulo FC",
     "home_team": {
       "name": "São Paulo FC",
-      "short_name": "São Paulo FC",
+      "short_name": "SAO",
       "icon_url": "https://crests.football-data.org/1776.png"
     },
     "away_team": {
       "name": "Coritiba FBC",
-      "short_name": "Coritiba FBC",
+      "short_name": "CFC",
       "icon_url": "https://crests.football-data.org/4241.png"
     },
     "start_time": "2026-08-16T08:00:00.000+08:00",
@@ -1088,12 +1088,12 @@
     "title": "Southampton at Watford FC",
     "home_team": {
       "name": "Watford FC",
-      "short_name": "Watford FC",
+      "short_name": "WAT",
       "icon_url": "https://crests.football-data.org/346.png"
     },
     "away_team": {
       "name": "Southampton",
-      "short_name": "Southampton",
+      "short_name": "SOU",
       "icon_url": "https://crests.football-data.org/340.png"
     },
     "start_time": "2026-08-16T20:30:00.000+08:00",
@@ -1119,12 +1119,12 @@
     "title": "Southampton at Watford FC",
     "home_team": {
       "name": "Watford FC",
-      "short_name": "Watford FC",
+      "short_name": "WAT",
       "icon_url": "https://crests.football-data.org/346.png"
     },
     "away_team": {
       "name": "Southampton",
-      "short_name": "Southampton",
+      "short_name": "SOU",
       "icon_url": "https://crests.football-data.org/340.png"
     },
     "start_time": "2026-08-16T20:30:00.000+08:00",
@@ -1212,12 +1212,12 @@
     "title": "EC Bahia at Chapecoense AF",
     "home_team": {
       "name": "Chapecoense AF",
-      "short_name": "Chapecoense",
+      "short_name": "CHA",
       "icon_url": "https://crests.football-data.org/1772_large.png"
     },
     "away_team": {
       "name": "EC Bahia",
-      "short_name": "EC Bahia",
+      "short_name": "BAH",
       "icon_url": "https://crests.football-data.org/1777.png"
     },
     "start_time": "2026-08-16T22:00:00.000+08:00",
@@ -1305,7 +1305,7 @@
     "title": "West Ham United FC at Burnley FC",
     "home_team": {
       "name": "Burnley FC",
-      "short_name": "Burnley FC",
+      "short_name": "BUR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
     },
     "away_team": {
@@ -1341,7 +1341,7 @@
     },
     "away_team": {
       "name": "Villarreal",
-      "short_name": "Villarreal",
+      "short_name": "VIL",
       "icon_url": "https://crests.football-data.org/94.png"
     },
     "start_time": "2026-08-16T23:00:00.000+08:00",
@@ -1367,7 +1367,7 @@
     "title": "West Ham United FC at Burnley FC",
     "home_team": {
       "name": "Burnley FC",
-      "short_name": "Burnley FC",
+      "short_name": "BUR",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
     },
     "away_team": {
@@ -1403,7 +1403,7 @@
     },
     "away_team": {
       "name": "Villarreal",
-      "short_name": "Villarreal",
+      "short_name": "VIL",
       "icon_url": "https://crests.football-data.org/94.png"
     },
     "start_time": "2026-08-16T23:00:00.000+08:00",
@@ -1460,12 +1460,12 @@
     "title": "Levante UD at Espanyol",
     "home_team": {
       "name": "Espanyol",
-      "short_name": "Espanyol",
+      "short_name": "ESP",
       "icon_url": "https://crests.football-data.org/80.png"
     },
     "away_team": {
       "name": "Levante UD",
-      "short_name": "Levante UD",
+      "short_name": "LEV",
       "icon_url": "https://crests.football-data.org/88.png"
     },
     "start_time": "2026-08-17T01:00:00.000+08:00",
@@ -1491,12 +1491,12 @@
     "title": "Eyupspor at Besiktas",
     "home_team": {
       "name": "Besiktas",
-      "short_name": "Besiktas",
+      "short_name": "BES",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
     },
     "away_team": {
       "name": "Eyupspor",
-      "short_name": "Eyupspor",
+      "short_name": "EYU",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
     },
     "start_time": "2026-08-17T02:30:00.000+08:00",
@@ -1527,7 +1527,7 @@
     },
     "away_team": {
       "name": "Grêmio FBPA",
-      "short_name": "Grêmio FBPA",
+      "short_name": "GRE",
       "icon_url": "https://crests.football-data.org/1767.png"
     },
     "start_time": "2026-08-17T03:00:00.000+08:00",
@@ -1558,7 +1558,7 @@
     },
     "away_team": {
       "name": "Santos FC",
-      "short_name": "Santos FC",
+      "short_name": "SAN",
       "icon_url": "https://crests.football-data.org/6685.png"
     },
     "start_time": "2026-08-17T03:00:00.000+08:00",
@@ -1620,7 +1620,7 @@
     },
     "away_team": {
       "name": "Osasuna",
-      "short_name": "Osasuna",
+      "short_name": "OSA",
       "icon_url": "https://crests.football-data.org/79.png"
     },
     "start_time": "2026-08-17T03:30:00.000+08:00",
@@ -1677,12 +1677,12 @@
     "title": "Botafogo FR at EC Vitória",
     "home_team": {
       "name": "EC Vitória",
-      "short_name": "EC Vitória",
+      "short_name": "VIT",
       "icon_url": "https://crests.football-data.org/1782.png"
     },
     "away_team": {
       "name": "Botafogo FR",
-      "short_name": "Botafogo FR",
+      "short_name": "BOT",
       "icon_url": "https://crests.football-data.org/1770.png"
     },
     "start_time": "2026-08-17T05:30:00.000+08:00",
@@ -1708,12 +1708,12 @@
     "title": "CR Flamengo at Mirassol FC",
     "home_team": {
       "name": "Mirassol FC",
-      "short_name": "Mirassol FC",
+      "short_name": "MIR",
       "icon_url": "https://crests.football-data.org/4364.png"
     },
     "away_team": {
       "name": "CR Flamengo",
-      "short_name": "CR Flamengo",
+      "short_name": "FLA",
       "icon_url": "https://crests.football-data.org/1783.png"
     },
     "start_time": "2026-08-17T05:30:00.000+08:00",
@@ -1744,7 +1744,7 @@
     },
     "away_team": {
       "name": "Cruzeiro EC",
-      "short_name": "Cruzeiro EC",
+      "short_name": "CRU",
       "icon_url": "https://crests.football-data.org/1771.png"
     },
     "start_time": "2026-08-17T06:30:00.000+08:00",
@@ -1770,12 +1770,12 @@
     "title": "Wrexham AFC at Cardiff City FC",
     "home_team": {
       "name": "Cardiff City FC",
-      "short_name": "Cardiff",
+      "short_name": "CAR",
       "icon_url": "https://crests.football-data.org/715.png"
     },
     "away_team": {
       "name": "Wrexham AFC",
-      "short_name": "Wrexham AFC",
+      "short_name": "WXM",
       "icon_url": "https://crests.football-data.org/404.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1806,7 +1806,7 @@
     },
     "away_team": {
       "name": "Elche CF",
-      "short_name": "Elche CF",
+      "short_name": "ELC",
       "icon_url": "https://crests.football-data.org/285.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1832,12 +1832,12 @@
     "title": "Wrexham AFC at Cardiff City FC",
     "home_team": {
       "name": "Cardiff City FC",
-      "short_name": "Cardiff",
+      "short_name": "CAR",
       "icon_url": "https://crests.football-data.org/715.png"
     },
     "away_team": {
       "name": "Wrexham AFC",
-      "short_name": "Wrexham AFC",
+      "short_name": "WXM",
       "icon_url": "https://crests.football-data.org/404.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1868,7 +1868,7 @@
     },
     "away_team": {
       "name": "Elche CF",
-      "short_name": "Elche CF",
+      "short_name": "ELC",
       "icon_url": "https://crests.football-data.org/285.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1925,7 +1925,7 @@
     "title": "Clube do Remo at SC Internacional",
     "home_team": {
       "name": "SC Internacional",
-      "short_name": "Internaciona",
+      "short_name": "INT",
       "icon_url": "https://crests.football-data.org/6684.png"
     },
     "away_team": {
