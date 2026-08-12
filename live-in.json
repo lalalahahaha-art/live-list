@@ -31,6 +31,37 @@
     }
   },
   {
+    "title": "Chepauk Super Gillies vs Salem Spartans, 14th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Chepauk Super Gillies",
+      "short_name": "CSG",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Salem Spartans",
+      "short_name": "SLST",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-12T18:00:00.000+08:00",
+    "end_time": "2026-08-13T02:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "live",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-d38b5e89-4548-47f4-a3fa-255e4ed454ce",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Welsh Fire Women vs London Spirit Women",
     "home_team": {
       "name": "Welsh Fire Women",
@@ -46,19 +77,19 @@
     "end_time": "2026-08-13T02:30:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SkySpCricket.HD.uk",
+    "live_channel_name": "Sky Sports Cricket UK",
+    "live_channel_region": "uk",
     "id": "tsdb-2466483",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
-      "broadcaster": "Willow",
+      "broadcaster": "Sky Sports Cricket",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -78,10 +109,103 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
+    "live_channel_id": "SkySpCricket.HD.uk",
+    "live_channel_name": "Sky Sports Cricket UK",
+    "live_channel_region": "uk",
+    "id": "tsdb-2466484",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sky Sports Cricket",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Dindigul Dragons vs Siechem Madurai Panthers, 15th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Dindigul Dragons",
+      "short_name": "DD",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Siechem Madurai Panthers",
+      "short_name": "SMP",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-12T22:00:00.000+08:00",
+    "end_time": "2026-08-13T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-d423dab8-cc06-4676-98f6-105fcd48c9be",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots, 5th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Saint Lucia Kings",
+      "short_name": "SLK",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "St Kitts and Nevis Patriots",
+      "short_name": "SNP",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T07:00:00.000+08:00",
+    "end_time": "2026-08-13T15:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
     "live_channel_id": "Willow.Cricket.HD.us2",
     "live_channel_name": "Willow",
     "live_channel_region": "us",
-    "id": "tsdb-2466484",
+    "id": "cricapi-a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Jamaica Kingsmen vs Guyana Amazon Warriors, 6th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Guyana Amazon Warriors",
+      "short_name": "GAW",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Jamaica Kingsmen",
+      "short_name": "JK",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T08:00:00.000+08:00",
+    "end_time": "2026-08-13T16:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cricapi-b58ef995-1045-41a1-84e9-706debbc20d5",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
@@ -124,6 +248,68 @@
     }
   },
   {
+    "title": "Lyca Kovai Kings vs Nellai Royal Kings, 16th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Lyca Kovai Kings",
+      "short_name": "LKK",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Nellai Royal Kings",
+      "short_name": "NRK",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T18:00:00.000+08:00",
+    "end_time": "2026-08-14T02:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-f4e22c29-a051-446b-991f-8234b21efd0f",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Trichy Grand Cholas vs Idream Tiruppur Tamizhans, 17th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "IDream Tiruppur Tamizhans",
+      "short_name": "ITT",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Trichy Grand Cholas",
+      "short_name": "TGC",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T22:00:00.000+08:00",
+    "end_time": "2026-08-14T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-0860c2b5-37e1-4fa8-9f15-236f93086fc2",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Ireland Cricket vs Afghanistan Cricket",
     "home_team": {
       "name": "Ireland Cricket",
@@ -155,6 +341,68 @@
     }
   },
   {
+    "title": "Salem Spartans vs Dindigul Dragons, 18th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Dindigul Dragons",
+      "short_name": "DD",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Salem Spartans",
+      "short_name": "SLST",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-14T18:00:00.000+08:00",
+    "end_time": "2026-08-15T02:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-32b78568-9a24-4ed9-9a4e-43b9b56ea4ae",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Siechem Madurai Panthers vs Chepauk Super Gillies, 19th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Chepauk Super Gillies",
+      "short_name": "CSG",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Siechem Madurai Panthers",
+      "short_name": "SMP",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-14T22:00:00.000+08:00",
+    "end_time": "2026-08-15T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-af3a2cab-6dff-491c-b126-3c58b1084b9f",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
     "title": "Sparta Rotterdam at Telstar 1963",
     "home_team": {
       "name": "Telstar 1963",
@@ -171,8 +419,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "c7680aa9-4d34-4aa6-8561-38a21c0d15eb",
     "type": "soccer",
@@ -202,8 +450,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "2ee2a0e2-ad16-40dd-b88d-3f42d0e43aaf",
     "type": "soccer",
@@ -244,7 +492,7 @@
       "broadcaster": "beIN Sports",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -263,16 +511,16 @@
     "end_time": "2026-08-15T05:15:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "1023",
-    "live_channel_name": "nova sport 3 cz",
-    "live_channel_region": "cz",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Sky.Sports.Football.HD.uk",
+    "live_channel_name": "Sky Sports Football UK",
+    "live_channel_region": "uk",
     "id": "66a188cc-6f42-42bb-a02d-7ac4aef4565d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "Nova Sport 3 CZ",
+      "broadcaster": "Sky Sports Football",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -295,8 +543,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "32465e43-87f3-42ed-bdc5-c4a8fbd0995c",
     "type": "soccer",
@@ -326,8 +574,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "b6533398-da45-496c-be20-74d3da1de91b",
     "type": "soccer",
@@ -335,6 +583,68 @@
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
       "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Saint Lucia Kings vs Antigua And Barbuda Falcons, 7th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Antigua and Barbuda Falcons",
+      "short_name": "ABF",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Saint Lucia Kings",
+      "short_name": "SLK",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-15T07:00:00.000+08:00",
+    "end_time": "2026-08-15T15:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cricapi-03481413-2204-474a-8fba-251011e4f437",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Jamaica Kingsmen vs Trinbago Knight Riders, 8th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Jamaica Kingsmen",
+      "short_name": "JK",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Trinbago Knight Riders",
+      "short_name": "TKR",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-15T08:00:00.000+08:00",
+    "end_time": "2026-08-15T16:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cricapi-2c792f39-5c37-43e7-917c-44e5f62b1f43",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -357,8 +667,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "1321dc91-b117-47bc-80ea-0a26e705fbaf",
     "type": "soccer",
@@ -388,8 +698,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "22c89e29-c43f-498c-8b6a-16c14ddbfc5d",
     "type": "soccer",
@@ -419,8 +729,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "b700f8fe-4942-467f-990c-ecc1df49ab37",
     "type": "soccer",
@@ -450,8 +760,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "9c0a1a5e-2010-486b-9dfc-535cc9f128c8",
     "type": "soccer",
@@ -481,8 +791,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "6ade0c1a-3de8-4639-b4c3-ed1540d1ba8a",
     "type": "soccer",
@@ -512,8 +822,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "8f70bb93-5d8d-4a37-a3c0-ff539f87a790",
     "type": "soccer",
@@ -543,8 +853,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "ba94a7aa-cad1-4630-ae58-3e14d0172a28",
     "type": "soccer",
@@ -552,6 +862,37 @@
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
       "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Lyca Kovai Kings vs Trichy Grand Cholas, 20th Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Lyca Kovai Kings",
+      "short_name": "LKK",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Trichy Grand Cholas",
+      "short_name": "TGC",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-15T22:00:00.000+08:00",
+    "end_time": "2026-08-16T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-793fd4ac-a2ee-4ca7-90ec-63743393d32e",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -574,8 +915,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "abc1ad5a-b2ea-40fc-898f-4506ff5d63b0",
     "type": "soccer",
@@ -605,8 +946,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "5c0284d2-603d-4478-8d9b-e9fc1ab702d1",
     "type": "soccer",
@@ -636,8 +977,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "57746b8e-fd4b-49c5-9fa4-5b42cbdd2bb8",
     "type": "soccer",
@@ -667,8 +1008,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "e1ae2f89-e282-4163-9756-3cc10f673e88",
     "type": "soccer",
@@ -698,8 +1039,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "3e2cac5d-2f12-4c6a-824d-21120bb4ded6",
     "type": "soccer",
@@ -721,7 +1062,7 @@
     },
     "away_team": {
       "name": "Getafe",
-      "short_name": "GET",
+      "short_name": "Getafe",
       "icon_url": "https://crests.football-data.org/82.png"
     },
     "start_time": "2026-08-16T01:30:00.000+08:00",
@@ -729,8 +1070,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "67a4aee8-766e-45b0-9ec3-2dea9e1b5589",
     "type": "soccer",
@@ -747,12 +1088,12 @@
     "title": "Getafe at Alaves",
     "home_team": {
       "name": "Alaves",
-      "short_name": "ALA",
+      "short_name": "Alaves",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
     },
     "away_team": {
       "name": "Getafe",
-      "short_name": "GET",
+      "short_name": "Getafe",
       "icon_url": "https://crests.football-data.org/82.png"
     },
     "start_time": "2026-08-16T01:30:00.000+08:00",
@@ -760,8 +1101,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "7599374e-4df6-4ca3-992b-076de9242ddc",
     "type": "soccer",
@@ -791,18 +1132,18 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
     "id": "3c851a39-8012-4549-bcd9-7117342448f5",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "Sportsnet+",
+      "broadcaster": "beIN Sports",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -822,8 +1163,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "e60a168d-575d-47f2-8f55-369e94641634",
     "type": "soccer",
@@ -853,8 +1194,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "ff37aeca-c6ec-4aee-bc0f-685be352fb60",
     "type": "soccer",
@@ -884,8 +1225,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "0deea26c-adf1-48b2-9bdc-9ed58b78b61e",
     "type": "soccer",
@@ -926,14 +1267,14 @@
       "broadcaster": "beIN Sports",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
     "title": "Rayo Vallecano at Sevilla FC",
     "home_team": {
       "name": "Sevilla FC",
-      "short_name": "SEV",
+      "short_name": "Sevilla FC",
       "icon_url": "https://crests.football-data.org/559.png"
     },
     "away_team": {
@@ -946,8 +1287,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "94f9aba1-38fd-4dc5-9f28-85f13d697221",
     "type": "soccer",
@@ -977,8 +1318,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "53fa8af7-480f-49d8-810c-0fb6ceae78e8",
     "type": "soccer",
@@ -1008,15 +1349,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "85dc378a-a4cd-4e61-9b6b-c101ea6d7ca2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1039,15 +1380,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "7879a2ce-a1ef-4742-bcf0-a85c1ae6cc24",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1070,8 +1411,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "48022a8c-794e-4825-85a3-17a6c87b1497",
     "type": "soccer",
@@ -1112,7 +1453,7 @@
       "broadcaster": "Sky Sports Football",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -1132,8 +1473,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "9c679ebb-8076-4ce1-aa36-93e977e3ae47",
     "type": "soccer",
@@ -1163,8 +1504,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "b5a023bc-a9c6-4318-be27-8b30f60e41e3",
     "type": "soccer",
@@ -1194,8 +1535,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "fbdebc18-63dd-4b3e-828a-82f7bfa9ecbb",
     "type": "soccer",
@@ -1225,15 +1566,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "81aade8b-4ec5-47af-bfef-fb9fbd6bad16",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1256,8 +1597,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "d46d3262-3f08-477f-92b9-8958a7c14cd0",
     "type": "soccer",
@@ -1287,8 +1628,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "6589837f-0ec7-44c6-ae0e-9504691f3f7e",
     "type": "soccer",
@@ -1329,7 +1670,7 @@
       "broadcaster": "Sky Sports Football",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -1349,8 +1690,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "351020e2-6e21-45de-8474-0e730a0639ba",
     "type": "soccer",
@@ -1380,8 +1721,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "43688ec2-df74-45b4-913e-1181b8ff0e2c",
     "type": "soccer",
@@ -1411,8 +1752,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "32ae7348-c4a2-4977-bf40-4b820786d140",
     "type": "soccer",
@@ -1442,8 +1783,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "c2285b4e-d7b0-4c9e-b271-264843716788",
     "type": "soccer",
@@ -1460,12 +1801,12 @@
     "title": "Levante UD at Espanyol",
     "home_team": {
       "name": "Espanyol",
-      "short_name": "ESP",
+      "short_name": "Espanyol",
       "icon_url": "https://crests.football-data.org/80.png"
     },
     "away_team": {
       "name": "Levante UD",
-      "short_name": "LEV",
+      "short_name": "Levante UD",
       "icon_url": "https://crests.football-data.org/88.png"
     },
     "start_time": "2026-08-17T01:00:00.000+08:00",
@@ -1473,8 +1814,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "280e46bb-a806-44b6-a287-7a9d7705378c",
     "type": "soccer",
@@ -1504,8 +1845,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "27be0f8d-6c9a-440e-b1a6-4e425db19c1f",
     "type": "soccer",
@@ -1535,15 +1876,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "0f8b9f66-d19c-4d9b-89ba-a06f2d2eb85f",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1566,15 +1907,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "e64882d9-bf99-483f-81c2-5696ce63b88d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1597,8 +1938,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "8324f327-4670-4aed-ab46-20ddaf61e6ac",
     "type": "soccer",
@@ -1620,7 +1961,7 @@
     },
     "away_team": {
       "name": "Osasuna",
-      "short_name": "OSA",
+      "short_name": "Osasuna",
       "icon_url": "https://crests.football-data.org/79.png"
     },
     "start_time": "2026-08-17T03:30:00.000+08:00",
@@ -1628,8 +1969,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "a3bd0b38-549a-4177-b533-bfa9baccdf65",
     "type": "soccer",
@@ -1659,8 +2000,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "6cfa8c62-a16e-4798-a912-6a5350ce5225",
     "type": "soccer",
@@ -1690,15 +2031,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "5540c2a3-0488-4c77-a115-0e1c699c7524",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1721,15 +2062,15 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "b19cdf7c-7de2-4b65-89fc-c826a4e079bc",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1752,8 +2093,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "43a8e0f5-2960-496a-bd6a-6892c87c6d56",
     "type": "soccer",
@@ -1761,6 +2102,37 @@
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
       "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Saint Lucia Kings vs Barbados Royals, 9th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Barbados Royals",
+      "short_name": "BR",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Saint Lucia Kings",
+      "short_name": "SLK",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-17T07:00:00.000+08:00",
+    "end_time": "2026-08-17T15:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cricapi-fee080ab-e8fe-4579-9e81-40d75f31ebbb",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -1794,7 +2166,7 @@
       "broadcaster": "Sky Sports Football",
       "forward": true,
       "reverse": true,
-      "epg_confirmed": true
+      "epg_confirmed": null
     }
   },
   {
@@ -1806,7 +2178,7 @@
     },
     "away_team": {
       "name": "Elche CF",
-      "short_name": "ELC",
+      "short_name": "Elche CF",
       "icon_url": "https://crests.football-data.org/285.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1814,8 +2186,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "400c4f88-8ac1-4dc5-9f35-9523759c3a46",
     "type": "soccer",
@@ -1845,8 +2217,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "7490ee9b-8f19-448c-8ada-750ff6c28c57",
     "type": "soccer",
@@ -1868,7 +2240,7 @@
     },
     "away_team": {
       "name": "Elche CF",
-      "short_name": "ELC",
+      "short_name": "Elche CF",
       "icon_url": "https://crests.football-data.org/285.png"
     },
     "start_time": "2026-08-18T03:00:00.000+08:00",
@@ -1876,8 +2248,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "4b4d08f1-339b-4aeb-8de6-b46e0f1b7391",
     "type": "soccer",
@@ -1907,8 +2279,8 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
     "live_channel_region": "us",
     "id": "63cfc631-2c60-456f-8da1-a23a46a796ba",
     "type": "soccer",
@@ -1938,15 +2310,77 @@
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.En.Español.HD.us2",
-    "live_channel_name": "beIN SPORTS en Español",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
     "live_channel_region": "us",
     "id": "21945925-c1bc-4df7-84b3-a1cf0a0dccb1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
     "verification": {
-      "broadcaster": "beIN Sports",
+      "broadcaster": "ESPN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Jamaica Kingsmen vs St Kitts And Nevis Patriots, 10th Match, Caribbean Premier League 2026",
+    "home_team": {
+      "name": "Jamaica Kingsmen",
+      "short_name": "JK",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "St Kitts and Nevis Patriots",
+      "short_name": "SNP",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-18T08:00:00.000+08:00",
+    "end_time": "2026-08-18T16:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Willow.Cricket.HD.us2",
+    "live_channel_name": "Willow",
+    "live_channel_region": "us",
+    "id": "cricapi-83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Chepauk Super Gillies vs Lyca Kovai Kings, 21st Match, Tamil Nadu Premier League 2026",
+    "home_team": {
+      "name": "Chepauk Super Gillies",
+      "short_name": "CSG",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Lyca Kovai Kings",
+      "short_name": "LKK",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-18T22:00:00.000+08:00",
+    "end_time": "2026-08-19T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSports1.in@SD",
+    "live_channel_name": "Star Sports 1 (720p)",
+    "live_channel_region": "in",
+    "id": "cricapi-e9d200fb-3c43-4852-9c93-9160517d7b36",
+    "type": "cricket",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
+    "verification": {
+      "broadcaster": "Star Sports",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
