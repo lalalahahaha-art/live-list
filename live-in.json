@@ -170,10 +170,10 @@
     "end_time": "2026-08-13T15:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -201,10 +201,10 @@
     "end_time": "2026-08-13T16:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-b58ef995-1045-41a1-84e9-706debbc20d5",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -232,10 +232,10 @@
     "end_time": "2026-08-14T02:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "4f3f8b22-b4d3-4e84-bc69-fc3e5d19aa5e",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -273,6 +273,99 @@
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
       "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Karbi Anglong at Bodoland FC",
+    "home_team": {
+      "name": "Bodoland FC",
+      "short_name": "Bodoland FC",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Karbi Anglong",
+      "short_name": "Karbi",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T18:30:00.000+08:00",
+    "end_time": "2026-08-13T20:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "flashscore-durand-SKEvidKE",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Indian Air Force at Jamshedpur",
+    "home_team": {
+      "name": "Jamshedpur",
+      "short_name": "Jamshedpur",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Indian Air Force",
+      "short_name": "IAF",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T18:30:00.000+08:00",
+    "end_time": "2026-08-13T20:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "flashscore-durand-vDHBLau1",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Langsning at Lajong",
+    "home_team": {
+      "name": "Lajong",
+      "short_name": "Lajong",
+      "icon_url": ""
+    },
+    "away_team": {
+      "name": "Langsning",
+      "short_name": "Langsning",
+      "icon_url": ""
+    },
+    "start_time": "2026-08-13T21:30:00.000+08:00",
+    "end_time": "2026-08-13T23:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "flashscore-durand-QTFJJwAD",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
@@ -325,10 +418,10 @@
     "end_time": "2026-08-15T01:45:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "tsdb-2524725",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -604,10 +697,10 @@
     "end_time": "2026-08-15T15:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-03481413-2204-474a-8fba-251011e4f437",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -635,10 +728,10 @@
     "end_time": "2026-08-15T16:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-2c792f39-5c37-43e7-917c-44e5f62b1f43",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -2123,10 +2216,10 @@
     "end_time": "2026-08-17T15:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-fee080ab-e8fe-4579-9e81-40d75f31ebbb",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -2340,10 +2433,10 @@
     "end_time": "2026-08-18T16:00:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Willow.Cricket.HD.us2",
-    "live_channel_name": "Willow",
-    "live_channel_region": "us",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "unknown",
     "id": "cricapi-83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
@@ -2381,6 +2474,533 @@
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=960",
     "verification": {
       "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Strasbourg at Marseille",
+    "home_team": {
+      "name": "Marseille",
+      "short_name": "OLM",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+    },
+    "away_team": {
+      "name": "Strasbourg",
+      "short_name": "STR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+    },
+    "start_time": "2026-08-22T02:45:00.000+08:00",
+    "end_time": "2026-08-22T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876489",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Coventry City at Arsenal",
+    "home_team": {
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "away_team": {
+      "name": "Coventry City",
+      "short_name": "COV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879301",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Manchester United at Hull City",
+    "home_team": {
+      "name": "Hull City",
+      "short_name": "HUL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+    },
+    "away_team": {
+      "name": "Manchester United",
+      "short_name": "MAN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+    },
+    "start_time": "2026-08-22T19:30:00.000+08:00",
+    "end_time": "2026-08-22T21:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879322",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Crystal Palace at Everton",
+    "home_team": {
+      "name": "Everton",
+      "short_name": "EVE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+    },
+    "away_team": {
+      "name": "Crystal Palace",
+      "short_name": "CRY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+    },
+    "start_time": "2026-08-22T22:00:00.000+08:00",
+    "end_time": "2026-08-23T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879300",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Sunderland at Ipswich Town",
+    "home_team": {
+      "name": "Ipswich Town",
+      "short_name": "IPS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+    },
+    "away_team": {
+      "name": "Sunderland",
+      "short_name": "SUN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+    },
+    "start_time": "2026-08-22T22:00:00.000+08:00",
+    "end_time": "2026-08-23T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879299",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Leeds United at Nottingham Forest",
+    "home_team": {
+      "name": "Nottingham Forest",
+      "short_name": "NFO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+    },
+    "away_team": {
+      "name": "Leeds United",
+      "short_name": "LEE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+    },
+    "start_time": "2026-08-22T22:00:00.000+08:00",
+    "end_time": "2026-08-23T00:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879298",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "AJ Auxerre at Lens",
+    "home_team": {
+      "name": "Lens",
+      "short_name": "RCL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+    },
+    "away_team": {
+      "name": "AJ Auxerre",
+      "short_name": "AUX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
+    },
+    "start_time": "2026-08-22T23:15:00.000+08:00",
+    "end_time": "2026-08-23T01:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876490",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Tottenham Hotspur at Brentford",
+    "home_team": {
+      "name": "Brentford",
+      "short_name": "BRE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+    },
+    "away_team": {
+      "name": "Tottenham Hotspur",
+      "short_name": "TOT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+    },
+    "start_time": "2026-08-23T00:30:00.000+08:00",
+    "end_time": "2026-08-23T02:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879321",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Brest at Le Mans",
+    "home_team": {
+      "name": "Le Mans",
+      "short_name": "MNS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+    },
+    "away_team": {
+      "name": "Brest",
+      "short_name": "BRE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+    },
+    "start_time": "2026-08-23T02:45:00.000+08:00",
+    "end_time": "2026-08-23T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876491",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Lorient at Nice",
+    "home_team": {
+      "name": "Nice",
+      "short_name": "NICE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
+    },
+    "away_team": {
+      "name": "Lorient",
+      "short_name": "LOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+    },
+    "start_time": "2026-08-23T02:45:00.000+08:00",
+    "end_time": "2026-08-23T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876488",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Lyon at Toulouse",
+    "home_team": {
+      "name": "Toulouse",
+      "short_name": "TOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+    },
+    "away_team": {
+      "name": "Lyon",
+      "short_name": "LYON",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+    },
+    "start_time": "2026-08-23T02:45:00.000+08:00",
+    "end_time": "2026-08-23T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876486",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Paris FC at Troyes",
+    "home_team": {
+      "name": "Troyes",
+      "short_name": "TRY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
+    },
+    "away_team": {
+      "name": "Paris FC",
+      "short_name": "PAR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+    },
+    "start_time": "2026-08-23T02:45:00.000+08:00",
+    "end_time": "2026-08-23T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876485",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Aston Villa at Brighton & Hove Albion",
+    "home_team": {
+      "name": "Brighton & Hove Albion",
+      "short_name": "BHA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+    },
+    "away_team": {
+      "name": "Aston Villa",
+      "short_name": "AVL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+    },
+    "start_time": "2026-08-23T21:00:00.000+08:00",
+    "end_time": "2026-08-23T23:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879297",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "AFC Bournemouth at Manchester City",
+    "home_team": {
+      "name": "Manchester City",
+      "short_name": "MNC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+    },
+    "away_team": {
+      "name": "AFC Bournemouth",
+      "short_name": "BOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+    },
+    "start_time": "2026-08-23T21:00:00.000+08:00",
+    "end_time": "2026-08-23T23:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879320",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Lille at Angers",
+    "home_team": {
+      "name": "Angers",
+      "short_name": "ANG",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+    },
+    "away_team": {
+      "name": "Lille",
+      "short_name": "LILL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+    },
+    "start_time": "2026-08-23T21:00:00.000+08:00",
+    "end_time": "2026-08-23T23:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876493",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "AS Monaco at Le Havre AC",
+    "home_team": {
+      "name": "Le Havre AC",
+      "short_name": "HAC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
+    },
+    "away_team": {
+      "name": "AS Monaco",
+      "short_name": "MON",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
+    },
+    "start_time": "2026-08-23T23:15:00.000+08:00",
+    "end_time": "2026-08-24T01:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401876492",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Liverpool at Newcastle United",
+    "home_team": {
+      "name": "Newcastle United",
+      "short_name": "NEW",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+    },
+    "away_team": {
+      "name": "Liverpool",
+      "short_name": "LIV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+    },
+    "start_time": "2026-08-23T23:30:00.000+08:00",
+    "end_time": "2026-08-24T01:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "unknown",
+    "id": "401879319",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=960",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
       "forward": true,
       "reverse": true,
       "epg_confirmed": null
