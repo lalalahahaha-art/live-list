@@ -22,8 +22,6 @@
     "id": "cricapi-b58ef995-1045-41a1-84e9-706debbc20d5",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Caribbean Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -55,8 +53,6 @@
     "id": "4f3f8b22-b4d3-4e84-bc69-fc3e5d19aa5e",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "One Day International Series",
-    "league_poster_url": "https://www.thesportsdb.com/images/media/league/poster/p5qi3w1785170418.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -88,8 +84,6 @@
     "id": "cricapi-f4e22c29-a051-446b-991f-8234b21efd0f",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -121,8 +115,6 @@
     "id": "flashscore-durand-SKEvidKE",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Durand Cup",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -154,8 +146,6 @@
     "id": "flashscore-durand-vDHBLau1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Durand Cup",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -187,8 +177,6 @@
     "id": "flashscore-durand-QTFJJwAD",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Durand Cup",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -220,8 +208,6 @@
     "id": "cricapi-0860c2b5-37e1-4fa8-9f15-236f93086fc2",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -253,8 +239,6 @@
     "id": "e4b96434-f5bd-4109-ade1-166b48748d8d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "UEFA Europa League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/on7l121718864972.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -286,8 +270,6 @@
     "id": "07703675-5647-4b61-b013-978082c187dd",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "UEFA Europa League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/on7l121718864972.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -319,8 +301,6 @@
     "id": "tsdb-2524725",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "One Day International Series",
-    "league_poster_url": "https://www.thesportsdb.com/images/media/league/poster/p5qi3w1785170418.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -352,8 +332,6 @@
     "id": "cricapi-32b78568-9a24-4ed9-9a4e-43b9b56ea4ae",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -385,8 +363,6 @@
     "id": "cricapi-af3a2cab-6dff-491c-b126-3c58b1084b9f",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -418,8 +394,6 @@
     "id": "c7680aa9-4d34-4aa6-8561-38a21c0d15eb",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -451,8 +425,6 @@
     "id": "2ee2a0e2-ad16-40dd-b88d-3f42d0e43aaf",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Turkish Super Lig",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6hv68c1714106879.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -484,8 +456,6 @@
     "id": "2f0d052a-f047-4d1a-8198-26d619788df7",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Turkish Super Lig",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6hv68c1714106879.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -517,8 +487,6 @@
     "id": "32465e43-87f3-42ed-bdc5-c4a8fbd0995c",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sky Sports",
@@ -550,8 +518,6 @@
     "id": "b6533398-da45-496c-be20-74d3da1de91b",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -583,8 +549,6 @@
     "id": "cricapi-03481413-2204-474a-8fba-251011e4f437",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Caribbean Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -616,8 +580,6 @@
     "id": "cricapi-2c792f39-5c37-43e7-917c-44e5f62b1f43",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Caribbean Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -649,8 +611,6 @@
     "id": "1321dc91-b117-47bc-80ea-0a26e705fbaf",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -682,8 +642,6 @@
     "id": "22c89e29-c43f-498c-8b6a-16c14ddbfc5d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -715,8 +673,6 @@
     "id": "9c0a1a5e-2010-486b-9dfc-535cc9f128c8",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -748,8 +704,6 @@
     "id": "8f70bb93-5d8d-4a37-a3c0-ff539f87a790",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -781,8 +735,6 @@
     "id": "ba94a7aa-cad1-4630-ae58-3e14d0172a28",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -814,8 +766,6 @@
     "id": "b700f8fe-4942-467f-990c-ecc1df49ab37",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -847,8 +797,6 @@
     "id": "6ade0c1a-3de8-4639-b4c3-ed1540d1ba8a",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -880,8 +828,6 @@
     "id": "cricapi-793fd4ac-a2ee-4ca7-90ec-63743393d32e",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -913,8 +859,6 @@
     "id": "abc1ad5a-b2ea-40fc-898f-4506ff5d63b0",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -946,8 +890,6 @@
     "id": "5c0284d2-603d-4478-8d9b-e9fc1ab702d1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -979,8 +921,6 @@
     "id": "57746b8e-fd4b-49c5-9fa4-5b42cbdd2bb8",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1012,8 +952,6 @@
     "id": "e1ae2f89-e282-4163-9756-3cc10f673e88",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1045,8 +983,6 @@
     "id": "3e2cac5d-2f12-4c6a-824d-21120bb4ded6",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1078,8 +1014,6 @@
     "id": "67a4aee8-766e-45b0-9ec3-2dea9e1b5589",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Viaplay Sports 2 UK",
@@ -1111,8 +1045,6 @@
     "id": "7599374e-4df6-4ca3-992b-076de9242ddc",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1144,8 +1076,6 @@
     "id": "3c851a39-8012-4549-bcd9-7117342448f5",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1177,8 +1107,6 @@
     "id": "e60a168d-575d-47f2-8f55-369e94641634",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Turkish Super Lig",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6hv68c1714106879.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1210,8 +1138,6 @@
     "id": "ff37aeca-c6ec-4aee-bc0f-685be352fb60",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Turkish Super Lig",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6hv68c1714106879.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1243,8 +1169,6 @@
     "id": "0deea26c-adf1-48b2-9bdc-9ed58b78b61e",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1276,8 +1200,6 @@
     "id": "ca88b4ef-60b4-4711-ab47-bcbaddd64223",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1309,8 +1231,6 @@
     "id": "94f9aba1-38fd-4dc5-9f28-85f13d697221",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Nova Sport 4 CZ",
@@ -1342,8 +1262,6 @@
     "id": "53fa8af7-480f-49d8-810c-0fb6ceae78e8",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1375,8 +1293,6 @@
     "id": "85dc378a-a4cd-4e61-9b6b-c101ea6d7ca2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1408,8 +1324,6 @@
     "id": "7879a2ce-a1ef-4742-bcf0-a85c1ae6cc24",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1441,8 +1355,6 @@
     "id": "48022a8c-794e-4825-85a3-17a6c87b1497",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1474,8 +1386,6 @@
     "id": "9c679ebb-8076-4ce1-aa36-93e977e3ae47",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1507,8 +1417,6 @@
     "id": "b5a023bc-a9c6-4318-be27-8b30f60e41e3",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1540,8 +1448,6 @@
     "id": "fbdebc18-63dd-4b3e-828a-82f7bfa9ecbb",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -1573,8 +1479,6 @@
     "id": "81aade8b-4ec5-47af-bfef-fb9fbd6bad16",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1606,8 +1510,6 @@
     "id": "d46d3262-3f08-477f-92b9-8958a7c14cd0",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1639,8 +1541,6 @@
     "id": "6589837f-0ec7-44c6-ae0e-9504691f3f7e",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/oogf3c1679494232.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1672,8 +1572,6 @@
     "id": "401882920",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -1705,8 +1603,6 @@
     "id": "351020e2-6e21-45de-8474-0e730a0639ba",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1738,8 +1634,6 @@
     "id": "43688ec2-df74-45b4-913e-1181b8ff0e2c",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sky Sports Main Event",
@@ -1771,8 +1665,6 @@
     "id": "32ae7348-c4a2-4977-bf40-4b820786d140",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1804,8 +1696,6 @@
     "id": "c2285b4e-d7b0-4c9e-b271-264843716788",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1837,8 +1727,6 @@
     "id": "280e46bb-a806-44b6-a287-7a9d7705378c",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1870,8 +1758,6 @@
     "id": "27be0f8d-6c9a-440e-b1a6-4e425db19c1f",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Turkish Super Lig",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6hv68c1714106879.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1903,8 +1789,6 @@
     "id": "0f8b9f66-d19c-4d9b-89ba-a06f2d2eb85f",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1936,8 +1820,6 @@
     "id": "e64882d9-bf99-483f-81c2-5696ce63b88d",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1969,8 +1851,6 @@
     "id": "8324f327-4670-4aed-ab46-20ddaf61e6ac",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2002,8 +1882,6 @@
     "id": "a3bd0b38-549a-4177-b533-bfa9baccdf65",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2035,8 +1913,6 @@
     "id": "6cfa8c62-a16e-4798-a912-6a5350ce5225",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2068,8 +1944,6 @@
     "id": "5540c2a3-0488-4c77-a115-0e1c699c7524",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2101,8 +1975,6 @@
     "id": "b19cdf7c-7de2-4b65-89fc-c826a4e079bc",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2134,8 +2006,6 @@
     "id": "43a8e0f5-2960-496a-bd6a-6892c87c6d56",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -2167,8 +2037,6 @@
     "id": "cricapi-fee080ab-e8fe-4579-9e81-40d75f31ebbb",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Caribbean Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -2200,8 +2068,6 @@
     "id": "400c4f88-8ac1-4dc5-9f35-9523759c3a46",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2233,8 +2099,6 @@
     "id": "7490ee9b-8f19-448c-8ada-750ff6c28c57",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Football League Championship",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/t7ujmp1677598340.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -2266,8 +2130,6 @@
     "id": "4b4d08f1-339b-4aeb-8de6-b46e0f1b7391",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2299,8 +2161,6 @@
     "id": "63cfc631-2c60-456f-8da1-a23a46a796ba",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Primeira Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6ulsi51732295502.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2332,8 +2192,6 @@
     "id": "21945925-c1bc-4df7-84b3-a1cf0a0dccb1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Campeonato Brasileiro Serie A",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2365,8 +2223,6 @@
     "id": "cricapi-83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Caribbean Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -2398,8 +2254,6 @@
     "id": "cricapi-e9d200fb-3c43-4852-9c93-9160517d7b36",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -2431,8 +2285,6 @@
     "id": "cricapi-b4569241-cd0c-47e3-bf50-dd552c207187",
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Tamil Nadu Premier League",
-    "league_poster_url": "",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -2464,8 +2316,6 @@
     "id": "13a63a98-f8da-4650-859b-5477c861f48b",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2497,8 +2347,6 @@
     "id": "d1eed72f-b7cd-4812-83ae-452966747ac2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Viaplay Sports 1 UK",
@@ -2530,8 +2378,6 @@
     "id": "6a1abcbe-ce20-4ece-9bdb-ba0f7d4300f6",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2563,8 +2409,6 @@
     "id": "04d8f9bb-5255-4b4c-bb84-b8f538c2c4f9",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2596,8 +2440,6 @@
     "id": "401876489",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -2629,8 +2471,6 @@
     "id": "c594169c-f8a1-40ae-acc3-30930cdcc177",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2662,8 +2502,6 @@
     "id": "401879301",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "USA Net",
@@ -2695,8 +2533,6 @@
     "id": "3908c5e2-2049-481c-8c4c-8b3a32860ae2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2728,8 +2564,6 @@
     "id": "401879322",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "USA Net",
@@ -2761,8 +2595,6 @@
     "id": "d85ee53e-b6a5-4bb2-a0ac-cb289f9162fc",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2794,8 +2626,6 @@
     "id": "401879300",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "USA Net",
@@ -2827,8 +2657,6 @@
     "id": "401879299",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -2860,8 +2688,6 @@
     "id": "dbd9b34c-d6f7-4262-96c6-bc6a8c908628",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2893,8 +2719,6 @@
     "id": "badd8d63-2398-477a-9d01-1502c4677a62",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2926,8 +2750,6 @@
     "id": "545d409b-3dd9-4b70-ac87-12a68133a655",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -2959,8 +2781,6 @@
     "id": "401882916",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN2",
@@ -2992,8 +2812,6 @@
     "id": "9086dbea-2a39-4982-8f33-3cad197284ea",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3025,8 +2843,6 @@
     "id": "401876490",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3058,8 +2874,6 @@
     "id": "c5b86e5b-5c7e-4f30-a8ea-71d22c6c91e6",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3091,8 +2905,6 @@
     "id": "401879321",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "NBC",
@@ -3124,8 +2936,6 @@
     "id": "401874931",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3157,8 +2967,6 @@
     "id": "401874745",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3190,8 +2998,6 @@
     "id": "7536e131-9c28-41e4-9a15-eceea22559e5",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3223,8 +3029,6 @@
     "id": "dc7a7b5e-973d-4a15-b5d4-5b8d458eab62",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3256,8 +3060,6 @@
     "id": "fedceb1f-d100-47ab-92b6-0e36d722fc42",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3289,8 +3091,6 @@
     "id": "1e095cd4-5073-4656-9ef1-069d7139cdea",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3322,8 +3122,6 @@
     "id": "5a166ad2-18f9-4615-a43b-2f3787f71416",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3355,8 +3153,6 @@
     "id": "76267811-c124-4af9-946f-ec116d6ee7a1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3388,8 +3184,6 @@
     "id": "401874929",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3421,8 +3215,6 @@
     "id": "401874747",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3454,8 +3246,6 @@
     "id": "401876491",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3487,8 +3277,6 @@
     "id": "401876488",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3520,8 +3308,6 @@
     "id": "401876486",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3553,8 +3339,6 @@
     "id": "401876485",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3586,8 +3370,6 @@
     "id": "8e27283d-4e11-4045-969a-a7797db40939",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3619,8 +3401,6 @@
     "id": "aaa018e1-e50f-4981-a39f-4b109c045391",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3652,8 +3432,6 @@
     "id": "6534aa31-3a24-4cd4-8d08-e0f14829fd07",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Serie A",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/6agbm61636804706.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "CBS Sports",
@@ -3685,8 +3463,6 @@
     "id": "f582ff53-76ae-46e0-9673-08ce611bce65",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3718,8 +3494,6 @@
     "id": "704445ee-bd75-4471-ac01-302fbdd048b1",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3751,8 +3525,6 @@
     "id": "e67efb3c-888d-47ff-b185-e820cbb1e79a",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3784,8 +3556,6 @@
     "id": "401882912",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ABC",
@@ -3817,8 +3587,6 @@
     "id": "401879297",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3850,8 +3618,6 @@
     "id": "401879320",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "USA Net",
@@ -3883,8 +3649,6 @@
     "id": "401876493",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -3916,8 +3680,6 @@
     "id": "12c223bb-6753-4f54-9cdd-2aa2de9d50a2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3949,8 +3711,6 @@
     "id": "787a3122-9e52-4af9-974b-5286228dcfa2",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -3982,8 +3742,6 @@
     "id": "88eea70e-4d2e-4453-ad22-f15928d168ae",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -4015,8 +3773,6 @@
     "id": "401882915",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN2",
@@ -4048,8 +3804,6 @@
     "id": "aa264960-1f55-45d9-9561-36c94412b408",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -4081,8 +3835,6 @@
     "id": "af4db68d-a09b-4d52-af9f-013f9df2b15f",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/3j1vo11636804719.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -4114,8 +3866,6 @@
     "id": "401876492",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -4147,8 +3897,6 @@
     "id": "30e17365-8588-4001-b398-2a53553c521a",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Ligue 1",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/wwzq221761291181.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -4180,8 +3928,6 @@
     "id": "401879319",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "USA Net",
@@ -4213,8 +3959,6 @@
     "id": "7e829a09-8695-47ae-a6f9-1fa8068d2c41",
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "English Premier League",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/67al0l1719007596.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
