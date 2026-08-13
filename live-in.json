@@ -23,7 +23,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "CPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e82t751704715017.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -89,7 +89,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -122,7 +122,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Durand Cup",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -155,7 +155,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Durand Cup",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -188,7 +188,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Durand Cup",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/soccer.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "Sony TEN 1",
@@ -221,7 +221,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -353,7 +353,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -386,7 +386,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -584,7 +584,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "CPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e82t751704715017.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -617,7 +617,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "CPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e82t751704715017.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -881,7 +881,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -1343,7 +1343,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "beIN Sports",
@@ -1376,7 +1376,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1409,7 +1409,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1574,7 +1574,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1904,7 +1904,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -1937,7 +1937,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2069,7 +2069,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2102,7 +2102,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2135,7 +2135,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "SuperSport",
@@ -2168,7 +2168,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "CPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e82t751704715017.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -2333,7 +2333,7 @@
     "type": "soccer",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
     "league_name": "Brasileirão",
-    "league_poster_url": "",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
     "verification": {
       "broadcaster": "ESPN",
@@ -2366,7 +2366,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "CPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e82t751704715017.jpg",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Willow",
@@ -2399,7 +2399,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
@@ -2432,7 +2432,7 @@
     "type": "cricket",
     "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
     "league_name": "TNPL",
-    "league_poster_url": "",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tamil_Nadu_Premier_League.png",
     "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
     "verification": {
       "broadcaster": "Star Sports",
