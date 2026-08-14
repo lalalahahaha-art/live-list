@@ -1,0 +1,340 @@
+[
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Star Sports 1",
+      "short_name": "SS1",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T00:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "267",
+    "live_channel_name": "star sports 1 in",
+    "live_channel_region": "in",
+    "id": "live-room-in-001",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Star Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Star Sports Hindi",
+      "short_name": "SS Hindi",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T01:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "268",
+    "live_channel_name": "star sports hindi in",
+    "live_channel_region": "in",
+    "id": "live-room-in-002",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Star Sports Hindi",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Star Sports Select 1",
+      "short_name": "SS Select 1",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
+    },
+    "start_time": "2026-08-08T02:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsSelect1.in@HD",
+    "live_channel_name": "Star Sports Select 1 HD (720p)",
+    "live_channel_region": "in",
+    "id": "live-room-in-003",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Star Sports Select 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Star Sports Select 2",
+      "short_name": "SS Select 2",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
+    },
+    "start_time": "2026-08-08T03:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsSelect2.in@HD",
+    "live_channel_name": "Star Sports Select 2 HD (720p)",
+    "live_channel_region": "in",
+    "id": "live-room-in-004",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Star Sports Select 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Star Sports Khel",
+      "short_name": "SS Khel",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kabaddi_pictogram.svg/240px-Kabaddi_pictogram.svg.png"
+    },
+    "start_time": "2026-08-08T04:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "StarSportsKhel.in@SD",
+    "live_channel_name": "Star Sports Khel (1080p)",
+    "live_channel_region": "in",
+    "id": "live-room-in-005",
+    "type": "Live Room",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kabaddi_pictogram.svg/240px-Kabaddi_pictogram.svg.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Star Sports Khel",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Sony TEN 1",
+      "short_name": "TEN 1",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
+    },
+    "start_time": "2026-08-08T05:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "885",
+    "live_channel_name": "sony ten 1",
+    "live_channel_region": "in",
+    "id": "live-room-in-006",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sony TEN 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Sony TEN 2",
+      "short_name": "TEN 2",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T06:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "886",
+    "live_channel_name": "sony ten 2",
+    "live_channel_region": "in",
+    "id": "live-room-in-007",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sony TEN 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Sony TEN 3",
+      "short_name": "TEN 3",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T07:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "887",
+    "live_channel_name": "sony ten 3",
+    "live_channel_region": "in",
+    "id": "live-room-in-008",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sony TEN 3",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "DD Sports",
+      "short_name": "DD Sports",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-all-sports.png"
+    },
+    "start_time": "2026-08-08T08:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "DDSports.in@SD",
+    "live_channel_name": "DD Sports SD (1080p)",
+    "live_channel_region": "in",
+    "id": "live-room-in-009",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-all-sports.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "DD Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Willow Cricket",
+      "short_name": "Willow",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T09:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "346",
+    "live_channel_name": "willow cricket",
+    "live_channel_region": "us",
+    "id": "live-room-in-010",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Willow",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Sky Sports Cricket",
+      "short_name": "Sky Cricket",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T10:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "65",
+    "live_channel_name": "sky sports cricket",
+    "live_channel_region": "uk",
+    "id": "live-room-in-011",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sky Sports Cricket",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "SuperSport Cricket",
+      "short_name": "SS Cricket",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T11:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "368",
+    "live_channel_name": "supersport cricket",
+    "live_channel_region": "za",
+    "id": "live-room-in-012",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "SuperSport Cricket",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  },
+  {
+    "title": "Live Sports Room",
+    "home_team": {
+      "name": "Astro Cricket",
+      "short_name": "Astro Cricket",
+      "icon_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+    },
+    "start_time": "2026-08-08T12:00:00.000+08:00",
+    "end_time": "2027-08-09T03:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "370",
+    "live_channel_name": "astro cricket",
+    "live_channel_region": "unknown",
+    "id": "live-room-in-013",
+    "type": "Live Room",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Astro Cricket",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": null
+    }
+  }
+]
