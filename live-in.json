@@ -1,639 +1,5 @@
 [
   {
-    "title": "Bangladesh at Australia",
-    "home_team": {
-      "name": "Australia",
-      "short_name": "Australia",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png"
-    },
-    "away_team": {
-      "name": "Bangladesh",
-      "short_name": "Bangladesh",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/j74o4t1646775146.png"
-    },
-    "start_time": "2026-08-14T08:30:00.000+08:00",
-    "end_time": "2026-08-14T15:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "StarSports1.in@SD",
-    "live_channel_name": "Star Sports 1 (720p)",
-    "live_channel_region": "in",
-    "id": "0ef8d216-4bf4-4f4b-94ac-77215e893c06",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Test Cricket",
-    "league_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cricket_pictogram.svg/330px-Cricket_pictogram.svg.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
-    "verification": {
-      "broadcaster": "Star Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "StarSports1.in@HD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "267"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "346"
-      }
-    ]
-  },
-  {
-    "title": "Sunrisers Leeds Women vs Southern Brave Women, Eliminator, The Hundred Womens Competition 2026",
-    "home_team": {
-      "name": "Southern Brave Women",
-      "short_name": "SBW",
-      "icon_url": ""
-    },
-    "away_team": {
-      "name": "Sunrisers Leeds Women",
-      "short_name": "SLW",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-14T21:15:00.000+08:00",
-    "end_time": "2026-08-15T00:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
-    "id": "cricapi-24b93d6c-6c73-42e6-8137-686fd1529ed5",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Hundred",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/rodzyw1692900047.jpg",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
-    "verification": {
-      "broadcaster": "Willow",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": []
-  },
-  {
-    "title": "Sunrisers Leeds at Manchester Super Giants",
-    "home_team": {
-      "name": "Manchester Super Giants",
-      "short_name": "MSG",
-      "icon_url": ""
-    },
-    "away_team": {
-      "name": "Sunrisers Leeds",
-      "short_name": "SL",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-15T01:00:00.000+08:00",
-    "end_time": "2026-08-15T04:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
-    "id": "72cd1abe-2573-4f93-87d7-07e391e7150d",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Hundred",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/rodzyw1692900047.jpg",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
-    "verification": {
-      "broadcaster": "Willow",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": []
-  },
-  {
-    "title": "Çorum FK at Galatasaray",
-    "home_team": {
-      "name": "Galatasaray",
-      "short_name": "GAL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
-    },
-    "away_team": {
-      "name": "Çorum FK",
-      "short_name": "COR",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-15T02:30:00.000+08:00",
-    "end_time": "2026-08-15T04:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "2f0d052a-f047-4d1a-8198-26d619788df7",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "India at Sri Lanka",
-    "home_team": {
-      "name": "Sri Lanka",
-      "short_name": "Sri Lanka",
-      "icon_url": ""
-    },
-    "away_team": {
-      "name": "India",
-      "short_name": "India",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png"
-    },
-    "start_time": "2026-08-15T12:30:00.000+08:00",
-    "end_time": "2026-08-15T19:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
-    "id": "10a787b6-e4ca-47bc-82d8-0e06d43888bc",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Test Cricket",
-    "league_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cricket_pictogram.svg/330px-Cricket_pictogram.svg.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
-    "verification": {
-      "broadcaster": "Willow",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": []
-  },
-  {
-    "title": "Trabzonspor at Kasimpasa SK",
-    "home_team": {
-      "name": "Kasimpasa SK",
-      "short_name": "KAS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
-    },
-    "away_team": {
-      "name": "Trabzonspor",
-      "short_name": "TRAB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-    },
-    "start_time": "2026-08-16T00:00:00.000+08:00",
-    "end_time": "2026-08-16T02:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "aac318bd-89dc-4535-95a5-8b87064f4f6a",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Trabzonspor at Kasimpasa",
-    "home_team": {
-      "name": "Kasimpasa",
-      "short_name": "KAS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
-    },
-    "away_team": {
-      "name": "Trabzonspor",
-      "short_name": "TRAB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-    },
-    "start_time": "2026-08-16T00:00:00.000+08:00",
-    "end_time": "2026-08-16T02:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "30e7b4cb-6cb9-479e-acec-1afdcd4f7b8c",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Getafe at Alavés",
-    "home_team": {
-      "name": "Alavés",
-      "short_name": "ALA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
-    },
-    "away_team": {
-      "name": "Getafe",
-      "short_name": "GET",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
-    },
-    "start_time": "2026-08-16T01:30:00.000+08:00",
-    "end_time": "2026-08-16T03:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.Deportes.HD.us2",
-    "live_channel_name": "ESPN Deportes",
-    "live_channel_region": "us",
-    "id": "401882926",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "ESPN Deportes",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "ESPNDeportes.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "375"
-      }
-    ]
-  },
-  {
-    "title": "PSV at SBV Excelsior",
-    "home_team": {
-      "name": "SBV Excelsior",
-      "short_name": "EXC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
-    },
-    "away_team": {
-      "name": "PSV",
-      "short_name": "PSV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
-    },
-    "start_time": "2026-08-16T02:00:00.000+08:00",
-    "end_time": "2026-08-16T04:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
-    "id": "3c851a39-8012-4549-bcd9-7117342448f5",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "Sportsnet+",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "410"
-      }
-    ]
-  },
-  {
-    "title": "Rayo Vallecano at Sevilla",
-    "home_team": {
-      "name": "Sevilla",
-      "short_name": "SEV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-    },
-    "away_team": {
-      "name": "Rayo Vallecano",
-      "short_name": "RAY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-    },
-    "start_time": "2026-08-16T03:30:00.000+08:00",
-    "end_time": "2026-08-16T05:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.Deportes.HD.us2",
-    "live_channel_name": "ESPN Deportes",
-    "live_channel_region": "us",
-    "id": "401882918",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "ESPN Deportes",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "ESPNDeportes.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "375"
-      }
-    ]
-  },
-  {
-    "title": "FC Porto at Rio Ave FC",
-    "home_team": {
-      "name": "Rio Ave FC",
-      "short_name": "RAFC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png"
-    },
-    "away_team": {
-      "name": "FC Porto",
-      "short_name": "FCP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
-    },
-    "start_time": "2026-08-16T03:30:00.000+08:00",
-    "end_time": "2026-08-16T05:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "ca88b4ef-60b4-4711-ab47-bcbaddd64223",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga Portugal",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Toluca at Atlante FC",
-    "home_team": {
-      "name": "Atlante FC",
-      "short_name": "ATL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png"
-    },
-    "away_team": {
-      "name": "Toluca",
-      "short_name": "TOL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png"
-    },
-    "start_time": "2026-08-16T07:00:00.000+08:00",
-    "end_time": "2026-08-16T09:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "6976c9e1-4cf7-40bf-b467-882f3d254cc1",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "FC Juarez at Monterrey",
-    "home_team": {
-      "name": "Monterrey",
-      "short_name": "MTY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png"
-    },
-    "away_team": {
-      "name": "FC Juarez",
-      "short_name": "JUA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png"
-    },
-    "start_time": "2026-08-16T09:10:00.000+08:00",
-    "end_time": "2026-08-16T11:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "09cf71a5-8ca9-4108-8a40-00c3a6fcbd88",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "Tigres at Atlas",
-    "home_team": {
-      "name": "Atlas",
-      "short_name": "ATS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
-    },
-    "away_team": {
-      "name": "Tigres",
-      "short_name": "UANL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
-    },
-    "start_time": "2026-08-16T11:10:00.000+08:00",
-    "end_time": "2026-08-16T13:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "a388d157-3986-4052-9752-c9f65f66c6ba",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "Tigres UANL at Atlas",
-    "home_team": {
-      "name": "Atlas",
-      "short_name": "ATS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
-    },
-    "away_team": {
-      "name": "Tigres UANL",
-      "short_name": "UANL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
-    },
-    "start_time": "2026-08-16T11:10:00.000+08:00",
-    "end_time": "2026-08-16T13:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "1f308b9d-8d21-4aff-a587-aae2e48be4fb",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
     "title": "Southampton at Watford FC",
     "home_team": {
       "name": "Watford FC",
@@ -795,6 +161,10 @@
       {
         "live_subscription_id": "iptv-org",
         "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
       },
       {
         "live_subscription_id": "zetastream",
@@ -1161,6 +531,10 @@
         "live_channel_id": "ESPNDeportes.us@SD"
       },
       {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
         "live_subscription_id": "zetastream",
         "live_channel_id": "375"
       }
@@ -1241,8 +615,8 @@
       "short_name": "PUE",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png"
     },
-    "start_time": "2026-08-18T11:06:00.000+08:00",
-    "end_time": "2026-08-18T13:21:00.000+08:00",
+    "start_time": "2026-08-18T11:00:00.000+08:00",
+    "end_time": "2026-08-18T13:15:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
@@ -1275,40 +649,6 @@
         "live_channel_id": "66"
       }
     ]
-  },
-  {
-    "title": "Pakistan at England",
-    "home_team": {
-      "name": "England",
-      "short_name": "NE",
-      "icon_url": ""
-    },
-    "away_team": {
-      "name": "Pakistan",
-      "short_name": "Pakistan",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/03o8241646775177.png"
-    },
-    "start_time": "2026-08-19T18:00:00.000+08:00",
-    "end_time": "2026-08-20T01:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "346",
-    "live_channel_name": "willow cricket",
-    "live_channel_region": "unknown",
-    "id": "e3371c35-85d4-477e-be10-d292a1a2b522",
-    "type": "cricket",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png",
-    "league_name": "Test Cricket",
-    "league_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cricket_pictogram.svg/330px-Cricket_pictogram.svg.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eden_Gardens.jpg?width=420",
-    "verification": {
-      "broadcaster": "Willow",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": []
   },
   {
     "title": "Málaga at Atlético Madrid",
@@ -1346,6 +686,10 @@
       {
         "live_subscription_id": "iptv-org",
         "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
       },
       {
         "live_subscription_id": "zetastream",
@@ -1581,6 +925,417 @@
       {
         "live_subscription_id": "zetastream",
         "live_channel_id": "115"
+      }
+    ]
+  },
+  {
+    "title": "Alavés at Rayo Vallecano",
+    "home_team": {
+      "name": "Rayo Vallecano",
+      "short_name": "RAY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+    },
+    "away_team": {
+      "name": "Alavés",
+      "short_name": "ALA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+    },
+    "start_time": "2026-08-21T03:00:00.000+08:00",
+    "end_time": "2026-08-21T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.Deportes.HD.us2",
+    "live_channel_name": "ESPN Deportes",
+    "live_channel_region": "us",
+    "id": "401882908",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN Deportes",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "Strasbourg at Marseille",
+    "home_team": {
+      "name": "Marseille",
+      "short_name": "OLM",
+      "icon_url": "https://crests.football-data.org/516.png"
+    },
+    "away_team": {
+      "name": "Strasbourg",
+      "short_name": "STR",
+      "icon_url": "https://crests.football-data.org/576.png"
+    },
+    "start_time": "2026-08-22T02:45:00.000+08:00",
+    "end_time": "2026-08-22T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "c594169c-f8a1-40ae-acc3-30930cdcc177",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Ligue 1",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "beINSportsUSA.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "425"
+      }
+    ]
+  },
+  {
+    "title": "Real Sociedad at Real Betis",
+    "home_team": {
+      "name": "Real Betis",
+      "short_name": "BET",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+    },
+    "away_team": {
+      "name": "Real Sociedad",
+      "short_name": "RSO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.Deportes.HD.us2",
+    "live_channel_name": "ESPN Deportes",
+    "live_channel_region": "us",
+    "id": "401882914",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN Deportes",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "Coventry City FC at Arsenal",
+    "home_team": {
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "away_team": {
+      "name": "Coventry City FC",
+      "short_name": "COV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SkySp.PL.HD.uk",
+    "live_channel_name": "Sky Sports Premier League UK",
+    "live_channel_region": "uk",
+    "id": "3908c5e2-2049-481c-8c4c-8b3a32860ae2",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "EPL",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sky Sports Premier League",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "SkySpMainEvHD.uk"
+      },
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "SkySpMainEvHD.uk#2"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "SkySportsMainEvent.ie@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "SkySportsMainEvent.ie@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "130"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "38"
+      }
+    ]
+  },
+  {
+    "title": "Atlante FC at Tigres UANL",
+    "home_team": {
+      "name": "Tigres UANL",
+      "short_name": "UANL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
+    },
+    "away_team": {
+      "name": "Atlante FC",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png"
+    },
+    "start_time": "2026-08-22T09:00:00.000+08:00",
+    "end_time": "2026-08-22T11:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "FoxSports2.us@HD",
+    "live_channel_name": "Fox Sports 2 (720p)",
+    "live_channel_region": "us",
+    "id": "d66fe049-a795-404f-95b8-e208fda1bc72",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Liga MX",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Fox Sports 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "758"
+      }
+    ]
+  },
+  {
+    "title": "Manchester United FC at Hull City AFC",
+    "home_team": {
+      "name": "Hull City AFC",
+      "short_name": "HUL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+    },
+    "away_team": {
+      "name": "Manchester United FC",
+      "short_name": "MAN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+    },
+    "start_time": "2026-08-22T19:30:00.000+08:00",
+    "end_time": "2026-08-22T21:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "TNT.Sports.1.HD.uk",
+    "live_channel_name": "TNT Sports 1 UK",
+    "live_channel_region": "uk",
+    "id": "d85ee53e-b6a5-4bb2-a0ac-cb289f9162fc",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "EPL",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "TNT Sports 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "31"
+      }
+    ]
+  },
+  {
+    "title": "Sevilla at Athletic Club",
+    "home_team": {
+      "name": "Athletic Club",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+    },
+    "away_team": {
+      "name": "Sevilla",
+      "short_name": "SEV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+    },
+    "start_time": "2026-08-22T23:00:00.000+08:00",
+    "end_time": "2026-08-23T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN2.HD.us2",
+    "live_channel_name": "ESPN2",
+    "live_channel_region": "us",
+    "id": "401882916",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "ESPN.Deportes.HD.us2"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "45"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "Sevilla FC at Athletic Club",
+    "home_team": {
+      "name": "Athletic Club",
+      "short_name": "ATH",
+      "icon_url": "https://crests.football-data.org/77.png"
+    },
+    "away_team": {
+      "name": "Sevilla FC",
+      "short_name": "SEV",
+      "icon_url": "https://crests.football-data.org/559.png"
+    },
+    "start_time": "2026-08-22T23:00:00.000+08:00",
+    "end_time": "2026-08-23T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN2.HD.us2",
+    "live_channel_name": "ESPN2",
+    "live_channel_region": "us",
+    "id": "9086dbea-2a39-4982-8f33-3cad197284ea",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "45"
+      }
+    ]
+  },
+  {
+    "title": "Auxerre at Racing Club de Lens",
+    "home_team": {
+      "name": "Racing Club de Lens",
+      "short_name": "RL",
+      "icon_url": "https://crests.football-data.org/546.png"
+    },
+    "away_team": {
+      "name": "Auxerre",
+      "short_name": "AUX",
+      "icon_url": "https://crests.football-data.org/519.png"
+    },
+    "start_time": "2026-08-22T23:15:00.000+08:00",
+    "end_time": "2026-08-23T01:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "c5b86e5b-5c7e-4f30-a8ea-71d22c6c91e6",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Ligue 1",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "beINSportsUSA.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "425"
       }
     ]
   }

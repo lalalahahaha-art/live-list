@@ -1,1610 +1,5 @@
 [
   {
-    "title": "Dolphins at Manly Warringah Sea Eagles",
-    "home_team": {
-      "name": "Manly Warringah Sea Eagles",
-      "short_name": "MWSE",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/oke63j1768508683.png"
-    },
-    "away_team": {
-      "name": "Dolphins",
-      "short_name": "Dolphins",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Dolphins_%28NRL%29_Logo.svg/330px-Dolphins_%28NRL%29_Logo.svg.png"
-    },
-    "start_time": "2026-08-14T16:00:00.000+08:00",
-    "end_time": "2026-08-14T19:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Fox.Soccer.Plus.HD.us2",
-    "live_channel_name": "FOX Soccer Plus",
-    "live_channel_region": "us",
-    "id": "43842c82-667c-44df-b9f9-2b924c1a333f",
-    "type": "rugby",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
-    "league_name": "NRL",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e5fd7q1777721867.jpg",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Fox Soccer Plus",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "756"
-      }
-    ]
-  },
-  {
-    "title": "South Sydney Rabbitohs at Canterbury Bulldogs",
-    "home_team": {
-      "name": "Canterbury Bulldogs",
-      "short_name": "CB",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/ggzq4e1768487178.png"
-    },
-    "away_team": {
-      "name": "South Sydney Rabbitohs",
-      "short_name": "SSR",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/0m4unp1552072677.png"
-    },
-    "start_time": "2026-08-14T18:00:00.000+08:00",
-    "end_time": "2026-08-14T21:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
-    "id": "7ec0180a-fa45-4db9-a12e-10e2aad57547",
-    "type": "rugby",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
-    "league_name": "NRL",
-    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e5fd7q1777721867.jpg",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Sportsnet",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "garysclub",
-        "live_channel_id": "Fox.Soccer.Plus.HD.us2"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "410"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "756"
-      }
-    ]
-  },
-  {
-    "title": "Adelaide Crows at Fremantle Dockers",
-    "home_team": {
-      "name": "Fremantle Dockers",
-      "short_name": "FD",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/hw34ii1647870691.png"
-    },
-    "away_team": {
-      "name": "Adelaide Crows",
-      "short_name": "Adelaide",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/2nh2z01731592341.png"
-    },
-    "start_time": "2026-08-14T18:10:42.000+08:00",
-    "end_time": "2026-08-14T21:10:42.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "FoxSports2.us@HD",
-    "live_channel_name": "Fox Sports 2 (720p)",
-    "live_channel_region": "us",
-    "id": "18dfc455-8b45-4eb6-bb43-2987bcb583da",
-    "type": "australian-football",
-    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
-    "league_name": "AFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Fox Sports 2",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "758"
-      }
-    ]
-  },
-  {
-    "title": "Çorum FK at Galatasaray",
-    "home_team": {
-      "name": "Galatasaray",
-      "short_name": "GAL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
-    },
-    "away_team": {
-      "name": "Çorum FK",
-      "short_name": "COR",
-      "icon_url": ""
-    },
-    "start_time": "2026-08-15T02:30:00.000+08:00",
-    "end_time": "2026-08-15T04:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "2f0d052a-f047-4d1a-8198-26d619788df7",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Castleford Tigers at Hull FC",
-    "home_team": {
-      "name": "Hull FC",
-      "short_name": "HUL",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Hull_F.C._logo.svg/330px-Hull_F.C._logo.svg.png"
-    },
-    "away_team": {
-      "name": "Castleford Tigers",
-      "short_name": "CT",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Castleford_Tigers_new_logo.png"
-    },
-    "start_time": "2026-08-15T03:00:00.000+08:00",
-    "end_time": "2026-08-15T06:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
-    "id": "8787591b-66ac-47c8-8bd5-638626f314aa",
-    "type": "rugby",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
-    "league_name": "Super League",
-    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Sportsnet World",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "410"
-      }
-    ]
-  },
-  {
-    "title": "Boston Red Sox at Pittsburgh Pirates",
-    "home_team": {
-      "name": "Pittsburgh Pirates",
-      "short_name": "PIT",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
-    },
-    "away_team": {
-      "name": "Boston Red Sox",
-      "short_name": "BOS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
-    },
-    "start_time": "2026-08-15T06:40:00.000+08:00",
-    "end_time": "2026-08-15T10:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "New.England.Sports.Network.HD.us2#2",
-    "live_channel_name": "NESN",
-    "live_channel_region": "unknown",
-    "id": "401816519",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NESN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "garysclub",
-        "live_channel_id": "NESN+.New.England.Sports.Network.Plus.us2"
-      },
-      {
-        "live_subscription_id": "garysclub",
-        "live_channel_id": "SportsNet.Pittsburgh.HD.us2"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "762"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "922"
-      }
-    ]
-  },
-  {
-    "title": "Tampa Bay Buccaneers at New York Jets",
-    "home_team": {
-      "name": "New York Jets",
-      "short_name": "NYJ",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
-    },
-    "away_team": {
-      "name": "Tampa Bay Buccaneers",
-      "short_name": "TB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
-    },
-    "start_time": "2026-08-15T07:00:00.000+08:00",
-    "end_time": "2026-08-15T10:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NFL.Network.HD.us2",
-    "live_channel_name": "NFL Network",
-    "live_channel_region": "us",
-    "id": "401873276",
-    "type": "american-football",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
-    "league_name": "NFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
-    "verification": {
-      "broadcaster": "NFL Net",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NFLNetwork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "405"
-      }
-    ]
-  },
-  {
-    "title": "Seattle Mariners at Houston Astros",
-    "home_team": {
-      "name": "Houston Astros",
-      "short_name": "HOU",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    "away_team": {
-      "name": "Seattle Mariners",
-      "short_name": "SEA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
-    },
-    "start_time": "2026-08-15T08:10:00.000+08:00",
-    "end_time": "2026-08-15T11:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Space.City.Home.Network.HD.us2",
-    "live_channel_name": "Space City Home Network",
-    "live_channel_region": "us",
-    "id": "401816526",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Space City Home Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "921"
-      }
-    ]
-  },
-  {
-    "title": "Texas Rangers at Athletics Athletics",
-    "home_team": {
-      "name": "Athletics",
-      "short_name": "ATH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    "away_team": {
-      "name": "Texas Rangers",
-      "short_name": "TEX",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    "start_time": "2026-08-15T09:40:00.000+08:00",
-    "end_time": "2026-08-15T13:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.California.SAT.us2",
-    "live_channel_name": "NBC Sports California",
-    "live_channel_region": "us",
-    "id": "401816531",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBCSCA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "755"
-      }
-    ]
-  },
-  {
-    "title": "Milwaukee Brewers at Los Angeles Dodgers",
-    "home_team": {
-      "name": "Los Angeles Dodgers",
-      "short_name": "LAD",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
-    },
-    "away_team": {
-      "name": "Milwaukee Brewers",
-      "short_name": "MIL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
-    },
-    "start_time": "2026-08-15T10:10:00.000+08:00",
-    "end_time": "2026-08-15T13:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
-    "live_channel_name": "Spectrum SportsNet LA",
-    "live_channel_region": "us",
-    "id": "401816530",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "SportsNet LA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "764"
-      }
-    ]
-  },
-  {
-    "title": "Colorado Rockies at San Francisco Giants",
-    "home_team": {
-      "name": "San Francisco Giants",
-      "short_name": "SF",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "away_team": {
-      "name": "Colorado Rockies",
-      "short_name": "COL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
-    },
-    "start_time": "2026-08-15T10:15:00.000+08:00",
-    "end_time": "2026-08-15T13:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
-    "live_channel_name": "NBC Sports Bay Area",
-    "live_channel_region": "us",
-    "id": "401816528",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBCS BA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NBCSportsBayArea.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "753"
-      }
-    ]
-  },
-  {
-    "title": "St Kilda Saints at Richmond Tigers",
-    "home_team": {
-      "name": "Richmond Tigers",
-      "short_name": "RT",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xkqlvb1647870792.png"
-    },
-    "away_team": {
-      "name": "St Kilda Saints",
-      "short_name": "SKS",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/fvj5ez1732026459.png"
-    },
-    "start_time": "2026-08-15T10:35:22.000+08:00",
-    "end_time": "2026-08-15T13:35:22.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TSN.2.HD.ca2",
-    "live_channel_name": "TSN2 CA",
-    "live_channel_region": "ca",
-    "id": "b854663c-aba9-4320-baaf-f0e88eba22c2",
-    "type": "australian-football",
-    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
-    "league_name": "AFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "TSN2",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "garysclub",
-        "live_channel_id": "Fox.Soccer.Plus.HD.us2"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "112"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "756"
-      }
-    ]
-  },
-  {
-    "title": "Geelong Cats at North Melbourne Kangaroos",
-    "home_team": {
-      "name": "North Melbourne Kangaroos",
-      "short_name": "NMK",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/u5x1ok1584811490.png"
-    },
-    "away_team": {
-      "name": "Geelong Cats",
-      "short_name": "Geelong Cats",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xapo7t1647870681.png"
-    },
-    "start_time": "2026-08-15T13:45:56.000+08:00",
-    "end_time": "2026-08-15T16:45:56.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "FoxSports2.us@HD",
-    "live_channel_name": "Fox Sports 2 (720p)",
-    "live_channel_region": "us",
-    "id": "cc957cb5-9222-497c-ba35-a06e4eb83f71",
-    "type": "australian-football",
-    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
-    "league_name": "AFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Fox Sports 2",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "758"
-      }
-    ]
-  },
-  {
-    "title": "Gold Coast Suns at Brisbane Lions",
-    "home_team": {
-      "name": "Brisbane Lions",
-      "short_name": "Brisbane",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/tvvxvp1474038810.png"
-    },
-    "away_team": {
-      "name": "Gold Coast Suns",
-      "short_name": "GCS",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/4os77n1731592560.png"
-    },
-    "start_time": "2026-08-15T14:15:36.000+08:00",
-    "end_time": "2026-08-15T17:15:36.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Fox.Soccer.Plus.HD.us2",
-    "live_channel_name": "FOX Soccer Plus",
-    "live_channel_region": "us",
-    "id": "a91d3f0e-73c8-4214-9f3e-624741a15d9a",
-    "type": "australian-football",
-    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
-    "league_name": "AFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Fox Soccer Plus",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "756"
-      }
-    ]
-  },
-  {
-    "title": "Collingwood Magpies at Hawthorn Hawks",
-    "home_team": {
-      "name": "Hawthorn Hawks",
-      "short_name": "Hawthorn",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/18y3ks1647870779.png"
-    },
-    "away_team": {
-      "name": "Collingwood Magpies",
-      "short_name": "CM",
-      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/kr57ld1653138051.png"
-    },
-    "start_time": "2026-08-15T17:40:23.000+08:00",
-    "end_time": "2026-08-15T20:40:23.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "FoxSports2.us@HD",
-    "live_channel_name": "Fox Sports 2 (720p)",
-    "live_channel_region": "us",
-    "id": "c69a2aac-f32c-4d27-b20f-5aecb33d4598",
-    "type": "australian-football",
-    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
-    "league_name": "AFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Fox Sports 2",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "758"
-      }
-    ]
-  },
-  {
-    "title": "Trabzonspor at Kasimpasa SK",
-    "home_team": {
-      "name": "Kasimpasa SK",
-      "short_name": "KAS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
-    },
-    "away_team": {
-      "name": "Trabzonspor",
-      "short_name": "TRAB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-    },
-    "start_time": "2026-08-16T00:00:00.000+08:00",
-    "end_time": "2026-08-16T02:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "aac318bd-89dc-4535-95a5-8b87064f4f6a",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Trabzonspor at Kasimpasa",
-    "home_team": {
-      "name": "Kasimpasa",
-      "short_name": "KAS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
-    },
-    "away_team": {
-      "name": "Trabzonspor",
-      "short_name": "TRAB",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-    },
-    "start_time": "2026-08-16T00:00:00.000+08:00",
-    "end_time": "2026-08-16T02:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "30e7b4cb-6cb9-479e-acec-1afdcd4f7b8c",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Super Lig",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/18.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "New York Liberty at Connecticut Sun",
-    "home_team": {
-      "name": "Connecticut Sun",
-      "short_name": "CON",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
-    },
-    "away_team": {
-      "name": "New York Liberty",
-      "short_name": "NY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png"
-    },
-    "start_time": "2026-08-16T01:00:00.000+08:00",
-    "end_time": "2026-08-16T03:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Boston.HD.us2",
-    "live_channel_name": "NBC Sports Boston",
-    "live_channel_region": "us",
-    "id": "401857145",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
-    "league_name": "WNBA",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/nba/day/1823.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBC Sports BO",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "754"
-      }
-    ]
-  },
-  {
-    "title": "Cleveland Browns at Chicago Bears",
-    "home_team": {
-      "name": "Chicago Bears",
-      "short_name": "CHI",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
-    },
-    "away_team": {
-      "name": "Cleveland Browns",
-      "short_name": "CLE",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
-    },
-    "start_time": "2026-08-16T01:00:00.000+08:00",
-    "end_time": "2026-08-16T04:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NFL.Network.HD.us2",
-    "live_channel_name": "NFL Network",
-    "live_channel_region": "us",
-    "id": "401874393",
-    "type": "american-football",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
-    "league_name": "NFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
-    "verification": {
-      "broadcaster": "NFL Net",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NFLNetwork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "405"
-      }
-    ]
-  },
-  {
-    "title": "Getafe at Alavés",
-    "home_team": {
-      "name": "Alavés",
-      "short_name": "ALA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
-    },
-    "away_team": {
-      "name": "Getafe",
-      "short_name": "GET",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
-    },
-    "start_time": "2026-08-16T01:30:00.000+08:00",
-    "end_time": "2026-08-16T03:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.Deportes.HD.us2",
-    "live_channel_name": "ESPN Deportes",
-    "live_channel_region": "us",
-    "id": "401882926",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "ESPN Deportes",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "ESPNDeportes.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "375"
-      }
-    ]
-  },
-  {
-    "title": "PSV at SBV Excelsior",
-    "home_team": {
-      "name": "SBV Excelsior",
-      "short_name": "EXC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
-    },
-    "away_team": {
-      "name": "PSV",
-      "short_name": "PSV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
-    },
-    "start_time": "2026-08-16T02:00:00.000+08:00",
-    "end_time": "2026-08-16T04:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
-    "id": "3c851a39-8012-4549-bcd9-7117342448f5",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Eredivisie",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/11.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "Sportsnet+",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "410"
-      }
-    ]
-  },
-  {
-    "title": "St. Louis Cardinals at Chicago Cubs",
-    "home_team": {
-      "name": "Chicago Cubs",
-      "short_name": "CHC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
-    },
-    "away_team": {
-      "name": "St. Louis Cardinals",
-      "short_name": "STL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
-    },
-    "start_time": "2026-08-16T02:20:00.000+08:00",
-    "end_time": "2026-08-16T05:50:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Marquee.Sports.Network.HD.us2",
-    "live_channel_name": "Marquee Sports Network",
-    "live_channel_region": "us",
-    "id": "401816542",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Marquee Sports Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "770"
-      }
-    ]
-  },
-  {
-    "title": "Huddersfield Giants at Toulouse Olympique",
-    "home_team": {
-      "name": "Toulouse Olympique",
-      "short_name": "TO",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Toulouse_Olympique_new_logo.png"
-    },
-    "away_team": {
-      "name": "Huddersfield Giants",
-      "short_name": "HG",
-      "icon_url": "https://upload.wikimedia.org/wikipedia/en/4/42/Huddersfield_Giants_2021_logo.png"
-    },
-    "start_time": "2026-08-16T03:00:00.000+08:00",
-    "end_time": "2026-08-16T06:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Sportsnet.World.HD.ca2",
-    "live_channel_name": "SportsNet World CA",
-    "live_channel_region": "ca",
-    "id": "002c7722-0d1a-4887-a47d-7a13b46e5eaa",
-    "type": "rugby",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
-    "league_name": "Super League",
-    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Sportsnet+",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "410"
-      }
-    ]
-  },
-  {
-    "title": "New York Yankees at Toronto Blue Jays",
-    "home_team": {
-      "name": "Toronto Blue Jays",
-      "short_name": "TOR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
-    },
-    "away_team": {
-      "name": "New York Yankees",
-      "short_name": "NYY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
-    },
-    "start_time": "2026-08-16T03:07:00.000+08:00",
-    "end_time": "2026-08-16T06:37:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Yes.Network.us2",
-    "live_channel_name": "YES Network",
-    "live_channel_region": "us",
-    "id": "401816537",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "YES",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "YesNetwork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "763"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "833"
-      }
-    ]
-  },
-  {
-    "title": "Rayo Vallecano at Sevilla",
-    "home_team": {
-      "name": "Sevilla",
-      "short_name": "SEV",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-    },
-    "away_team": {
-      "name": "Rayo Vallecano",
-      "short_name": "RAY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-    },
-    "start_time": "2026-08-16T03:30:00.000+08:00",
-    "end_time": "2026-08-16T05:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "ESPN.Deportes.HD.us2",
-    "live_channel_name": "ESPN Deportes",
-    "live_channel_region": "us",
-    "id": "401882918",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "La Liga",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "ESPN Deportes",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "ESPNDeportes.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "375"
-      }
-    ]
-  },
-  {
-    "title": "FC Porto at Rio Ave FC",
-    "home_team": {
-      "name": "Rio Ave FC",
-      "short_name": "RAFC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png"
-    },
-    "away_team": {
-      "name": "FC Porto",
-      "short_name": "FCP",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
-    },
-    "start_time": "2026-08-16T03:30:00.000+08:00",
-    "end_time": "2026-08-16T05:45:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "beIN.Sports.USA.HD.us2",
-    "live_channel_name": "beIN SPORTS",
-    "live_channel_region": "us",
-    "id": "ca88b4ef-60b4-4711-ab47-bcbaddd64223",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga Portugal",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/14.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "beIN Sports",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "beINSportsUSA.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "425"
-      }
-    ]
-  },
-  {
-    "title": "Los Angeles Rams at Kansas City Chiefs",
-    "home_team": {
-      "name": "Kansas City Chiefs",
-      "short_name": "KC",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
-    },
-    "away_team": {
-      "name": "Los Angeles Rams",
-      "short_name": "LAR",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
-    },
-    "start_time": "2026-08-16T04:00:00.000+08:00",
-    "end_time": "2026-08-16T07:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NFL.Network.HD.us2",
-    "live_channel_name": "NFL Network",
-    "live_channel_region": "us",
-    "id": "401873283",
-    "type": "american-football",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
-    "league_name": "NFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
-    "verification": {
-      "broadcaster": "NFL Net",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NFLNetwork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "405"
-      }
-    ]
-  },
-  {
-    "title": "Colorado Rockies at San Francisco Giants",
-    "home_team": {
-      "name": "San Francisco Giants",
-      "short_name": "SF",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "away_team": {
-      "name": "Colorado Rockies",
-      "short_name": "COL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
-    },
-    "start_time": "2026-08-16T04:05:00.000+08:00",
-    "end_time": "2026-08-16T07:35:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
-    "live_channel_name": "NBC Sports Bay Area",
-    "live_channel_region": "us",
-    "id": "401816543",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBCS BA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NBCSportsBayArea.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "753"
-      }
-    ]
-  },
-  {
-    "title": "Washington Nationals at New York Mets",
-    "home_team": {
-      "name": "New York Mets",
-      "short_name": "NYM",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
-    },
-    "away_team": {
-      "name": "Washington Nationals",
-      "short_name": "WSH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
-    },
-    "start_time": "2026-08-16T04:10:00.000+08:00",
-    "end_time": "2026-08-16T07:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "FS1.HD.us2",
-    "live_channel_name": "FS1",
-    "live_channel_region": "us",
-    "id": "401816539",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "FS1",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "garysclub",
-        "live_channel_id": "SNY.SportsNet.New.York.HD.us2"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "SportsNetNewYork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "759"
-      }
-    ]
-  },
-  {
-    "title": "Toluca at Atlante FC",
-    "home_team": {
-      "name": "Atlante FC",
-      "short_name": "ATL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png"
-    },
-    "away_team": {
-      "name": "Toluca",
-      "short_name": "TOL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png"
-    },
-    "start_time": "2026-08-16T07:00:00.000+08:00",
-    "end_time": "2026-08-16T09:15:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "6976c9e1-4cf7-40bf-b467-882f3d254cc1",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "Philadelphia Phillies at Minnesota Twins",
-    "home_team": {
-      "name": "Minnesota Twins",
-      "short_name": "MIN",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
-    },
-    "away_team": {
-      "name": "Philadelphia Phillies",
-      "short_name": "PHI",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
-    },
-    "start_time": "2026-08-16T07:10:00.000+08:00",
-    "end_time": "2026-08-16T10:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.Philadelphia.HD.us2",
-    "live_channel_name": "NBC Sports Philadelphia",
-    "live_channel_region": "us",
-    "id": "401816540",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBCSP",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NBCSportsPhiladelphia.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "777"
-      }
-    ]
-  },
-  {
-    "title": "Seattle Mariners at Houston Astros",
-    "home_team": {
-      "name": "Houston Astros",
-      "short_name": "HOU",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    "away_team": {
-      "name": "Seattle Mariners",
-      "short_name": "SEA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
-    },
-    "start_time": "2026-08-16T07:10:00.000+08:00",
-    "end_time": "2026-08-16T10:40:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "Space.City.Home.Network.HD.us2",
-    "live_channel_name": "Space City Home Network",
-    "live_channel_region": "us",
-    "id": "401816541",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "Space City Home Network",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "921"
-      }
-    ]
-  },
-  {
-    "title": "Los Angeles Sparks at Washington Mystics",
-    "home_team": {
-      "name": "Washington Mystics",
-      "short_name": "WSH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
-    },
-    "away_team": {
-      "name": "Los Angeles Sparks",
-      "short_name": "LA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
-    },
-    "start_time": "2026-08-16T07:30:00.000+08:00",
-    "end_time": "2026-08-16T10:00:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "zetastream",
-    "live_channel_id": "778",
-    "live_channel_name": "monumental sports network",
-    "live_channel_region": "unknown",
-    "id": "401857146",
-    "type": "basketball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
-    "league_name": "WNBA",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/nba/day/1823.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "MNMT",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": []
-  },
-  {
-    "title": "Dallas Cowboys at Seattle Seahawks",
-    "home_team": {
-      "name": "Seattle Seahawks",
-      "short_name": "SEA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-    },
-    "away_team": {
-      "name": "Dallas Cowboys",
-      "short_name": "DAL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
-    },
-    "start_time": "2026-08-16T08:00:00.000+08:00",
-    "end_time": "2026-08-16T11:30:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NFL.Network.HD.us2",
-    "live_channel_name": "NFL Network",
-    "live_channel_region": "us",
-    "id": "401873279",
-    "type": "american-football",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
-    "league_name": "NFL",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
-    "verification": {
-      "broadcaster": "NFL Net",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "NFLNetwork.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "405"
-      }
-    ]
-  },
-  {
-    "title": "FC Juarez at Monterrey",
-    "home_team": {
-      "name": "Monterrey",
-      "short_name": "MTY",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png"
-    },
-    "away_team": {
-      "name": "FC Juarez",
-      "short_name": "JUA",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png"
-    },
-    "start_time": "2026-08-16T09:10:00.000+08:00",
-    "end_time": "2026-08-16T11:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "09cf71a5-8ca9-4108-8a40-00c3a6fcbd88",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "Texas Rangers at Athletics Athletics",
-    "home_team": {
-      "name": "Athletics",
-      "short_name": "ATH",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    "away_team": {
-      "name": "Texas Rangers",
-      "short_name": "TEX",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    "start_time": "2026-08-16T09:40:00.000+08:00",
-    "end_time": "2026-08-16T13:10:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "NBC.Sports.California.SAT.us2",
-    "live_channel_name": "NBC Sports California",
-    "live_channel_region": "us",
-    "id": "401816546",
-    "type": "baseball",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
-    "league_name": "MLB",
-    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
-    "verification": {
-      "broadcaster": "NBCSCA",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "755"
-      }
-    ]
-  },
-  {
-    "title": "Tigres at Atlas",
-    "home_team": {
-      "name": "Atlas",
-      "short_name": "ATS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
-    },
-    "away_team": {
-      "name": "Tigres",
-      "short_name": "UANL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
-    },
-    "start_time": "2026-08-16T11:10:00.000+08:00",
-    "end_time": "2026-08-16T13:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "a388d157-3986-4052-9752-c9f65f66c6ba",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
-    "title": "Tigres UANL at Atlas",
-    "home_team": {
-      "name": "Atlas",
-      "short_name": "ATS",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png"
-    },
-    "away_team": {
-      "name": "Tigres UANL",
-      "short_name": "UANL",
-      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
-    },
-    "start_time": "2026-08-16T11:10:00.000+08:00",
-    "end_time": "2026-08-16T13:25:00.000+08:00",
-    "end_time_estimated": true,
-    "status": "upcoming",
-    "live_subscription_id": "garysclub",
-    "live_channel_id": "TUDN.us2",
-    "live_channel_name": "TUDN",
-    "live_channel_region": "us",
-    "id": "1f308b9d-8d21-4aff-a587-aae2e48be4fb",
-    "type": "soccer",
-    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
-    "league_name": "Liga MX",
-    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
-    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
-    "verification": {
-      "broadcaster": "TUDN",
-      "forward": true,
-      "reverse": true,
-      "epg_confirmed": true
-    },
-    "backup_channels": [
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.mx@SD"
-      },
-      {
-        "live_subscription_id": "iptv-org",
-        "live_channel_id": "TUDN.us@SD"
-      },
-      {
-        "live_subscription_id": "zetastream",
-        "live_channel_id": "66"
-      }
-    ]
-  },
-  {
     "title": "West Coast Eagles at Greater Western Sydney Giants",
     "home_team": {
       "name": "Greater Western Sydney Giants",
@@ -1616,14 +11,14 @@
       "short_name": "WCE",
       "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xpcp2f1647870746.png"
     },
-    "start_time": "2026-08-16T11:40:34.000+08:00",
-    "end_time": "2026-08-16T14:40:34.000+08:00",
+    "start_time": "2026-08-16T11:41:00.000+08:00",
+    "end_time": "2026-08-16T14:41:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
-    "live_subscription_id": "iptv-org",
-    "live_channel_id": "FoxSports2.us@HD",
-    "live_channel_name": "Fox Sports 2 (720p)",
-    "live_channel_region": "us",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "TSN.5.HD.ca2",
+    "live_channel_name": "TSN5 CA",
+    "live_channel_region": "ca",
     "id": "37938881-6a0e-4a00-a2ee-b6d3e2ea4240",
     "type": "australian-football",
     "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
@@ -1631,15 +26,23 @@
     "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
     "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
     "verification": {
-      "broadcaster": "Fox Sports 2",
+      "broadcaster": "TSN5",
       "forward": true,
       "reverse": true,
       "epg_confirmed": true
     },
     "backup_channels": [
       {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "FoxSports2.us@HD"
+      },
+      {
         "live_subscription_id": "zetastream",
         "live_channel_id": "758"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "115"
       }
     ]
   },
@@ -1655,8 +58,8 @@
       "short_name": "Carlton",
       "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/k9no791584810309.png"
     },
-    "start_time": "2026-08-16T13:15:06.000+08:00",
-    "end_time": "2026-08-16T16:15:06.000+08:00",
+    "start_time": "2026-08-16T13:16:06.000+08:00",
+    "end_time": "2026-08-16T16:16:06.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
@@ -1883,6 +286,10 @@
       {
         "live_subscription_id": "iptv-org",
         "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
       },
       {
         "live_subscription_id": "zetastream",
@@ -2126,6 +533,45 @@
     ]
   },
   {
+    "title": "St. Louis Cardinals at Chicago Cubs",
+    "home_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CHC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "away_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "start_time": "2026-08-17T03:00:00.000+08:00",
+    "end_time": "2026-08-17T06:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "ABC.us@East",
+    "live_channel_name": "ABC (1080p)",
+    "live_channel_region": "us",
+    "id": "401816557",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "ABC",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "51"
+      }
+    ]
+  },
+  {
     "title": "Colorado Rockies at San Francisco Giants",
     "home_team": {
       "name": "San Francisco Giants",
@@ -2206,6 +652,40 @@
         "live_channel_id": "755"
       }
     ]
+  },
+  {
+    "title": "Kansas City Royals at Los Angeles Angels",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "away_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "start_time": "2026-08-17T04:07:00.000+08:00",
+    "end_time": "2026-08-17T07:37:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "zetastream",
+    "live_channel_id": "906",
+    "live_channel_name": "fanduel sports network west",
+    "live_channel_region": "unknown",
+    "id": "401816559",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "ABTV, presented by Pechanga Resort Casino",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": []
   },
   {
     "title": "Milwaukee Brewers at Los Angeles Dodgers",
@@ -2423,6 +903,45 @@
     ]
   },
   {
+    "title": "Seattle Mariners at Houston Astros",
+    "home_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "away_team": {
+      "name": "Seattle Mariners",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "start_time": "2026-08-17T07:20:00.000+08:00",
+    "end_time": "2026-08-17T10:50:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "NBC.us@East",
+    "live_channel_name": "NBC (1080p)",
+    "live_channel_region": "us",
+    "id": "401816556",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBC",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "53"
+      }
+    ]
+  },
+  {
     "title": "Guadalajara at Santos",
     "home_team": {
       "name": "Santos",
@@ -2599,6 +1118,10 @@
       {
         "live_subscription_id": "iptv-org",
         "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
       },
       {
         "live_subscription_id": "zetastream",
@@ -2966,8 +1489,8 @@
       "short_name": "PUE",
       "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png"
     },
-    "start_time": "2026-08-18T11:06:00.000+08:00",
-    "end_time": "2026-08-18T13:21:00.000+08:00",
+    "start_time": "2026-08-18T11:00:00.000+08:00",
+    "end_time": "2026-08-18T13:15:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
@@ -3758,6 +2281,10 @@
         "live_channel_id": "ESPNDeportes.us@SD"
       },
       {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
         "live_subscription_id": "zetastream",
         "live_channel_id": "375"
       }
@@ -3919,6 +2446,49 @@
       {
         "live_subscription_id": "zetastream",
         "live_channel_id": "777"
+      }
+    ]
+  },
+  {
+    "title": "New York Yankees at Baltimore Orioles",
+    "home_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "away_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "start_time": "2026-08-20T06:35:00.000+08:00",
+    "end_time": "2026-08-20T10:05:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "MLB.Network.HD.us2",
+    "live_channel_name": "MLB Network",
+    "live_channel_region": "us",
+    "id": "401816589",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "MLB Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "MLBNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "399"
       }
     ]
   },
@@ -4325,8 +2895,8 @@
       "short_name": "GCS",
       "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/4os77n1731592560.png"
     },
-    "start_time": "2026-08-20T17:30:24.000+08:00",
-    "end_time": "2026-08-20T20:30:24.000+08:00",
+    "start_time": "2026-08-20T17:30:00.000+08:00",
+    "end_time": "2026-08-20T20:30:00.000+08:00",
     "end_time_estimated": true,
     "status": "upcoming",
     "live_subscription_id": "garysclub",
@@ -4396,6 +2966,1569 @@
       {
         "live_subscription_id": "zetastream",
         "live_channel_id": "410"
+      }
+    ]
+  },
+  {
+    "title": "San Francisco Giants at Cleveland Guardians",
+    "home_team": {
+      "name": "Cleveland Guardians",
+      "short_name": "CLE",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+    },
+    "away_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "start_time": "2026-08-21T01:10:00.000+08:00",
+    "end_time": "2026-08-21T04:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Bay.Area.HD.us2",
+    "live_channel_name": "NBC Sports Bay Area",
+    "live_channel_region": "us",
+    "id": "401816602",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBCS BA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NBCSportsBayArea.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "753"
+      }
+    ]
+  },
+  {
+    "title": "Athletics Athletics at Kansas City Royals",
+    "home_team": {
+      "name": "Kansas City Royals",
+      "short_name": "KC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "away_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "start_time": "2026-08-21T02:10:00.000+08:00",
+    "end_time": "2026-08-21T05:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.California.SAT.us2",
+    "live_channel_name": "NBC Sports California",
+    "live_channel_region": "us",
+    "id": "401816606",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBCSCA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "755"
+      }
+    ]
+  },
+  {
+    "title": "Alavés at Rayo Vallecano",
+    "home_team": {
+      "name": "Rayo Vallecano",
+      "short_name": "RAY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+    },
+    "away_team": {
+      "name": "Alavés",
+      "short_name": "ALA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+    },
+    "start_time": "2026-08-21T03:00:00.000+08:00",
+    "end_time": "2026-08-21T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.Deportes.HD.us2",
+    "live_channel_name": "ESPN Deportes",
+    "live_channel_region": "us",
+    "id": "401882908",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN Deportes",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "New York Yankees at Baltimore Orioles",
+    "home_team": {
+      "name": "Baltimore Orioles",
+      "short_name": "BAL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+    },
+    "away_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "start_time": "2026-08-21T06:35:00.000+08:00",
+    "end_time": "2026-08-21T10:05:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Yes.Network.us2",
+    "live_channel_name": "YES Network",
+    "live_channel_region": "us",
+    "id": "401816601",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "YesNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "763"
+      }
+    ]
+  },
+  {
+    "title": "Las Vegas Raiders at Houston Texans",
+    "home_team": {
+      "name": "Houston Texans",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
+    },
+    "away_team": {
+      "name": "Las Vegas Raiders",
+      "short_name": "LV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+    },
+    "start_time": "2026-08-21T08:00:00.000+08:00",
+    "end_time": "2026-08-21T11:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.HD.us2",
+    "live_channel_name": "ESPN",
+    "live_channel_region": "us",
+    "id": "401873286",
+    "type": "american-football",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
+    "league_name": "NFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPN.br@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "44"
+      }
+    ]
+  },
+  {
+    "title": "Washington Nationals at Texas Rangers",
+    "home_team": {
+      "name": "Texas Rangers",
+      "short_name": "TEX",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "away_team": {
+      "name": "Washington Nationals",
+      "short_name": "WSH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "start_time": "2026-08-21T08:05:00.000+08:00",
+    "end_time": "2026-08-21T11:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "401816609",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "FS1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": []
+  },
+  {
+    "title": "Los Angeles Angels at Houston Astros",
+    "home_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "away_team": {
+      "name": "Los Angeles Angels",
+      "short_name": "LAA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "start_time": "2026-08-21T08:10:00.000+08:00",
+    "end_time": "2026-08-21T11:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Space.City.Home.Network.HD.us2",
+    "live_channel_name": "Space City Home Network",
+    "live_channel_region": "us",
+    "id": "401816605",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Space City Home Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "921"
+      }
+    ]
+  },
+  {
+    "title": "Connecticut Sun at Las Vegas Aces",
+    "home_team": {
+      "name": "Las Vegas Aces",
+      "short_name": "LV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
+    },
+    "away_team": {
+      "name": "Connecticut Sun",
+      "short_name": "CON",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+    },
+    "start_time": "2026-08-21T10:00:00.000+08:00",
+    "end_time": "2026-08-21T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Boston.HD.us2",
+    "live_channel_name": "NBC Sports Boston",
+    "live_channel_region": "us",
+    "id": "401857159",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "league_name": "WNBA",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/nba/day/1823.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBC Sports BO",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "754"
+      }
+    ]
+  },
+  {
+    "title": "San Francisco 49ers at Los Angeles Chargers",
+    "home_team": {
+      "name": "Los Angeles Chargers",
+      "short_name": "LAC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
+    },
+    "away_team": {
+      "name": "San Francisco 49ers",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+    },
+    "start_time": "2026-08-21T10:00:00.000+08:00",
+    "end_time": "2026-08-21T13:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NFL.Network.HD.us2",
+    "live_channel_name": "NFL Network",
+    "live_channel_region": "us",
+    "id": "401873285",
+    "type": "american-football",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
+    "league_name": "NFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
+    "verification": {
+      "broadcaster": "NFL Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NFLNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "405"
+      }
+    ]
+  },
+  {
+    "title": "Brisbane Broncos at Canberra Raiders",
+    "home_team": {
+      "name": "Canberra Raiders",
+      "short_name": "CR",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/54ebov1768508580.png"
+    },
+    "away_team": {
+      "name": "Brisbane Broncos",
+      "short_name": "BB",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/yjgl741768487372.png"
+    },
+    "start_time": "2026-08-21T16:00:00.000+08:00",
+    "end_time": "2026-08-21T19:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Fox.Soccer.Plus.HD.us2",
+    "live_channel_name": "FOX Soccer Plus",
+    "live_channel_region": "us",
+    "id": "7a4b7335-c0fe-4fbf-b5e5-c2c29ed0f168",
+    "type": "rugby",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
+    "league_name": "NRL",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e5fd7q1777721867.jpg",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Fox Soccer Plus",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "756"
+      }
+    ]
+  },
+  {
+    "title": "Brisbane Lions at Collingwood Magpies",
+    "home_team": {
+      "name": "Collingwood Magpies",
+      "short_name": "CM",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/kr57ld1653138051.png"
+    },
+    "away_team": {
+      "name": "Brisbane Lions",
+      "short_name": "Brisbane",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/tvvxvp1474038810.png"
+    },
+    "start_time": "2026-08-21T17:40:25.000+08:00",
+    "end_time": "2026-08-21T20:40:25.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "FoxSports2.us@HD",
+    "live_channel_name": "Fox Sports 2 (720p)",
+    "live_channel_region": "us",
+    "id": "a95d67be-b636-4c58-a5bf-3fe882f0ffbc",
+    "type": "australian-football",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
+    "league_name": "AFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Fox Sports 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "758"
+      }
+    ]
+  },
+  {
+    "title": "Parramatta Eels at Dolphins",
+    "home_team": {
+      "name": "Dolphins",
+      "short_name": "Dolphins",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Dolphins_%28NRL%29_Logo.svg/330px-Dolphins_%28NRL%29_Logo.svg.png"
+    },
+    "away_team": {
+      "name": "Parramatta Eels",
+      "short_name": "PE",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/5tvma21646347846.png"
+    },
+    "start_time": "2026-08-21T18:00:00.000+08:00",
+    "end_time": "2026-08-21T21:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Fox.Soccer.Plus.HD.us2",
+    "live_channel_name": "FOX Soccer Plus",
+    "live_channel_region": "us",
+    "id": "8d631369-6c37-48b0-adff-1e59806fc193",
+    "type": "rugby",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
+    "league_name": "NRL",
+    "league_poster_url": "https://r2.thesportsdb.com/images/media/league/poster/e5fd7q1777721867.jpg",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Fox Soccer Plus",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "Sportsnet.World.HD.ca2"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "756"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "410"
+      }
+    ]
+  },
+  {
+    "title": "Strasbourg at Marseille",
+    "home_team": {
+      "name": "Marseille",
+      "short_name": "OLM",
+      "icon_url": "https://crests.football-data.org/516.png"
+    },
+    "away_team": {
+      "name": "Strasbourg",
+      "short_name": "STR",
+      "icon_url": "https://crests.football-data.org/576.png"
+    },
+    "start_time": "2026-08-22T02:45:00.000+08:00",
+    "end_time": "2026-08-22T05:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "c594169c-f8a1-40ae-acc3-30930cdcc177",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Ligue 1",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "beINSportsUSA.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "425"
+      }
+    ]
+  },
+  {
+    "title": "Real Sociedad at Real Betis",
+    "home_team": {
+      "name": "Real Betis",
+      "short_name": "BET",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+    },
+    "away_team": {
+      "name": "Real Sociedad",
+      "short_name": "RSO",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.Deportes.HD.us2",
+    "live_channel_name": "ESPN Deportes",
+    "live_channel_region": "us",
+    "id": "401882914",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN Deportes",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "Coventry City FC at Arsenal",
+    "home_team": {
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "away_team": {
+      "name": "Coventry City FC",
+      "short_name": "COV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T05:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "SkySp.PL.HD.uk",
+    "live_channel_name": "Sky Sports Premier League UK",
+    "live_channel_region": "uk",
+    "id": "3908c5e2-2049-481c-8c4c-8b3a32860ae2",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "EPL",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Sky Sports Premier League",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "SkySpMainEvHD.uk"
+      },
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "SkySpMainEvHD.uk#2"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "SkySportsMainEvent.ie@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "SkySportsMainEvent.ie@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "130"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "38"
+      }
+    ]
+  },
+  {
+    "title": "Wakefield Trinity at Wigan Warriors",
+    "home_team": {
+      "name": "Wigan Warriors",
+      "short_name": "Wigan",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Wigan_Warriors_Logo%2C_November_2020.svg/330px-Wigan_Warriors_Logo%2C_November_2020.svg.png"
+    },
+    "away_team": {
+      "name": "Wakefield Trinity",
+      "short_name": "WT",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Wakey_new_logo.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Sportsnet.World.HD.ca2",
+    "live_channel_name": "SportsNet World CA",
+    "live_channel_region": "ca",
+    "id": "76492d72-159c-4317-ac59-c0b4df566235",
+    "type": "rugby",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
+    "league_name": "Super League",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Sportsnet World",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "410"
+      }
+    ]
+  },
+  {
+    "title": "Bradford Bulls at Leigh Leopards",
+    "home_team": {
+      "name": "Leigh Leopards",
+      "short_name": "Leigh",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Leigh_Leopards_Rugby_League_Team_Logo.png"
+    },
+    "away_team": {
+      "name": "Bradford Bulls",
+      "short_name": "Bradford",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/2025_Bradford_Bulls_Logo.png"
+    },
+    "start_time": "2026-08-22T03:00:00.000+08:00",
+    "end_time": "2026-08-22T06:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Sportsnet.World.HD.ca2",
+    "live_channel_name": "SportsNet World CA",
+    "live_channel_region": "ca",
+    "id": "53f19952-c097-43ee-a46e-e8c7951c2d17",
+    "type": "rugby",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
+    "league_name": "Super League",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Sportsnet+",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "410"
+      }
+    ]
+  },
+  {
+    "title": "St. Louis Cardinals at Philadelphia Phillies",
+    "home_team": {
+      "name": "Philadelphia Phillies",
+      "short_name": "PHI",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "away_team": {
+      "name": "St. Louis Cardinals",
+      "short_name": "STL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "start_time": "2026-08-22T06:40:00.000+08:00",
+    "end_time": "2026-08-22T10:10:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.Philadelphia.HD.us2",
+    "live_channel_name": "NBC Sports Philadelphia",
+    "live_channel_region": "us",
+    "id": "401816611",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBCSP",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NBCSportsPhiladelphia.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "777"
+      }
+    ]
+  },
+  {
+    "title": "New York Jets at Pittsburgh Steelers",
+    "home_team": {
+      "name": "Pittsburgh Steelers",
+      "short_name": "PIT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+    },
+    "away_team": {
+      "name": "New York Jets",
+      "short_name": "NYJ",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
+    },
+    "start_time": "2026-08-22T07:00:00.000+08:00",
+    "end_time": "2026-08-22T10:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NFL.Network.HD.us2",
+    "live_channel_name": "NFL Network",
+    "live_channel_region": "us",
+    "id": "401873288",
+    "type": "american-football",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
+    "league_name": "NFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
+    "verification": {
+      "broadcaster": "NFL Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NFLNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "405"
+      }
+    ]
+  },
+  {
+    "title": "Toronto Blue Jays at New York Yankees",
+    "home_team": {
+      "name": "New York Yankees",
+      "short_name": "NYY",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "away_team": {
+      "name": "Toronto Blue Jays",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "start_time": "2026-08-22T07:05:00.000+08:00",
+    "end_time": "2026-08-22T10:35:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Yes.Network.us2",
+    "live_channel_name": "YES Network",
+    "live_channel_region": "us",
+    "id": "401816613",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "YES",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "YesNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "763"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "833"
+      }
+    ]
+  },
+  {
+    "title": "San Francisco Giants at Boston Red Sox",
+    "home_team": {
+      "name": "Boston Red Sox",
+      "short_name": "BOS",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "away_team": {
+      "name": "San Francisco Giants",
+      "short_name": "SF",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+    },
+    "start_time": "2026-08-22T07:10:00.000+08:00",
+    "end_time": "2026-08-22T10:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "New.England.Sports.Network.HD.us2#2",
+    "live_channel_name": "NESN",
+    "live_channel_region": "unknown",
+    "id": "401816610",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NESN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "NESN+.New.England.Sports.Network.Plus.us2"
+      },
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "NBC.Sports.Bay.Area.HD.us2"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NBCSportsBayArea.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "762"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "753"
+      }
+    ]
+  },
+  {
+    "title": "Athletics Athletics at Houston Astros",
+    "home_team": {
+      "name": "Houston Astros",
+      "short_name": "HOU",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "away_team": {
+      "name": "Athletics",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+    },
+    "start_time": "2026-08-22T08:10:00.000+08:00",
+    "end_time": "2026-08-22T11:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NBC.Sports.California.SAT.us2",
+    "live_channel_name": "NBC Sports California",
+    "live_channel_region": "us",
+    "id": "401816616",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "NBCSCA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "Space.City.Home.Network.HD.us2"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "755"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "921"
+      }
+    ]
+  },
+  {
+    "title": "Green Bay Packers at Denver Broncos",
+    "home_team": {
+      "name": "Denver Broncos",
+      "short_name": "DEN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+    },
+    "away_team": {
+      "name": "Green Bay Packers",
+      "short_name": "GB",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+    },
+    "start_time": "2026-08-22T09:00:00.000+08:00",
+    "end_time": "2026-08-22T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "NFL.Network.HD.us2",
+    "live_channel_name": "NFL Network",
+    "live_channel_region": "us",
+    "id": "401873613",
+    "type": "american-football",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football.png",
+    "league_name": "NFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AT%26T_Stadium.jpg?width=420",
+    "verification": {
+      "broadcaster": "NFL Net",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "NFLNetwork.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "405"
+      }
+    ]
+  },
+  {
+    "title": "Atlante FC at Tigres UANL",
+    "home_team": {
+      "name": "Tigres UANL",
+      "short_name": "UANL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png"
+    },
+    "away_team": {
+      "name": "Atlante FC",
+      "short_name": "ATL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png"
+    },
+    "start_time": "2026-08-22T09:00:00.000+08:00",
+    "end_time": "2026-08-22T11:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "FoxSports2.us@HD",
+    "live_channel_name": "Fox Sports 2 (720p)",
+    "live_channel_region": "us",
+    "id": "d66fe049-a795-404f-95b8-e208fda1bc72",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Liga MX",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "Fox Sports 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "758"
+      }
+    ]
+  },
+  {
+    "title": "Portland Fire at Toronto Tempo",
+    "home_team": {
+      "name": "Toronto Tempo",
+      "short_name": "TOR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
+    },
+    "away_team": {
+      "name": "Portland Fire",
+      "short_name": "POR",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
+    },
+    "start_time": "2026-08-22T10:00:00.000+08:00",
+    "end_time": "2026-08-22T12:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "TSN.4.HD.ca2",
+    "live_channel_name": "TSN4 CA",
+    "live_channel_region": "ca",
+    "id": "401857163",
+    "type": "basketball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png",
+    "league_name": "WNBA",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/wnba.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/nba/day/1823.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "TSN",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "TSN.5.HD.ca2"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "114"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "115"
+      }
+    ]
+  },
+  {
+    "title": "Chicago Cubs at Seattle Mariners",
+    "home_team": {
+      "name": "Seattle Mariners",
+      "short_name": "SEA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "short_name": "CHC",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "start_time": "2026-08-22T10:10:00.000+08:00",
+    "end_time": "2026-08-22T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Marquee.Sports.Network.HD.us2",
+    "live_channel_name": "Marquee Sports Network",
+    "live_channel_region": "us",
+    "id": "401816621",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Marquee Sports Network",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "770"
+      }
+    ]
+  },
+  {
+    "title": "Pittsburgh Pirates at Los Angeles Dodgers",
+    "home_team": {
+      "name": "Los Angeles Dodgers",
+      "short_name": "LAD",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "away_team": {
+      "name": "Pittsburgh Pirates",
+      "short_name": "PIT",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    "start_time": "2026-08-22T10:10:00.000+08:00",
+    "end_time": "2026-08-22T13:40:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Spectrum.SportsNet.LA.Dodgers.HD.us2",
+    "live_channel_name": "Spectrum SportsNet LA",
+    "live_channel_region": "us",
+    "id": "401816624",
+    "type": "baseball",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-baseball.png",
+    "league_name": "MLB",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/mlb/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "SportsNet LA",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "SportsNet.Pittsburgh.HD.us2"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "764"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "922"
+      }
+    ]
+  },
+  {
+    "title": "Fremantle Dockers at Carlton Blues",
+    "home_team": {
+      "name": "Carlton Blues",
+      "short_name": "Carlton",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/k9no791584810309.png"
+    },
+    "away_team": {
+      "name": "Fremantle Dockers",
+      "short_name": "FD",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/hw34ii1647870691.png"
+    },
+    "start_time": "2026-08-22T11:15:48.000+08:00",
+    "end_time": "2026-08-22T14:15:48.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "TSN.2.HD.ca2",
+    "live_channel_name": "TSN2 CA",
+    "live_channel_region": "ca",
+    "id": "e9e9d4e5-9134-4de3-a262-4caac301f416",
+    "type": "australian-football",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
+    "league_name": "AFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "TSN2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "FoxSports2.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "112"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "758"
+      }
+    ]
+  },
+  {
+    "title": "Western Bulldogs at Melbourne Demons",
+    "home_team": {
+      "name": "Melbourne Demons",
+      "short_name": "MD",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xvtstv1474039391.png"
+    },
+    "away_team": {
+      "name": "Western Bulldogs",
+      "short_name": "WB",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/e3hg551647870757.png"
+    },
+    "start_time": "2026-08-22T14:15:17.000+08:00",
+    "end_time": "2026-08-22T17:15:17.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "FS1.HD.us2",
+    "live_channel_name": "FS1",
+    "live_channel_region": "us",
+    "id": "20dcbcad-9923-4ad2-b21f-13e23ed2ce42",
+    "type": "australian-football",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
+    "league_name": "AFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "FOX Sports 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "FoxSports1.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "39"
+      }
+    ]
+  },
+  {
+    "title": "Richmond Tigers at Geelong Cats",
+    "home_team": {
+      "name": "Geelong Cats",
+      "short_name": "Geelong Cats",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xapo7t1647870681.png"
+    },
+    "away_team": {
+      "name": "Richmond Tigers",
+      "short_name": "RT",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/xkqlvb1647870792.png"
+    },
+    "start_time": "2026-08-22T17:45:46.000+08:00",
+    "end_time": "2026-08-22T20:45:46.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Fox.Soccer.Plus.HD.us2",
+    "live_channel_name": "FOX Soccer Plus",
+    "live_channel_region": "us",
+    "id": "e3e49671-184d-4903-9c33-a3de2442c584",
+    "type": "australian-football",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
+    "league_name": "AFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Fox Soccer Plus",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "756"
+      }
+    ]
+  },
+  {
+    "title": "Greater Western Sydney Giants at Adelaide Crows",
+    "home_team": {
+      "name": "Adelaide Crows",
+      "short_name": "Adelaide",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/2nh2z01731592341.png"
+    },
+    "away_team": {
+      "name": "Greater Western Sydney Giants",
+      "short_name": "GWSG",
+      "icon_url": "https://r2.thesportsdb.com/images/media/team/badge/ef6rqs1647870839.png"
+    },
+    "start_time": "2026-08-22T18:10:11.000+08:00",
+    "end_time": "2026-08-22T21:10:11.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "iptv-org",
+    "live_channel_id": "FoxSports2.us@HD",
+    "live_channel_name": "Fox Sports 2 (720p)",
+    "live_channel_region": "us",
+    "id": "5faff86b-b2fe-4f9c-83ac-bb850cbba292",
+    "type": "australian-football",
+    "type_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sherrin-transparent.png",
+    "league_name": "AFL",
+    "league_poster_url": "https://a.espncdn.com/i/teamlogos/leagues/500/afl.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Fox Sports 2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "758"
+      }
+    ]
+  },
+  {
+    "title": "Manchester United FC at Hull City AFC",
+    "home_team": {
+      "name": "Hull City AFC",
+      "short_name": "HUL",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+    },
+    "away_team": {
+      "name": "Manchester United FC",
+      "short_name": "MAN",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+    },
+    "start_time": "2026-08-22T19:30:00.000+08:00",
+    "end_time": "2026-08-22T21:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "TNT.Sports.1.HD.uk",
+    "live_channel_name": "TNT Sports 1 UK",
+    "live_channel_region": "uk",
+    "id": "d85ee53e-b6a5-4bb2-a0ac-cb289f9162fc",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "EPL",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "TNT Sports 1",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "31"
+      }
+    ]
+  },
+  {
+    "title": "Castleford Tigers at St Helens",
+    "home_team": {
+      "name": "St Helens",
+      "short_name": "RCL",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/St_Helens_RFC_logo.svg/330px-St_Helens_RFC_logo.svg.png"
+    },
+    "away_team": {
+      "name": "Castleford Tigers",
+      "short_name": "CT",
+      "icon_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Castleford_Tigers_new_logo.png"
+    },
+    "start_time": "2026-08-22T22:00:00.000+08:00",
+    "end_time": "2026-08-23T01:00:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "Sportsnet.World.HD.ca2",
+    "live_channel_name": "SportsNet World CA",
+    "live_channel_region": "ca",
+    "id": "3ea1e503-ff45-4f52-afd5-58d84ddb916f",
+    "type": "rugby",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png",
+    "league_name": "Super League",
+    "league_poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png",
+    "background_url": "https://a.espncdn.com/combiner/i?img=/i/venues/afl/day/1.jpg&w=960&h=540",
+    "verification": {
+      "broadcaster": "Sportsnet World",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "Fox.Soccer.Plus.HD.us2"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "410"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "756"
+      }
+    ]
+  },
+  {
+    "title": "Sevilla at Athletic Club",
+    "home_team": {
+      "name": "Athletic Club",
+      "short_name": "ATH",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+    },
+    "away_team": {
+      "name": "Sevilla",
+      "short_name": "SEV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+    },
+    "start_time": "2026-08-22T23:00:00.000+08:00",
+    "end_time": "2026-08-23T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN2.HD.us2",
+    "live_channel_name": "ESPN2",
+    "live_channel_region": "us",
+    "id": "401882916",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "garysclub",
+        "live_channel_id": "ESPN.Deportes.HD.us2"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "45"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
+  {
+    "title": "Sevilla FC at Athletic Club",
+    "home_team": {
+      "name": "Athletic Club",
+      "short_name": "ATH",
+      "icon_url": "https://crests.football-data.org/77.png"
+    },
+    "away_team": {
+      "name": "Sevilla FC",
+      "short_name": "SEV",
+      "icon_url": "https://crests.football-data.org/559.png"
+    },
+    "start_time": "2026-08-22T23:00:00.000+08:00",
+    "end_time": "2026-08-23T01:15:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN2.HD.us2",
+    "live_channel_name": "ESPN2",
+    "live_channel_region": "us",
+    "id": "9086dbea-2a39-4982-8f33-3cad197284ea",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN2",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "45"
+      }
+    ]
+  },
+  {
+    "title": "Auxerre at Racing Club de Lens",
+    "home_team": {
+      "name": "Racing Club de Lens",
+      "short_name": "RL",
+      "icon_url": "https://crests.football-data.org/546.png"
+    },
+    "away_team": {
+      "name": "Auxerre",
+      "short_name": "AUX",
+      "icon_url": "https://crests.football-data.org/519.png"
+    },
+    "start_time": "2026-08-22T23:15:00.000+08:00",
+    "end_time": "2026-08-23T01:30:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "beIN.Sports.USA.HD.us2",
+    "live_channel_name": "beIN SPORTS",
+    "live_channel_region": "us",
+    "id": "c5b86e5b-5c7e-4f30-a8ea-71d22c6c91e6",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "Ligue 1",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "beIN Sports",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "beINSportsUSA.us@SD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "425"
       }
     ]
   }
