@@ -1,4 +1,50 @@
-[
+[{
+    "title": "Levante at Osasuna",
+    "home_team": {
+      "name": "Osasuna",
+      "short_name": "OSA",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+    },
+    "away_team": {
+      "name": "Levante",
+      "short_name": "LEV",
+      "icon_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+    },
+    "start_time": "2026-08-24T017:00:00.000+08:00",
+    "end_time": "2026-08-24T17:45:00.000+08:00",
+    "end_time_estimated": true,
+    "status": "upcoming",
+    "live_subscription_id": "garysclub",
+    "live_channel_id": "ESPN.Deportes.HD.us2",
+    "live_channel_name": "ESPN Deportes",
+    "live_channel_region": "us",
+    "id": "4018829092",
+    "type": "soccer",
+    "type_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png",
+    "league_name": "La Liga",
+    "league_poster_url": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "background_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium_interior.jpg?width=420",
+    "verification": {
+      "broadcaster": "ESPN Deportes",
+      "forward": true,
+      "reverse": true,
+      "epg_confirmed": true
+    },
+    "backup_channels": [
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@SD"
+      },
+      {
+        "live_subscription_id": "iptv-org",
+        "live_channel_id": "ESPNDeportes.us@HD"
+      },
+      {
+        "live_subscription_id": "zetastream",
+        "live_channel_id": "375"
+      }
+    ]
+  },
   {
     "title": "Levante at Osasuna",
     "home_team": {
